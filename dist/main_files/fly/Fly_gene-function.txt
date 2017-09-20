@@ -1,0 +1,1001 @@
+CG4434	Amino Acid Metabolism	NA	glutamate dehydrogenase [NAD(P)+] activity ; GO:0004353	NA
+Oat	Amino Acid Metabolism	NA	ornithine-oxo-acid transaminase activity ; GO:0004587	NA
+slgA	Amino Acid Metabolism	NA	proline dehydrogenase activity ; GO:0004657	NA
+CG1640	Amino Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+Got2	Amino Acid Metabolism	NA	L-aspartate:2-oxoglutarate aminotransferase activity ; GO:0004069	NA
+Got1	Amino Acid Metabolism	NA	L-aspartate:2-oxoglutarate aminotransferase activity ; GO:0004069	NA
+CG1673	Amino Acid Metabolism	NA	branched-chain-amino-acid transaminase activity ; GO:0004084	NA
+CG42708	Amino Acid Metabolism	NA	glutaminase activity ; GO:0004359	NA
+CG3999	Amino Acid Metabolism	NA	glycine dehydrogenase (decarboxylating) activity ; GO:0004375	NA
+CG15093	Amino Acid Metabolism	NA	3-hydroxyisobutyrate dehydrogenase activity ; GO:0008442	NA
+CG5044	Amino Acid Metabolism	NA	3-hydroxyisobutyryl-CoA hydrolase activity ; GO:0003860	NA
+CG7470	Amino Acid Metabolism	NA	delta1-pyrroline-5-carboxylate synthetase activity ; GO:0017084	NA
+GstZ1	Amino Acid Metabolism	NA	glutathione transferase activity ; GO:0004364	NA
+GstZ2	Amino Acid Metabolism	NA	glutathione transferase activity ; GO:0004364	NA
+CG17896	Amino Acid Metabolism	NA	methylmalonate-semialdehyde dehydrogenase (acylating) activity ; GO:0004491	NA
+CG7433	Amino Acid Metabolism	NA	4-aminobutyrate transaminase activity ; GO:0003867	NA
+Ssadh	Amino Acid Metabolism	NA	succinate-semialdehyde dehydrogenase (NAD+) activity ; GO:0004777	NA
+CG10932	Amino Acid Metabolism	NA	acetyl-CoA C-acetyltransferase activity ; GO:0003985	NA
+CG30022	Amino Acid Metabolism	NA	iron ion binding ; GO:0005506	NA
+CG3267	Amino Acid Metabolism	NA	methylcrotonoyl-CoA carboxylase activity ; GO:0004485	NA
+CG2118	Amino Acid Metabolism	NA	methylcrotonoyl-CoA carboxylase activity ; GO:0004485	NA
+CG8745	Amino Acid Metabolism	NA	alanine-glyoxylate transaminase activity ; GO:0008453	NA
+cn	Amino Acid Metabolism	NA	kynurenine 3-monooxygenase activity ; GO:0004502	NA
+Pcd	Amino Acid Metabolism	NA	4-alpha-hydroxytetrahydrobiopterin dehydratase activity ; GO:0008124	NA
+CG11241	Amino Acid Metabolism	NA	transaminase activity ; GO:0008483	NA
+NitFhit	Amino Acid Metabolism	NA	bis(5'-adenosyl)-triphosphatase activity ; GO:0047710	NA
+CG10399	Amino Acid Metabolism	NA	hydroxymethylglutaryl-CoA lyase activity ; GO:0004419	NA
+CG1315	Amino Acid Metabolism	NA	argininosuccinate synthase activity ; GO:0004055	NA
+Dhpr	Amino Acid Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+Spat	Amino Acid Metabolism	NA	alanine-glyoxylate transaminase activity ; GO:0008453	NA
+ppl	Amino Acid Metabolism	NA	-	NA
+CG34148	Amino Acid Metabolism	NA	-	NA
+CG5793	Amino Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG6321	Amino Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG7550	Amino Acid Metabolism	NA	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen ; GO:0016702	NA
+CG7280	Amino Acid Metabolism	NA	sulfite oxidase activity ; GO:0008482	NA
+Hmgs	Amino Acid Metabolism	NA	hydroxymethylglutaryl-CoA synthase activity ; GO:0004421	NA
+PH4alphaEFB	Amino Acid Metabolism	NA	procollagen-proline 4-dioxygenase activity ; GO:0004656	NA
+CG6950	Amino Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+nrm	Amino Acid Metabolism	NA	molecular_function ; GO:0003674	NA
+CG8132	Amino Acid Metabolism	NA	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds ; GO:0016810	NA
+CG14997	Amino Acid Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+CG7460	Amino Acid Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+CG2604	Amino Acid Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+CG5167	Amino Acid Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+P5cr-2	Amino Acid Metabolism	NA	pyrroline-5-carboxylate reductase activity ; GO:0004735	NA
+CG1140	Amino Acid Metabolism	NA	3-oxoacid CoA-transferase activity ; GO:0008260	NA
+P5CDh2	Amino Acid Metabolism	NA	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor ; GO:0016620	NA
+P5CDh1	Amino Acid Metabolism	NA	1-pyrroline-5-carboxylate dehydrogenase activity ; GO:0003842	NA
+CG6661	Amino Acid Metabolism	NA	1-pyrroline-5-carboxylate dehydrogenase activity ; GO:0003842	NA
+CG6638	Amino Acid Metabolism	NA	isovaleryl-CoA dehydrogenase activity ; GO:0008470	NA
+CG8080	Amino Acid Metabolism	NA	NAD+ kinase activity ; GO:0003951	NA
+P5cr	Amino Acid Metabolism	NA	pyrroline-5-carboxylate reductase activity ; GO:0004735	NA
+CG8199	Amino Acid Metabolism	NA	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity ; GO:0003863	NA
+CG17691	Amino Acid Metabolism	NA	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity ; GO:0003863	NA
+CG8778	Amino Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG5599	Amino Acid Metabolism	NA	dihydrolipoamide branched chain acyltransferase activity ; GO:0004147	NA
+CG1544	Amino Acid Metabolism	NA	thiamine pyrophosphate binding ; GO:0030976	NA
+Gs1	Amino Acid Metabolism	NA	glutamate-ammonia ligase activity ; GO:0004356	NA
+CG1516	Amino Acid Metabolism	NA	pyruvate carboxylase activity ; GO:0004736	NA
+Hsc70-1	Apoptosis	NA	-	NA
+Hsp68	Apoptosis	NA	unfolded protein binding ; GO:0051082	NA
+Trap1	Apoptosis	NA	ATPase activity ; GO:0016887	NA
+Clic	Apoptosis	NA	chloride channel activity ; GO:0005254	NA
+CG30108	Apoptosis	NA	molecular_function ; GO:0003674	NA
+CG30109	Apoptosis	NA	molecular_function ; GO:0003674	NA
+Adk2	Apoptosis	NA	ATP binding ; GO:0005524	NA
+Alr	Apoptosis	NA	thiol oxidase activity ; GO:0016972	NA
+CG1667	Apoptosis	NA	cyclic-di-GMP binding ; GO:0035438	NA
+CG1287	Apoptosis	NA	-	NA
+CG15530	Apoptosis	NA	-	NA
+CG2076	Apoptosis	NA	-	NA
+CG2023	Apoptosis	NA	SNAP receptor activity ; GO:0005484	NA
+S6k	Apoptosis	NA	ATP binding ; GO:0005524	NA
+Hsc70-3	Apoptosis	NA	-	NA
+Hsc70-4	Apoptosis	NA	unfolded protein binding ; GO:0051082	NA
+ctp	Apoptosis	NA	ATPase activity, coupled ; GO:0042623	NA
+CtsB1	Apoptosis	NA	cysteine-type endopeptidase activity ; GO:0004197	NA
+Dredd	Apoptosis	NA	peptidase activator activity involved in apoptotic process ; GO:0016505	NA
+CG5482	Apoptosis	NA	-	NA
+CG7387	Apoptosis	NA	unfolded protein binding ; GO:0051082	NA
+CG8128	Apoptosis	NA	hydrolase activity ; GO:0016787	NA
+CG2862	Apoptosis	NA	catalytic activity ; GO:0003824	NA
+CG5989	Apoptosis	NA	ribosome binding ; GO:0043022	NA
+CG5059	Apoptosis	NA	-	NA
+CG17349	Apoptosis	NA	G-protein coupled receptor binding ; GO:0001664	NA
+CG14798	Apoptosis	NA	-	NA
+CG14130	Apoptosis	NA	molecular_function ; GO:0003674	NA
+Buffy	Apoptosis	NA	molecular_function ; GO:0003674	NA
+grim	Apoptosis	NA	protein homodimerization activity ; GO:0042803	NA
+CG10700	Apoptosis	NA	oxidoreductase activity ; GO:0016491	NA
+CG4199	Apoptosis	NA	2 iron, 2 sulfur cluster binding ; GO:0051537	NA
+l(2)tid	Apoptosis	NA	patched binding ; GO:0005113	NA
+CG2789	Apoptosis	NA	-	NA
+AIF	Apoptosis	NA	flavin adenine dinucleotide binding ; GO:0050660	NA
+CG14806	Apoptosis	NA	molecular_function ; GO:0003674	NA
+HtrA2	Apoptosis	NA	serine-type endopeptidase activity ; GO:0004252	NA
+rpr	Apoptosis	NA	ubiquitin conjugating enzyme binding ; GO:0031624	NA
+CG10920	Apoptosis	NA	-	NA
+Mtch	Apoptosis	NA	-	NA
+Drp1	Apoptosis	NA	GTP binding ; GO:0005525	NA
+prel	Apoptosis	NA	molecular_function ; GO:0003674	NA
+porin	Apoptosis	NA	voltage-gated anion channel activity ; GO:0008308	NA
+larp	Apoptosis	NA	molecular_function ; GO:0003674	NA
+CG9231	Apoptosis	NA	molecular_function ; GO:0003674	NA
+rho-7	Apoptosis	NA	serine-type endopeptidase activity ; GO:0004252	NA
+CG9319	Bile Acid Synthesis	NA	alpha-methylacyl-CoA racemase activity ; GO:0008111	NA
+ScpX	Bile Acid Synthesis	NA	phospholipid transporter activity ; GO:0005548	NA
+CG17597	Bile Acid Synthesis	NA	transferase activity, transferring acyl groups other than amino-acyl groups ; GO:0016747	NA
+Mfe2	Bile Acid Synthesis	NA	enoyl-CoA hydratase activity ; GO:0004300	NA
+Cyp301a1	Bile Acid Synthesis	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Cyp12d1-p	Bile Acid Synthesis	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Cyp12d1-d	Bile Acid Synthesis	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Start1	Bile Acid Synthesis	NA	lipid binding ; GO:0008289	NA
+Cyp49a1	Bile Acid Synthesis	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+CG17715	Calcium Signaling & Transport	NA	-	NA
+CG2970	Calcium Signaling & Transport	NA	-	NA
+Swip-1	Calcium Signaling & Transport	NA	calcium ion binding ; GO:0005509	NA
+Cyp1	Calcium Signaling & Transport	NA	peptidyl-prolyl cis-trans isomerase activity ; GO:0003755	NA
+CG7768	Calcium Signaling & Transport	NA	peptidyl-prolyl cis-trans isomerase activity ; GO:0003755	NA
+CG4495	Calcium Signaling & Transport	NA	calcium ion binding ; GO:0005509	NA
+CG4662	Calcium Signaling & Transport	NA	calcium ion binding ; GO:0005509	NA
+CG4704	Calcium Signaling & Transport	NA	calcium ion binding ; GO:0005509	NA
+aralar1	Calcium Signaling & Transport	NA	calcium ion binding ; GO:0005509	NA
+CG18769	Calcium Signaling & Transport	NA	-	NA
+CG17680	Calcium Signaling & Transport	NA	-	NA
+Letm1	Calcium Signaling & Transport	NA	ribosome binding ; GO:0043022	NA
+CG7718	Cardiolipin Biosynthesis	NA	phosphotransferase activity, for other substituted phosphate groups ; GO:0016780	NA
+zuc	Cardiolipin Biosynthesis	NA	endoribonuclease activity, producing 5'-phosphomonoesters ; GO:0016891	NA
+CLS	Cardiolipin Biosynthesis	NA	cardiolipin synthase activity ; GO:0008808	NA
+Taz	Cardiolipin Biosynthesis	NA	transferase activity, transferring acyl groups ; GO:0016746	NA
+Sirup	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG6629	Electron Transport Chain	NA	succinate dehydrogenase activity ; GO:0000104	NA
+CG13850	Electron Transport Chain	NA	protein kinase activity ; GO:0004672	NA
+CG31643	Electron Transport Chain	NA	protein kinase activity ; GO:0004672	NA
+CG15283	Electron Transport Chain	NA	-	NA
+ECSIT	Electron Transport Chain	NA	oxidoreductase activity, acting on NAD(P)H ; GO:0016651	NA
+CG3608	Electron Transport Chain	NA	ATP binding ; GO:0005524	NA
+CG4042	Electron Transport Chain	NA	-	NA
+l(3)neo43	Electron Transport Chain	NA	-	NA
+CG6115	Electron Transport Chain	NA	-	NA
+CG34117	Electron Transport Chain	NA	-	NA
+CG34150	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG11752	Electron Transport Chain	NA	-	NA
+CG4627	Electron Transport Chain	NA	-	NA
+CG9921	Electron Transport Chain	NA	-	NA
+CG15459	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG15908	Electron Transport Chain	NA	-	NA
+CG10075	Electron Transport Chain	NA	-	NA
+CG3420	Electron Transport Chain	NA	2 iron, 2 sulfur cluster binding ; GO:0051537	NA
+CG43343	Electron Transport Chain	NA	glycerol-3-phosphate dehydrogenase [NAD+] activity ; GO:0004367	NA
+Gpdh	Electron Transport Chain	NA	glycerol-3-phosphate dehydrogenase [NAD+] activity ; GO:0004367	NA
+Nipsnap	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG17904	Electron Transport Chain	NA	iron-sulfur cluster binding ; GO:0051536	NA
+CG3270	Electron Transport Chain	NA	oxidoreductase activity ; GO:0016491	NA
+l(2)37Bb	Electron Transport Chain	NA	oxidoreductase activity ; GO:0016491	NA
+CG17221	Electron Transport Chain	NA	oxidoreductase activity ; GO:0016491	NA
+CG31915	Electron Transport Chain	NA	-	NA
+CG6000	Electron Transport Chain	NA	-	NA
+Etf-QO	Electron Transport Chain	NA	electron-transferring-flavoprotein dehydrogenase activity ; GO:0004174	NA
+CG4942	Electron Transport Chain	NA	-	NA
+CG13551	Electron Transport Chain	NA	ATPase inhibitor activity ; GO:0042030	NA
+CG34423	Electron Transport Chain	NA	ATPase inhibitor activity ; GO:0042030	NA
+CG9350	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+l(2)k14505	Electron Transport Chain	NA	-	NA
+CG5569	Electron Transport Chain	NA	-	NA
+Ccdc56	Electron Transport Chain	NA	-	NA
+CG11562	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG17996	Electron Transport Chain	NA	copper ion binding ; GO:0005507	NA
+CG14898	Electron Transport Chain	NA	-	NA
+CG10340	Electron Transport Chain	NA	-	NA
+CG12895	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG7598	Electron Transport Chain	NA	unfolded protein binding ; GO:0051082	NA
+Ttc19	Electron Transport Chain	NA	-	NA
+CG14757	Electron Transport Chain	NA	copper ion binding ; GO:0005507	NA
+CG11825	Electron Transport Chain	NA	-	NA
+CG9410	Electron Transport Chain	NA	-	NA
+CG17734	Electron Transport Chain	NA	-	NA
+CG40002	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG40472	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG1458	Electron Transport Chain	NA	2 iron, 2 sulfur cluster binding ; GO:0051537	NA
+RFeSP	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG11423	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+CG9140	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG8102	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG9172	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG2014	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG4908	Electron Transport Chain	NA	ATP binding ; GO:0005524	NA
+blw	Electron Transport Chain	NA	ATP binding ; GO:0005524	NA
+CG3262	Electron Transport Chain	NA	ATP binding ; GO:0005524	NA
+CG2137	Electron Transport Chain	NA	glycerol-3-phosphate dehydrogenase activity ; GO:0004368	NA
+Gpo-1	Electron Transport Chain	NA	glycerol-3-phosphate dehydrogenase activity ; GO:0004368	NA
+CG6020	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG9065	Electron Transport Chain	NA	copper chaperone activity ; GO:0016531	NA
+Scox	Electron Transport Chain	NA	copper chaperone activity ; GO:0016531	NA
+CG31648	Electron Transport Chain	NA	copper ion binding ; GO:0005507	NA
+mt:CoII	Electron Transport Chain	NA	copper ion binding ; GO:0005507	NA
+CG11043	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG10396	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG14077	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+cype	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG18809	Electron Transport Chain	NA	-	NA
+mt:CoIII	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG30093	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG42376	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG18193	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG9603	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG34172	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+mt:CoI	Electron Transport Chain	NA	heme binding ; GO:0020037	NA
+levy	Electron Transport Chain	NA	cytochrome-c oxidase activity ; GO:0004129	NA
+CG7834	Electron Transport Chain	NA	electron carrier activity ; GO:0009055	NA
+Cyt-c-d	Electron Transport Chain	NA	electron carrier activity ; GO:0009055	NA
+Cyt-c-p	Electron Transport Chain	NA	heme binding ; GO:0020037	NA
+ND75	Electron Transport Chain	NA	iron-sulfur cluster binding ; GO:0051536	NA
+CG3214	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+mt:Cyt-b	Electron Transport Chain	NA	electron carrier activity ; GO:0009055	NA
+SdhC	Electron Transport Chain	NA	succinate dehydrogenase (ubiquinone) activity ; GO:0008177	NA
+CG14482	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG4769	Electron Transport Chain	NA	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity ; GO:0045153	NA
+CG14508	Electron Transport Chain	NA	electron transporter, transferring electrons within CoQH2-cytochrome c reductase complex activity ; GO:0045153	NA
+CG5718	Electron Transport Chain	NA	flavin adenine dinucleotide binding ; GO:0050660	NA
+CG3835	Electron Transport Chain	NA	(R)-2-hydroxyglutarate dehydrogenase activity ; GO:0051990	NA
+CG3215	Electron Transport Chain	NA	glycerol-3-phosphate dehydrogenase [NAD+] activity ; GO:0004367	NA
+CG7311	Electron Transport Chain	NA	glycerol-3-phosphate dehydrogenase activity ; GO:0004368	NA
+Surf1	Electron Transport Chain	NA	heme transporter activity ; GO:0015232	NA
+Cchl	Electron Transport Chain	NA	holocytochrome-c synthase activity ; GO:0004408	NA
+Neb-cGP	Electron Transport Chain	NA	hormone activity ; GO:0005179	NA
+CG12027	Electron Transport Chain	NA	hydrogen ion transmembrane transporter activity ; GO:0015078	NA
+mt:ATPase8	Electron Transport Chain	NA	hydrogen ion transmembrane transporter activity ; GO:0015078	NA
+CG7211	Electron Transport Chain	NA	proton-transporting ATP synthase activity, rotational mechanism ; GO:0046933	NA
+CG7813	Electron Transport Chain	NA	hydrogen ion transmembrane transporter activity ; GO:0015078	NA
+CG4692	Electron Transport Chain	NA	ATPase activity ; GO:0016887	NA
+CG3321	Electron Transport Chain	NA	proton-transporting ATP synthase activity, rotational mechanism ; GO:0046933	NA
+CG1746	Electron Transport Chain	NA	proton-transporting ATP synthase activity, rotational mechanism ; GO:0046933	NA
+CG10731	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+mt:ATPase6	Electron Transport Chain	NA	proton-transporting ATP synthase activity, rotational mechanism ; GO:0046933	NA
+sun	Electron Transport Chain	NA	proton-transporting ATP synthase activity, rotational mechanism ; GO:0046933	NA
+CG31477	Electron Transport Chain	NA	proton-transporting ATP synthase activity, rotational mechanism ; GO:0046933	NA
+CG3731	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG4169	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG7506	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG11722	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG17726	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+NP15.6	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+l(3)87Df	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG34439	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+sicily	Electron Transport Chain	NA	transferase activity ; GO:0016740	NA
+CG11913	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG1970	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG12203	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+CG8680	Electron Transport Chain	NA	-	NA
+CG6914	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+mt:ND1	Electron Transport Chain	NA	-	NA
+mt:ND2	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+mt:ND3	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+mt:ND4	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+mt:ND5	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+mt:ND6	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity ; GO:0008137	NA
+CG3621	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG3192	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG5548	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG5703	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG12400	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG9306	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG7712	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG12859	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG6463	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+CG6485	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+mt:ND4L	Electron Transport Chain	NA	oxidoreductase activity, acting on NAD(P)H ; GO:0016651	NA
+CG3446	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG18624	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG11455	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG10320	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG15434	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG32230	Electron Transport Chain	NA	NADH dehydrogenase activity ; GO:0003954	NA
+CG3803	Electron Transport Chain	NA	oxidoreductase activity, acting on the CH-CH group of donors ; GO:0016627	NA
+CG3776	Electron Transport Chain	NA	protein binding ; GO:0005515	NA
+CG32649	Electron Transport Chain	NA	protein kinase activity ; GO:0004672	NA
+CG6404	Electron Transport Chain	NA	-	NA
+CG5037	Electron Transport Chain	NA	protoheme IX farnesyltransferase activity ; GO:0008495	NA
+CG17300	Electron Transport Chain	NA	hydrogen ion transmembrane transporter activity ; GO:0015078	NA
+VhaAC45	Electron Transport Chain	NA	proton-transporting ATPase activity, rotational mechanism ; GO:0046961	NA
+Vha26	Electron Transport Chain	NA	proton-transporting ATPase activity, rotational mechanism ; GO:0046961	NA
+CG10219	Electron Transport Chain	NA	succinate dehydrogenase (ubiquinone) activity ; GO:0008177	NA
+CG3560	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG17856	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+ox	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG30354	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG7580	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity ; GO:0008121	NA
+CG4858	Electron Transport Chain	NA	ATP binding ; GO:0005524	NA
+CG8067	Electron Transport Chain	NA	methyltransferase activity ; GO:0008168	NA
+hd	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+wal	Electron Transport Chain	NA	electron carrier activity ; GO:0009055	NA
+Egm	Electron Transport Chain	NA	oxidoreductase activity, acting on the CH-CH group of donors ; GO:0016627	NA
+CG15653	Electron Transport Chain	NA	-	NA
+CG15458	Electron Transport Chain	NA	molecular_function ; GO:0003674	NA
+SdhB	Electron Transport Chain	NA	succinate dehydrogenase (ubiquinone) activity ; GO:0008177	NA
+CG7349	Electron Transport Chain	NA	oxidoreductase activity ; GO:0016491	NA
+SdhA	Electron Transport Chain	NA	succinate dehydrogenase (ubiquinone) activity ; GO:0008177	NA
+CG3523	Fatty Acid Biosynthesis	NA	oleoyl-[acyl-carrier-protein] hydrolase activity ; GO:0004320	NA
+CG17374	Fatty Acid Biosynthesis	NA	transferase activity ; GO:0016740	NA
+CG3961	Fatty Acid Biosynthesis	NA	long-chain fatty acid-CoA ligase activity ; GO:0004467	NA
+CG6984	Fatty Acid Biosynthesis	NA	catalytic activity ; GO:0003824	NA
+CG16985	Fatty Acid Biosynthesis	NA	acyl-CoA hydrolase activity ; GO:0047617	NA
+CG16986	Fatty Acid Biosynthesis	NA	acyl-CoA hydrolase activity ; GO:0047617	NA
+CG3699	Fatty Acid Biosynthesis	NA	2,4-dienoyl-CoA reductase (NADPH) activity ; GO:0008670	NA
+CG9993	Fatty Acid Biosynthesis	NA	catalytic activity ; GO:0003824	NA
+CG12170	Fatty Acid Biosynthesis	NA	transferase activity, transferring acyl groups other than amino-acyl groups ; GO:0016747	NA
+beg	Fatty Acid Biosynthesis	NA	[acyl-carrier-protein] S-malonyltransferase activity ; GO:0004314	NA
+Tpc1	Fatty Acid Biosynthesis	NA	thiamine pyrophosphate-transporting ATPase activity ; GO:0015619	NA
+CG9149	Fatty Acid Degradation	NA	acetyl-CoA C-acyltransferase activity ; GO:0003988	NA
+Aldh	Fatty Acid Degradation	NA	aldehyde dehydrogenase (NAD) activity ; GO:0004029	NA
+CG31075	Fatty Acid Degradation	NA	aldehyde dehydrogenase (NAD) activity ; GO:0004029	NA
+CG5009	Fatty Acid Degradation	NA	acyl-CoA dehydrogenase activity ; GO:0003995	NA
+CG17544	Fatty Acid Degradation	NA	acyl-CoA dehydrogenase activity ; GO:0003995	NA
+Aldh-III	Fatty Acid Degradation	NA	aldehyde dehydrogenase [NAD(P)+] activity ; GO:0004030	NA
+whd	Fatty Acid Degradation	NA	transferase activity, transferring acyl groups ; GO:0016746	NA
+Acsl	Fatty Acid Degradation	NA	long-chain fatty acid-CoA ligase activity ; GO:0004467	NA
+CG5611	Fatty Acid Degradation	NA	catalytic activity ; GO:0003824	NA
+CG5844	Fatty Acid Degradation	NA	catalytic activity ; GO:0003824	NA
+bgm	Fatty Acid Degradation	NA	long-chain fatty acid-CoA ligase activity ; GO:0004467	NA
+CG9547	Fatty Acid Degradation	NA	glutaryl-CoA dehydrogenase activity ; GO:0004361	NA
+CG2107	Fatty Acid Degradation	NA	transferase activity, transferring acyl groups ; GO:0016746	NA
+CG3902	Fatty Acid Degradation	NA	acyl-CoA dehydrogenase activity ; GO:0003995	NA
+CG12262	Fatty Acid Degradation	NA	acyl-CoA dehydrogenase activity ; GO:0003995	NA
+CG4860	Fatty Acid Degradation	NA	flavin adenine dinucleotide binding ; GO:0050660	NA
+Arc42	Fatty Acid Degradation	NA	acyl-CoA dehydrogenase activity ; GO:0003995	NA
+CG9577	Fatty Acid Degradation	NA	catalytic activity ; GO:0003824	NA
+CG4598	Fatty Acid Degradation	NA	catalytic activity ; GO:0003824	NA
+CG4594	Fatty Acid Degradation	NA	catalytic activity ; GO:0003824	NA
+CG4592	Fatty Acid Degradation	NA	catalytic activity ; GO:0003824	NA
+CG7461	Fatty Acid Degradation	NA	acyl-CoA dehydrogenase activity ; GO:0003995	NA
+Adh	Fatty Acid Degradation	NA	alcohol dehydrogenase (NAD) activity ; GO:0004022	NA
+Fdh	Fatty Acid Degradation	NA	S-(hydroxymethyl)glutathione dehydrogenase activity ; GO:0051903	NA
+CG16935	Fatty Acid Elongation	NA	trans-2-enoyl-CoA reductase (NADPH) activity ; GO:0019166	NA
+Mtpalpha	Fatty Acid Elongation	NA	long-chain-3-hydroxyacyl-CoA dehydrogenase activity ; GO:0016509	NA
+CG10131	Fatty Acid Elongation	NA	3-hydroxyacyl-CoA dehydrogenase activity ; GO:0003857	NA
+Thiolase	Fatty Acid Elongation	NA	transferase activity, transferring acyl groups other than amino-acyl groups ; GO:0016747	NA
+CG6543	Fatty Acid Elongation	NA	enoyl-CoA hydratase activity ; GO:0004300	NA
+CG1635	Fatty Acid Metabolism	NA	acyl-CoA hydrolase activity ; GO:0047617	NA
+CG1774	Fatty Acid Metabolism	NA	acyl-CoA hydrolase activity ; GO:0047617	NA
+CG5265	Fatty Acid Metabolism	NA	carnitine O-acetyltransferase activity ; GO:0004092	NA
+CG13771	Fatty Acid Metabolism	NA	-	NA
+CG1638	Fatty Acid Metabolism	NA	-	NA
+CG18815	Fatty Acid Metabolism	NA	carboxylic ester hydrolase activity ; GO:0052689	NA
+CG11659	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG11407	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+Mulk	Fatty Acid Metabolism	NA	ceramide kinase activity ; GO:0001729	NA
+CG6178	Fatty Acid Metabolism	NA	luciferin monooxygenase activity ; GO:0045289	NA
+CG18155	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+pdgy	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG12512	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG8888	Fatty Acid Metabolism	NA	-	NA
+CG7920	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG1041	Fatty Acid Metabolism	NA	carnitine O-acetyltransferase activity ; GO:0004092	NA
+CG9147	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG6432	Fatty Acid Metabolism	NA	catalytic activity ; GO:0003824	NA
+CG3476	Fatty Acid Metabolism	NA	carnitine:acyl carnitine antiporter activity ; GO:0005476	NA
+colt	Fatty Acid Metabolism	NA	carnitine:acyl carnitine antiporter activity ; GO:0005476	NA
+Hsc20	Fe-S cluster biosynthesis	NA	molecular_function ; GO:0003674	NA
+dare	Fe-S cluster biosynthesis	NA	NADPH-adrenodoxin reductase activity ; GO:0015039	NA
+Qtzl	Fe-S cluster biosynthesis	NA	-	NA
+bcn92	Fe-S cluster biosynthesis	NA	molecular_function ; GO:0003674	NA
+CG8043	Fe-S cluster biosynthesis	NA	poly(A) RNA binding ; GO:0044822	NA
+CG12264	Fe-S cluster biosynthesis	NA	cystathionine gamma-lyase activity ; GO:0004123	NA
+CG9836	Fe-S cluster biosynthesis	NA	iron-sulfur cluster binding ; GO:0051536	NA
+CG13623	Fe-S cluster biosynthesis	NA	iron-sulfur cluster binding ; GO:0051536	NA
+CG33502	Fe-S cluster biosynthesis	NA	molecular_function ; GO:0003674	NA
+CG32857	Fe-S cluster biosynthesis	NA	iron-sulfur cluster binding ; GO:0051536	NA
+CG32500	Fe-S cluster biosynthesis	NA	iron-sulfur cluster binding ; GO:0051536	NA
+fh	Fe-S cluster biosynthesis	NA	iron chaperone activity ; GO:0034986	NA
+mfrn	Fe-S cluster biosynthesis	NA	-	NA
+Nmdmc	Folate & Pterine Metabolism	NA	methenyltetrahydrofolate cyclohydrolase activity ; GO:0004477	NA
+CG3011	Folate & Pterine Metabolism	NA	glycine hydroxymethyltransferase activity ; GO:0004372	NA
+CG2543	Folate & Pterine Metabolism	NA	tetrahydrofolylpolyglutamate synthase activity ; GO:0004326	NA
+CG31773	Folate & Pterine Metabolism	NA	tetrahydrofolylpolyglutamate synthase activity ; GO:0004326	NA
+pug	Folate & Pterine Metabolism	NA	methylenetetrahydrofolate dehydrogenase (NADP+) activity ; GO:0004488	NA
+Dhfr	Folate & Pterine Metabolism	NA	dihydrofolate reductase activity ; GO:0004146	NA
+CG8665	Folate & Pterine Metabolism	NA	formyltetrahydrofolate dehydrogenase activity ; GO:0016155	NA
+CG34424	Folate & Pterine Metabolism	NA	5-formyltetrahydrofolate cyclo-ligase activity ; GO:0030272	NA
+CG8026	Folate & Pterine Metabolism	NA	folic acid transporter activity ; GO:0008517	NA
+CG9886	Fructose Metabolism	NA	glycerate kinase activity ; GO:0008887	NA
+CG4836	Fructose Metabolism	NA	-	NA
+CG6084	Fructose Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+Hex-t2	Glycolysis	NA	ATP binding ; GO:0005524	NA
+Hex-C	Glycolysis	NA	hexokinase activity ; GO:0004396	NA
+Hex-A	Glycolysis	NA	hexokinase activity ; GO:0004396	NA
+Hex-t1	Glycolysis	NA	ATP binding ; GO:0005524	NA
+Ald	Glycolysis	NA	fructose-bisphosphate aldolase activity ; GO:0004332	NA
+Pgm	Glycolysis	NA	phosphoglucomutase activity ; GO:0004614	NA
+Pgk	Glycolysis	NA	phosphoglycerate kinase activity ; GO:0004618	NA
+Gapdh1	Glycolysis	NA	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity ; GO:0004365	NA
+Gapdh2	Glycolysis	NA	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity ; GO:0004365	NA
+Eno	Glycolysis	NA	phosphopyruvate hydratase activity ; GO:0004634	NA
+Pgi	Glycolysis	NA	glucose-6-phosphate isomerase activity ; GO:0004347	NA
+Pfk	Glycolysis	NA	6-phosphofructokinase activity ; GO:0003872	NA
+Pglym87	Glycolysis	NA	phosphoglycerate mutase activity ; GO:0004619	NA
+Pp2A-29B	Glycolysis	NA	protein phosphatase regulator activity ; GO:0019888	NA
+Tpi	Glycolysis	NA	triose-phosphate isomerase activity ; GO:0004807	NA
+mts	Glycolysis	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+PP2A-B'	Glycolysis	NA	protein phosphatase regulator activity ; GO:0019888	NA
+CG10202	Glycolysis	NA	intramolecular transferase activity, phosphotransferases ; GO:0016868	NA
+Pmm45A	Glycolysis	NA	intramolecular transferase activity, phosphotransferases ; GO:0016868	NA
+G6P	Glycolysis	NA	-	NA
+CG6650	Glycolysis	NA	phosphotransferase activity, alcohol group as acceptor ; GO:0016773	NA
+CG10467	Glycolysis	NA	isomerase activity ; GO:0016853	NA
+CG10996	Glycolysis	NA	isomerase activity ; GO:0016853	NA
+CG32444	Glycolysis	NA	isomerase activity ; GO:0016853	NA
+CG9008	Glycolysis	NA	isomerase activity ; GO:0016853	NA
+fbp	Glycolysis	NA	fructose 1,6-bisphosphate 1-phosphatase activity ; GO:0042132	NA
+CG5432	Glycolysis	NA	fructose-bisphosphate aldolase activity ; GO:0004332	NA
+CG9010	Glycolysis	NA	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor ; GO:0016620	NA
+CG9961	Glycolysis	NA	phosphoglycerate kinase activity ; GO:0004618	NA
+Pglym78	Glycolysis	NA	phosphoglycerate mutase activity ; GO:0004619	NA
+Mipp1	Glycolysis	NA	bisphosphoglycerate 3-phosphatase activity ; GO:0034417	NA
+Mipp2	Glycolysis	NA	bisphosphoglycerate 3-phosphatase activity ; GO:0034417	NA
+CG4538	Heme Biosynthesis	NA	serine-type endopeptidase activity ; GO:0004252	NA
+Fer3HCH	Heme Biosynthesis	NA	ferric iron binding ; GO:0008199	NA
+Fer2LCH	Heme Biosynthesis	NA	ferrous iron binding ; GO:0008198	NA
+Fer1HCH	Heme Biosynthesis	NA	ferrous iron binding ; GO:0008198	NA
+FeCH	Heme Biosynthesis	NA	ferrochelatase activity ; GO:0004325	NA
+CG1319	Heme Biosynthesis	NA	electron carrier activity ; GO:0009055	NA
+Alas	Heme Biosynthesis	NA	5-aminolevulinate synthase activity ; GO:0003870	NA
+Coprox	Heme Biosynthesis	NA	coproporphyrinogen oxidase activity ; GO:0004109	NA
+Ppox	Heme Biosynthesis	NA	oxygen-dependent protoporphyrinogen oxidase activity ; GO:0004729	NA
+CG1885	Heme Biosynthesis	NA	uroporphyrinogen-III synthase activity ; GO:0004852	NA
+CG10361	Heme Biosynthesis	NA	glycine C-acetyltransferase activity ; GO:0008890	NA
+Hsc70-5	Import & Sorting	NA	unfolded protein binding ; GO:0051082	NA
+Hsp60C	Import & Sorting	NA	ATP binding ; GO:0005524	NA
+Hsp60D	Import & Sorting	NA	ATP binding ; GO:0005524	NA
+Hsp60B	Import & Sorting	NA	unfolded protein binding ; GO:0051082	NA
+CG11267	Import & Sorting	NA	-	NA
+CG9920	Import & Sorting	NA	-	NA
+CG12379	Import & Sorting	NA	zinc ion binding ; GO:0008270	NA
+CG8206	Import & Sorting	NA	zinc ion binding ; GO:0008270	NA
+CG12118	Import & Sorting	NA	-	NA
+CG8728	Import & Sorting	NA	metalloendopeptidase activity ; GO:0004222	NA
+CG7791	Import & Sorting	NA	metalloendopeptidase activity ; GO:0004222	NA
+CG13630	Import & Sorting	NA	aminopeptidase activity ; GO:0004177	NA
+CG9281	Import & Sorting	NA	ATPase activity ; GO:0016887	NA
+CG7950	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG4186	Import & Sorting	NA	-	NA
+CG32727	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG14270	Import & Sorting	NA	-	NA
+Atg9	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG34317	Import & Sorting	NA	ribonuclease activity ; GO:0004540	NA
+CG7382	Import & Sorting	NA	-	NA
+spag	Import & Sorting	NA	Hsp70 protein binding ; GO:0030544	NA
+CG33331	Import & Sorting	NA	phosphatidate cytidylyltransferase activity ; GO:0004605	NA
+CG9240	Import & Sorting	NA	serine-type peptidase activity ; GO:0008236	NA
+CG11110	Import & Sorting	NA	serine-type peptidase activity ; GO:0008236	NA
+CG5662	Import & Sorting	NA	-	NA
+CG8004	Import & Sorting	NA	-	NA
+CG9393	Import & Sorting	NA	-	NA
+Tim17b	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+CG1409	Import & Sorting	NA	-	NA
+CG4520	Import & Sorting	NA	-	NA
+CG40042	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG34132	Import & Sorting	NA	protein transporter activity ; GO:0008565	NA
+CG7394	Import & Sorting	NA	ATPase activator activity ; GO:0001671	NA
+CG42302	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+Roe1	Import & Sorting	NA	unfolded protein binding ; GO:0051082	NA
+CG1847	Import & Sorting	NA	-	NA
+Hmt-1	Import & Sorting	NA	ATPase activity, coupled to transmembrane movement of substances ; GO:0042626	NA
+ABCB7	Import & Sorting	NA	ATPase activity, coupled to transmembrane movement of substances ; GO:0042626	NA
+CG3156	Import & Sorting	NA	ATPase activity, coupled to transmembrane movement of substances ; GO:0042626	NA
+CG1824	Import & Sorting	NA	ATPase activity, coupled to transmembrane movement of substances ; GO:0042626	NA
+Porin2	Import & Sorting	NA	cation channel activity ; GO:0005261	NA
+CG6812	Import & Sorting	NA	ion transmembrane transporter activity ; GO:0015075	NA
+CG11739	Import & Sorting	NA	ion transmembrane transporter activity ; GO:0015075	NA
+CG17139	Import & Sorting	NA	channel activity ; GO:0015267	NA
+CG17140	Import & Sorting	NA	channel activity ; GO:0015267	NA
+ttm50	Import & Sorting	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+ttm3	Import & Sorting	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+ttm2	Import & Sorting	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+blp	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+Tim8	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim9a	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+CG1724	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tom70	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+tomboy40	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tom7	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim10	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+mge	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim13	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tom20	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim17a2	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim17b1	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+tomboy20	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+CG11779	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim17b2	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tom40	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+CG31229	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim9b	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+Tim17a1	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity ; GO:0015450	NA
+140up	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG7639	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG31008	Import & Sorting	NA	sequence-specific DNA binding ; GO:0043565	NA
+CG5010	Import & Sorting	NA	-	NA
+CG31007	Import & Sorting	NA	molecular_function ; GO:0003674	NA
+CG44242	Lipoic Acid Metabolism	NA	molecular_function ; GO:0003674	NA
+CG44243	Lipoic Acid Metabolism	NA	lipoyltransferase activity ; GO:0017118	NA
+Las	Lipoic Acid Metabolism	NA	lipoate synthase activity ; GO:0016992	NA
+CG9804	Lipoic Acid Metabolism	NA	octanoyltransferase activity ; GO:0016415	NA
+CG5991	Metabolism of Lipids & Lipoproteins	NA	phosphatidylserine decarboxylase activity ; GO:0004609	NA
+CG13601	Metabolism of Lipids & Lipoproteins	NA	molecular_function ; GO:0003674	NA
+sad	Metabolism of Lipids & Lipoproteins	NA	ecdysteroid 2-hydroxylase activity ; GO:0042768	NA
+mino	Metabolism of Lipids & Lipoproteins	NA	glycerol-3-phosphate O-acyltransferase activity ; GO:0004366	NA
+CG2767	Metabolism of Lipids & Lipoproteins	NA	oxidoreductase activity ; GO:0016491	NA
+CG6385	Metabolism of Lipids & Lipoproteins	NA	oxidoreductase activity ; GO:0016491	NA
+CG7724	Metabolism of Lipids & Lipoproteins	NA	3-beta-hydroxy-delta5-steroid dehydrogenase activity ; GO:0003854	NA
+CG43998	Metabolism of Lipids & Lipoproteins	NA	molecular_function ; GO:0003674	NA
+CG9449	Metabolism of Lipids & Lipoproteins	NA	acid phosphatase activity ; GO:0003993	NA
+CG9451	Metabolism of Lipids & Lipoproteins	NA	acid phosphatase activity ; GO:0003993	NA
+CG6656	Metabolism of Lipids & Lipoproteins	NA	acid phosphatase activity ; GO:0003993	NA
+CG2316	Metabolism of Lipids & Lipoproteins	NA	ATPase activity, coupled to transmembrane movement of substances ; GO:0042626	NA
+Fpps	Metabolism of Lipids & Lipoproteins	NA	geranyltranstransferase activity ; GO:0004337	NA
+CG10195	Metabolism of Lipids & Lipoproteins	NA	hydrolase activity ; GO:0016787	NA
+CG10194	Metabolism of Lipids & Lipoproteins	NA	hydrolase activity ; GO:0016787	NA
+CG18094	Metabolism of Lipids & Lipoproteins	NA	hydrolase activity ; GO:0016787	NA
+slmo	Metabolism of Lipids & Lipoproteins	NA	molecular_function ; GO:0003674	NA
+CdsA	Metabolism of Lipids & Lipoproteins	NA	phosphatidate cytidylyltransferase activity ; GO:0004605	NA
+shd	Metabolism of Vitamins & Co-Factors	NA	ecdysone 20-monooxygenase activity ; GO:0004501	NA
+dib	Metabolism of Vitamins & Co-Factors	NA	electron carrier activity ; GO:0009055	NA
+CG10424	Metabolism of Vitamins & Co-Factors	NA	ADP-dependent NAD(P)H-hydrate dehydratase activity ; GO:0052855	NA
+Ppat-Dpck	Metabolism of Vitamins & Co-Factors	NA	dephospho-CoA kinase activity ; GO:0004140	NA
+fbl	Metabolism of Vitamins & Co-Factors	NA	pantothenate kinase activity ; GO:0004594	NA
+CG3566	Metabolism of Vitamins & Co-Factors	NA	-	NA
+CG5157	Metabolism of Vitamins & Co-Factors	NA	heme binding ; GO:0020037	NA
+Cyp12b2	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Cyp12c1	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Cyp12e1	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Cyp12a5	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+Cyp12a4	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen ; GO:0016705	NA
+CG42556	Metabolism of Vitamins & Co-Factors	NA	molecular_function ; GO:0003674	NA
+CG3603	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity ; GO:0016491	NA
+CG10672	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity ; GO:0016491	NA
+CG12171	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity ; GO:0016491	NA
+CG2846	Metabolism of Vitamins & Co-Factors	NA	riboflavin kinase activity ; GO:0008531	NA
+CG9090	Mitochondrial Carrier	NA	phosphate ion transmembrane transporter activity ; GO:0015114	NA
+CG16736	Mitochondrial Carrier	NA	-	NA
+Mal-A1	Mitochondrial Carrier	NA	catalytic activity ; GO:0003824	NA
+Mal-A7	Mitochondrial Carrier	NA	catalytic activity ; GO:0003824	NA
+Mal-A8	Mitochondrial Carrier	NA	catalytic activity ; GO:0003824	NA
+CG32103	Mitochondrial Carrier	NA	calcium ion binding ; GO:0005509	NA
+Mal-A5	Mitochondrial Carrier	NA	catalytic activity ; GO:0003824	NA
+Mal-A6	Mitochondrial Carrier	NA	catalytic activity ; GO:0003824	NA
+Orct2	Mitochondrial Carrier	NA	organic cation transmembrane transporter activity ; GO:0015101	NA
+CG6893	Mitochondrial Carrier	NA	-	NA
+CG1311	Mitochondrial Carrier	NA	molecular_function ; GO:0003674	NA
+Orct	Mitochondrial Carrier	NA	organic cation transmembrane transporter activity ; GO:0015101	NA
+CG7514	Mitochondrial Carrier	NA	oxoglutarate:malate antiporter activity ; GO:0015367	NA
+CG18418	Mitochondrial Carrier	NA	oxoglutarate:malate antiporter activity ; GO:0015367	NA
+Dic2	Mitochondrial Carrier	NA	-	NA
+CG1907	Mitochondrial Carrier	NA	oxoglutarate:malate antiporter activity ; GO:0015367	NA
+CG12201	Mitochondrial Carrier	NA	high-affinity glutamate transmembrane transporter activity ; GO:0005314	NA
+CG1628	Mitochondrial Carrier	NA	L-ornithine transmembrane transporter activity ; GO:0000064	NA
+Dic1	Mitochondrial Carrier	NA	malate transmembrane transporter activity ; GO:0015140	NA
+Dic3	Mitochondrial Carrier	NA	inorganic phosphate transmembrane transporter activity ; GO:0005315	NA
+Dic4	Mitochondrial Carrier	NA	dicarboxylic acid transmembrane transporter activity ; GO:0005310	NA
+dmGlut	Mitochondrial Carrier	NA	high-affinity glutamate transmembrane transporter activity ; GO:0005314	NA
+Ucp4C	Mitochondrial Carrier	NA	oxidative phosphorylation uncoupler activity ; GO:0017077	NA
+Ucp4B	Mitochondrial Carrier	NA	oxidative phosphorylation uncoupler activity ; GO:0017077	NA
+Mpcp	Mitochondrial Carrier	NA	phosphate ion transmembrane transporter activity ; GO:0015114	NA
+CG18317	Mitochondrial Carrier	NA	-	NA
+CG4995	Mitochondrial Carrier	NA	-	NA
+CG8323	Mitochondrial Carrier	NA	-	NA
+CG18327	Mitochondrial Carrier	NA	-	NA
+CG18324	Mitochondrial Carrier	NA	-	NA
+Bmcp	Mitochondrial Carrier	NA	transmembrane transporter activity ; GO:0022857	NA
+CG2616	Mitochondrial Carrier	NA	-	NA
+CG18347	Mitochondrial Carrier	NA	high-affinity glutamate transmembrane transporter activity ; GO:0005314	NA
+att-ORFA	Mitochondrial Carrier	NA	-	NA
+CG5805	Mitochondrial Carrier	NA	-	NA
+CG4743	Mitochondrial Carrier	NA	S-adenosyl-L-methionine transmembrane transporter activity ; GO:0000095	NA
+CG5646	Mitochondrial Carrier	NA	transmembrane transporter activity ; GO:0022857	NA
+CG7943	Mitochondrial Carrier	NA	-	NA
+Tyler	Mitochondrial Carrier	NA	-	NA
+Shawn	Mitochondrial Carrier	NA	transmembrane transporter activity ; GO:0022857	NA
+sea	Mitochondrial Carrier	NA	-	NA
+CG9582	Mitochondrial Carrier	NA	-	NA
+Tpc2	Mitochondrial Carrier	NA	thiamine pyrophosphate-transporting ATPase activity ; GO:0015619	NA
+CG5254	Mitochondrial Carrier	NA	-	NA
+Ucp4A	Mitochondrial Carrier	NA	oxidative phosphorylation uncoupler activity ; GO:0017077	NA
+CG3016	Mitochondrial Dynamics	NA	thiol-dependent ubiquitin-specific protease activity ; GO:0004843	NA
+CG14043	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG16781	Mitochondrial Dynamics	NA	zinc ion binding ; GO:0008270	NA
+CG10761	Mitochondrial Dynamics	NA	ubiquitin-protein transferase activity ; GO:0004842	NA
+CG9855	Mitochondrial Dynamics	NA	zinc ion binding ; GO:0008270	NA
+CG17991	Mitochondrial Dynamics	NA	zinc ion binding ; GO:0008270	NA
+CG13295	Mitochondrial Dynamics	NA	-	NA
+CG6333	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG2854	Mitochondrial Dynamics	NA	-	NA
+shi	Mitochondrial Dynamics	NA	GTPase activity ; GO:0003924	NA
+CG9101	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+Tango11	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+Pgam5-2	Mitochondrial Dynamics	NA	phosphoprotein phosphatase activity ; GO:0004721	NA
+CG8531	Mitochondrial Dynamics	NA	ATPase activator activity ; GO:0001671	NA
+CG8931	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG5755	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+Pink1	Mitochondrial Dynamics	NA	protein binding ; GO:0005515	NA
+sesB	Mitochondrial Dynamics	NA	ATP:ADP antiporter activity ; GO:0005471	NA
+Ant2	Mitochondrial Dynamics	NA	ATP:ADP antiporter activity ; GO:0005471	NA
+CG12511	Mitochondrial Dynamics	NA	-	NA
+CG5676	Mitochondrial Dynamics	NA	-	NA
+Fis1	Mitochondrial Dynamics	NA	-	NA
+CG7772	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG4623	Mitochondrial Dynamics	NA	-	NA
+CG7603	Mitochondrial Dynamics	NA	-	NA
+CG5903	Mitochondrial Dynamics	NA	-	NA
+CG3499	Mitochondrial Dynamics	NA	metalloendopeptidase activity ; GO:0004222	NA
+CG2658	Mitochondrial Dynamics	NA	ATPase activity ; GO:0016887	NA
+CG6512	Mitochondrial Dynamics	NA	metalloendopeptidase activity ; GO:0004222	NA
+Marf	Mitochondrial Dynamics	NA	GTPase activity ; GO:0003924	NA
+fzo	Mitochondrial Dynamics	NA	GTPase activity ; GO:0003924	NA
+milt	Mitochondrial Dynamics	NA	myosin binding ; GO:0017022	NA
+mst	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG13564	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG6455	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG12479	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+CG41128	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+Pmi	Mitochondrial Dynamics	NA	molecular_function ; GO:0003674	NA
+Pgam5	Mitochondrial Dynamics	NA	protein binding ; GO:0005515	NA
+pkaap	Mitochondrial Signaling	NA	-	NA
+CG2974	Mitochondrial Signaling	NA	molecular_function ; GO:0003674	NA
+Miro	Mitochondrial Signaling	NA	GTPase activity ; GO:0003924	NA
+Shc	Mitochondrial Signaling	NA	-	NA
+Src64B	Mitochondrial Signaling	NA	protein tyrosine kinase activity ; GO:0004713	NA
+Tor	Mitochondrial Signaling	NA	protein kinase activity ; GO:0004672	NA
+Ide	Mitochondrial Signaling	NA	metalloendopeptidase activity ; GO:0004222	NA
+CG18812	Mitochondrial Signaling	NA	molecular_function ; GO:0003674	NA
+Sirt4	Mitochondrial Signaling	NA	NAD+ binding ; GO:0070403	NA
+spoon	Mitochondrial Signaling	NA	RNA binding ; GO:0003723	NA
+r	Nitrogen Metabolism	NA	dihydroorotase activity ; GO:0004151	NA
+CAH2	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG1764	Nitrogen Metabolism	NA	-	NA
+arg	Nitrogen Metabolism	NA	arginase activity ; GO:0004053	NA
+CG9235	Nitrogen Metabolism	NA	-	NA
+CAH1	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+caix	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG5379	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG3940	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG3669	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG18673	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG18672	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+CG12309	Nitrogen Metabolism	NA	-	NA
+CG11284	Nitrogen Metabolism	NA	-	NA
+CG10899	Nitrogen Metabolism	NA	carbonate dehydratase activity ; GO:0004089	NA
+Gdh	Nitrogen Metabolism	NA	glutamate dehydrogenase [NAD(P)+] activity ; GO:0004353	NA
+CG9674	Nitrogen Metabolism	NA	iron-sulfur cluster binding ; GO:0051536	NA
+Gs2	Nitrogen Metabolism	NA	glutamate-ammonia ligase activity ; GO:0004356	NA
+CG5757	Nucleotide Metabolism	NA	ATP binding ; GO:0005524	NA
+Adk3	Nucleotide Metabolism	NA	nucleoside triphosphate adenylate kinase activity ; GO:0046899	NA
+Dhod	Nucleotide Metabolism	NA	dihydroorotate dehydrogenase activity ; GO:0004152	NA
+nmdyn-D6	Nucleotide Metabolism	NA	nucleoside diphosphate kinase activity ; GO:0004550	NA
+CG45071	Nucleotide Metabolism	NA	DNA binding ; GO:0003677	NA
+CG1665	Nucleotide Metabolism	NA	molybdenum ion binding ; GO:0030151	NA
+dUTPase	Nucleotide Metabolism	NA	dUTP diphosphatase activity ; GO:0004170	NA
+CG4098	Nucleotide Metabolism	NA	hydrolase activity ; GO:0016787	NA
+CG11089	Nucleotide Metabolism	NA	IMP cyclohydrolase activity ; GO:0003937	NA
+AdSL	Nucleotide Metabolism	NA	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity ; GO:0004018	NA
+Ts	Nucleotide Metabolism	NA	thymidylate synthase activity ; GO:0004799	NA
+Dip-C	Protein Stability & Degradation	NA	dipeptidyl-peptidase activity ; GO:0008239	NA
+CG9581	Protein Stability & Degradation	NA	aminopeptidase activity ; GO:0004177	NA
+CG3107	Protein Stability & Degradation	NA	metalloendopeptidase activity ; GO:0004222	NA
+CG5045	Protein Stability & Degradation	NA	serine-type endopeptidase activity ; GO:0004252	NA
+CG4701	Protein Stability & Degradation	NA	ATPase activity ; GO:0016887	NA
+CG8520	Protein Stability & Degradation	NA	ATP binding ; GO:0005524	NA
+Uba1	Protein Stability & Degradation	NA	Atg8 activating enzyme activity ; GO:0019779	NA
+CG11035	Protein Stability & Degradation	NA	-	NA
+CG11771	Protein Stability & Degradation	NA	metalloendopeptidase activity ; GO:0004222	NA
+park	Protein Stability & Degradation	NA	ubiquitin protein ligase activity ; GO:0061630	NA
+Mul1	Protein Stability & Degradation	NA	zinc ion binding ; GO:0008270	NA
+CG8974	Protein Stability & Degradation	NA	zinc ion binding ; GO:0008270	NA
+Lon	Protein Stability & Degradation	NA	serine-type endopeptidase activity ; GO:0004252	NA
+Pdk	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) kinase activity ; GO:0004740	NA
+T3dh	Pyruvate Metabolism	NA	metal ion binding ; GO:0046872	NA
+CG10924	Pyruvate Metabolism	NA	phosphoenolpyruvate carboxykinase (GTP) activity ; GO:0004613	NA
+Pepck	Pyruvate Metabolism	NA	phosphoenolpyruvate carboxykinase (GTP) activity ; GO:0004613	NA
+Men	Pyruvate Metabolism	NA	malate dehydrogenase (decarboxylating) (NADP+) activity ; GO:0004473	NA
+CG4365	Pyruvate Metabolism	NA	hydroxyacylglutathione hydrolase activity ; GO:0004416	NA
+CG10639	Pyruvate Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+Pdp	Pyruvate Metabolism	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+CG3626	Pyruvate Metabolism	NA	oxidoreductase activity ; GO:0016491	NA
+AcCoAS	Pyruvate Metabolism	NA	acetate-CoA ligase activity ; GO:0003987	NA
+CG32832	Pyruvate Metabolism	NA	molecular_function ; GO:0003674	NA
+CG9396	Pyruvate Metabolism	NA	pyruvate transmembrane transporter activity ; GO:0050833	NA
+CG9399	Pyruvate Metabolism	NA	pyruvate transmembrane transporter activity ; GO:0050833	NA
+Mpc1	Pyruvate Metabolism	NA	pyruvate transmembrane transporter activity ; GO:0050833	NA
+CG9629	Pyruvate Metabolism	NA	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor ; GO:0016620	NA
+Men-b	Pyruvate Metabolism	NA	malate dehydrogenase (decarboxylating) (NADP+) activity ; GO:0004473	NA
+Menl-1	Pyruvate Metabolism	NA	NAD binding ; GO:0051287	NA
+CG7848	Pyruvate Metabolism	NA	NAD binding ; GO:0051287	NA
+Menl-2	Pyruvate Metabolism	NA	NAD binding ; GO:0051287	NA
+CG5261	Pyruvate Metabolism	NA	dihydrolipoyllysine-residue acetyltransferase activity ; GO:0004742	NA
+l(1)G0334	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) activity ; GO:0004739	NA
+CG7024	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) activity ; GO:0004739	NA
+CG11876	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) activity ; GO:0004739	NA
+bor	Replication & Transcription	NA	ATP binding ; GO:0005524	NA
+CG9272	Replication & Transcription	NA	DNA-(apurinic or apyrimidinic site) lyase activity ; GO:0003906	NA
+Top3alpha	Replication & Transcription	NA	DNA topoisomerase type I activity ; GO:0003917	NA
+dnk	Replication & Transcription	NA	deoxynucleoside kinase activity ; GO:0019136	NA
+CG8298	Replication & Transcription	NA	glycerol kinase activity ; GO:0004370	NA
+spn-A	Replication & Transcription	NA	recombinase activity ; GO:0000150	NA
+CG14450	Replication & Transcription	NA	-	NA
+Top1	Replication & Transcription	NA	DNA topoisomerase type I activity ; GO:0003917	NA
+Tengl3	Replication & Transcription	NA	hydrolase activity ; GO:0016787	NA
+Tengl1	Replication & Transcription	NA	hydrolase activity ; GO:0016787	NA
+Tengl4	Replication & Transcription	NA	hydrolase activity ; GO:0016787	NA
+CG12917	Replication & Transcription	NA	hydrolase activity ; GO:0016787	NA
+AlkB	Replication & Transcription	NA	oxidoreductase activity ; GO:0016491	NA
+EndoG	Replication & Transcription	NA	endodeoxyribonuclease activity ; GO:0004520	NA
+mTerf5	Replication & Transcription	NA	double-stranded DNA binding ; GO:0003690	NA
+l(2)37Cc	Replication & Transcription	NA	-	NA
+tam	Replication & Transcription	NA	DNA-directed DNA polymerase activity ; GO:0003887	NA
+mtDNA-helicase	Replication & Transcription	NA	2 iron, 2 sulfur cluster binding ; GO:0051537	NA
+CG2990	Replication & Transcription	NA	5'-flap endonuclease activity ; GO:0017108	NA
+CG9323	Replication & Transcription	NA	helicase activity ; GO:0004386	NA
+CG9791	Replication & Transcription	NA	DNA binding ; GO:0003677	NA
+DNA-ligI	Replication & Transcription	NA	DNA ligase (ATP) activity ; GO:0003910	NA
+mTTF	Replication & Transcription	NA	DNA binding ; GO:0003677	NA
+mtRNApol	Replication & Transcription	NA	DNA-directed RNA polymerase activity ; GO:0003899	NA
+Fen1	Replication & Transcription	NA	endonuclease activity ; GO:0004519	NA
+DNApol-gamma35	Replication & Transcription	NA	DNA-directed DNA polymerase activity ; GO:0003887	NA
+CG4278	Replication & Transcription	NA	molecular_function ; GO:0003674	NA
+mtSSB	Replication & Transcription	NA	single-stranded DNA binding ; GO:0003697	NA
+mtTFB2	Replication & Transcription	NA	rRNA (adenine-N6,N6-)-dimethyltransferase activity ; GO:0000179	NA
+mtTFB1	Replication & Transcription	NA	rRNA (adenine-N6,N6-)-dimethyltransferase activity ; GO:0000179	NA
+TFAM	Replication & Transcription	NA	transcription factor activity, sequence-specific DNA binding ; GO:0003700	NA
+Apf	ROS Defense	NA	bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity ; GO:0004081	NA
+Mgstl	ROS Defense	NA	glutathione transferase activity ; GO:0004364	NA
+CG33178	ROS Defense	NA	glutathione transferase activity ; GO:0004364	NA
+CG7215	ROS Defense	NA	-	NA
+CG14777	ROS Defense	NA	-	NA
+CG14778	ROS Defense	NA	-	NA
+CG2022	ROS Defense	NA	-	NA
+Jheh1	ROS Defense	NA	juvenile hormone epoxide hydrolase activity ; GO:0008096	NA
+dhd	ROS Defense	NA	disulfide oxidoreductase activity ; GO:0015036	NA
+CG14407	ROS Defense	NA	electron carrier activity ; GO:0009055	NA
+CG15116	ROS Defense	NA	glutathione peroxidase activity ; GO:0004602	NA
+CG33177	ROS Defense	NA	-	NA
+SelR	ROS Defense	NA	methionine-R-sulfoxide reductase activity ; GO:0070191	NA
+Eip71CD	ROS Defense	NA	peptide-methionine (S)-S-oxide reductase activity ; GO:0008113	NA
+CG6878	ROS Defense	NA	-	NA
+CG11077	ROS Defense	NA	molecular_function ; GO:0003674	NA
+DJ-1alpha	ROS Defense	NA	protein deglycase activity ; GO:0036524	NA
+dj-1beta	ROS Defense	NA	protein deglycase activity ; GO:0036524	NA
+mtd	ROS Defense	NA	-	NA
+Trxr-1	ROS Defense	NA	protein homodimerization activity ; GO:0042803	NA
+Trxr-2	ROS Defense	NA	thioredoxin-disulfide reductase activity ; GO:0004791	NA
+Jafrac1	ROS Defense	NA	thioredoxin peroxidase activity ; GO:0008379	NA
+Sod2	ROS Defense	NA	superoxide dismutase activity ; GO:0004784	NA
+Prx5	ROS Defense	NA	thioredoxin peroxidase activity ; GO:0008379	NA
+Prx3	ROS Defense	NA	antioxidant activity ; GO:0016209	NA
+CG9314	ROS Defense	NA	catalase activity ; GO:0004096	NA
+Ogg1	ROS Defense	NA	oxidized purine nucleobase lesion DNA N-glycosylase activity ; GO:0008534	NA
+CG8517	ROS Defense	NA	disulfide oxidoreductase activity ; GO:0015036	NA
+CG8993	ROS Defense	NA	disulfide oxidoreductase activity ; GO:0015036	NA
+CG3719	ROS Defense	NA	disulfide oxidoreductase activity ; GO:0015036	NA
+PHGPx	ROS Defense	NA	peroxidase activity ; GO:0004601	NA
+CG15035	TCA Cycle	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+CG12091	TCA Cycle	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+fig	TCA Cycle	NA	protein serine/threonine phosphatase activity ; GO:0004722	NA
+CG3483	TCA Cycle	NA	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616	NA
+CG32026	TCA Cycle	NA	NAD binding ; GO:0051287	NA
+CG7430	TCA Cycle	NA	dihydrolipoyl dehydrogenase activity ; GO:0004148	NA
+Idh	TCA Cycle	NA	isocitrate dehydrogenase (NADP+) activity ; GO:0004450	NA
+CG4706	TCA Cycle	NA	aconitate hydratase activity ; GO:0003994	NA
+Acon	TCA Cycle	NA	aconitate hydratase activity ; GO:0003994	NA
+skap	TCA Cycle	NA	succinate-CoA ligase (ADP-forming) activity ; GO:0004775	NA
+Sucb	TCA Cycle	NA	succinate-CoA ligase (GDP-forming) activity ; GO:0004776	NA
+Scsalpha	TCA Cycle	NA	succinate-CoA ligase (GDP-forming) activity ; GO:0004776	NA
+CG6255	TCA Cycle	NA	catalytic activity ; GO:0003824	NA
+kdn	TCA Cycle	NA	citrate (Si)-synthase activity ; GO:0004108	NA
+CG14740	TCA Cycle	NA	citrate (Si)-synthase activity ; GO:0004108	NA
+CG5214	TCA Cycle	NA	dihydrolipoyllysine-residue succinyltransferase activity ; GO:0004149	NA
+l(1)G0255	TCA Cycle	NA	fumarate hydratase activity ; GO:0004333	NA
+CG4095	TCA Cycle	NA	fumarate hydratase activity ; GO:0004333	NA
+CG6140	TCA Cycle	NA	fumarate hydratase activity ; GO:0004333	NA
+CG31874	TCA Cycle	NA	fumarate hydratase activity ; GO:0004333	NA
+l(1)G0156	TCA Cycle	NA	isocitrate dehydrogenase (NAD+) activity ; GO:0004449	NA
+CG6439	TCA Cycle	NA	isocitrate dehydrogenase (NAD+) activity ; GO:0004449	NA
+CG5028	TCA Cycle	NA	isocitrate dehydrogenase (NAD+) activity ; GO:0004449	NA
+Mdh1	TCA Cycle	NA	L-malate dehydrogenase activity ; GO:0030060	NA
+CG10748	TCA Cycle	NA	L-malate dehydrogenase activity ; GO:0030060	NA
+CG10749	TCA Cycle	NA	L-malate dehydrogenase activity ; GO:0030060	NA
+Mdh2	TCA Cycle	NA	malate dehydrogenase activity ; GO:0016615	NA
+Nc73EF	TCA Cycle	NA	oxoglutarate dehydrogenase (succinyl-transferring) activity ; GO:0004591	NA
+CG33791	TCA Cycle	NA	oxoglutarate dehydrogenase (succinyl-transferring) activity ; GO:0004591	NA
+UK114	Translation	NA	-	NA
+CG5190	Translation	NA	molecular_function ; GO:0003674	NA
+CG7172	Translation	NA	-	NA
+CG14231	Translation	NA	metalloendopeptidase activity ; GO:0004222	NA
+CG7441	Translation	NA	tryptophan-tRNA ligase activity ; GO:0004830	NA
+CG10914	Translation	NA	GTP binding ; GO:0005525	NA
+CG17141	Translation	NA	GTP binding ; GO:0005525	NA
+RluA-1	Translation	NA	pseudouridine synthase activity ; GO:0009982	NA
+CG18528	Translation	NA	GTP binding ; GO:0005525	NA
+CG3021	Translation	NA	sulfurtransferase activity ; GO:0016783	NA
+CG32281	Translation	NA	tRNA (guanine-N1-)-methyltransferase activity ; GO:0009019	NA
+CG9531	Translation	NA	nucleic acid binding ; GO:0003676	NA
+CG31244	Translation	NA	protein phosphatase 1 binding ; GO:0008157	NA
+CG10214	Translation	NA	oligonucleotidase activity ; GO:0008946	NA
+CG8078	Translation	NA	tRNA binding ; GO:0000049	NA
+cu	Translation	NA	-	NA
+CG15881	Translation	NA	-	NA
+CG31759	Translation	NA	-	NA
+CG4957	Translation	NA	molecular_function ; GO:0003674	NA
+CG15916	Translation	NA	-	NA
+CG42497	Translation	NA	molecular_function ; GO:0003674	NA
+CG13390	Translation	NA	GTP binding ; GO:0005525	NA
+CG10628	Translation	NA	molecular_function ; GO:0003674	NA
+CG12375	Translation	NA	molecular_function ; GO:0003674	NA
+Nurf-38	Translation	NA	inorganic diphosphatase activity ; GO:0004427	NA
+CG14618	Translation	NA	methyltransferase activity ; GO:0008168	NA
+CG11679	Translation	NA	molecular_function ; GO:0003674	NA
+CG12355	Translation	NA	molecular_function ; GO:0003674	NA
+CG12788	Translation	NA	molecular_function ; GO:0003674	NA
+CG34010	Translation	NA	molecular_function ; GO:0003674	NA
+CG34140	Translation	NA	molecular_function ; GO:0003674	NA
+CG8021	Translation	NA	mRNA binding ; GO:0003729	NA
+CG33714	Translation	NA	mRNA binding ; GO:0003729	NA
+CG17681	Translation	NA	N-acetyltransferase activity ; GO:0008080	NA
+CG5783	Translation	NA	N-acetyltransferase activity ; GO:0008080	NA
+CG11858	Translation	NA	isomerase activity ; GO:0016853	NA
+CG2100	Translation	NA	nucleotidyltransferase activity ; GO:0016779	NA
+CG4159	Translation	NA	pseudouridine synthase activity ; GO:0009982	NA
+Tgt	Translation	NA	queuine tRNA-ribosyltransferase activity ; GO:0008479	NA
+CG5377	Translation	NA	-	NA
+scu	Translation	NA	7-beta-hydroxysteroid dehydrogenase (NADP+) activity ; GO:0047022	NA
+Slimp	Translation	NA	ATP binding ; GO:0005524	NA
+CG1582	Translation	NA	helicase activity ; GO:0004386	NA
+CG13126	Translation	NA	methyltransferase activity ; GO:0008168	NA
+Dbp21E2	Translation	NA	helicase activity ; GO:0004386	NA
+CG4611	Translation	NA	poly(A) RNA binding ; GO:0044822	NA
+CG4749	Translation	NA	methyltransferase activity ; GO:0008168	NA
+CG14786	Translation	NA	protein binding ; GO:0005515	NA
+CG2124	Translation	NA	poly(A) RNA binding ; GO:0044822	NA
+CG4447	Translation	NA	-	NA
+CG14817	Translation	NA	-	NA
+CG5906	Translation	NA	-	NA
+CG1662	Translation	NA	-	NA
+CG11418	Translation	NA	poly(A) RNA binding ; GO:0044822	NA
+CG33649	Translation	NA	-	NA
+CG15390	Translation	NA	double-stranded DNA binding ; GO:0003690	NA
+mTerf3	Translation	NA	double-stranded DNA binding ; GO:0003690	NA
+CG15896	Translation	NA	molecular_function ; GO:0003674	NA
+CG32263	Translation	NA	-	NA
+CG11337	Translation	NA	3'-5'-exoribonuclease activity ; GO:0000175	NA
+CG5414	Translation	NA	isoleucine-tRNA ligase activity ; GO:0004822	NA
+CG5660	Translation	NA	valine-tRNA ligase activity ; GO:0004832	NA
+CG17327	Translation	NA	aminoacyl-tRNA hydrolase activity ; GO:0004045	NA
+CG1307	Translation	NA	aminoacyl-tRNA hydrolase activity ; GO:0004045	NA
+CG10092	Translation	NA	arginine-tRNA ligase activity ; GO:0004814	NA
+CG6796	Translation	NA	asparagine-tRNA ligase activity ; GO:0004816	NA
+CG31739	Translation	NA	aspartate-tRNA ligase activity ; GO:0004815	NA
+Rm62	Translation	NA	protein binding ; GO:0005515	NA
+CG8257	Translation	NA	cysteine-tRNA ligase activity ; GO:0004817	NA
+CG4573	Translation	NA	glutamate-tRNA ligase activity ; GO:0004818	NA
+CG31381	Translation	NA	metal ion binding ; GO:0046872	NA
+mRpL12	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+JhI-1	Translation	NA	endoribonuclease activity, producing 5'-phosphomonoesters ; GO:0016891	NA
+CG4610	Translation	NA	flavin adenine dinucleotide binding ; GO:0050660	NA
+CG5463	Translation	NA	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity ; GO:0050567	NA
+CG7488	Translation	NA	GTP binding ; GO:0005525	NA
+CG12736	Translation	NA	translation elongation factor activity ; GO:0003746	NA
+waw	Translation	NA	GTPase activity ; GO:0003924	NA
+CG12413	Translation	NA	translation initiation factor activity ; GO:0003743	NA
+mRpL46	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+CG1750	Translation	NA	methionyl-tRNA formyltransferase activity ; GO:0004479	NA
+CG4679	Translation	NA	ribosomal small subunit binding ; GO:0043024	NA
+CG32262	Translation	NA	molecular_function ; GO:0003674	NA
+CG12848	Translation	NA	molecular_function ; GO:0003674	NA
+CG14100	Translation	NA	RNA binding ; GO:0003723	NA
+mRpL55	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+Rpp20	Translation	NA	protein binding ; GO:0005515	NA
+mRpL23	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL39	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL38	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL44	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS7	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL21	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL1	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS5	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+CG11447	Translation	NA	methyltransferase activity ; GO:0008168	NA
+mRpL16	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS6	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL20	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+CG4882	Translation	NA	-	NA
+mRpL14	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+tko	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL30	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS25	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL3	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS30	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL22	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL10	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL48	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS2	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL24	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL28	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL51	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL13	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS18B	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL52	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL42	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL18	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS16	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL41	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS28	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL54	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS29	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+bonsai	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL43	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS17	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL17	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS35	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL50	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL2	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS31	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS34	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS26	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL15	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS9	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL19	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL47	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL37	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL40	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL11	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS10	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL9	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS33	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS11	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL35	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL45	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS24	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS22	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS18C	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL32	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL4	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL33	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL36	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS14	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS21	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL27	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS23	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpS18A	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL53	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL34	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+mRpL49	Translation	NA	structural constituent of ribosome ; GO:0003735	NA
+CG6412	Translation	NA	translation elongation factor activity ; GO:0003746	NA
+CG13163	Translation	NA	translation factor activity, RNA binding ; GO:0008135	NA
+CG6094	Translation	NA	translation release factor activity, codon nonspecific ; GO:0016150	NA
+CG5705	Translation	NA	translation release factor activity, codon specific ; GO:0016149	NA
+bsf	Translation	NA	mRNA 3'-UTR binding ; GO:0003730	NA
+CG43672	Transmembrane Transport	NA	transporter activity ; GO:0005215	NA
+pix	Transmembrane Transport	NA	ribosomal small subunit binding ; GO:0043024	NA
+CG1494	Transmembrane Transport	NA	transporter activity ; GO:0005215	NA
+CG1718	Transmembrane Transport	NA	transporter activity ; GO:0005215	NA
+CG1801	Transmembrane Transport	NA	transporter activity ; GO:0005215	NA
+CG11147	Transmembrane Transport	NA	ATPase activity ; GO:0016887	NA
+CG6052	Transmembrane Transport	NA	transporter activity ; GO:0005215	NA
+CG31121	Transmembrane Transport	NA	ATPase activity ; GO:0016887	NA
+CG33970	Transmembrane Transport	NA	ATPase activity ; GO:0016887	NA
+CG9990	Transmembrane Transport	NA	ATPase activity ; GO:0016887	NA
+CG34120	Transmembrane Transport	NA	transporter activity ; GO:0005215	NA
+CG2453	Ubiquinone Biosynthesis	NA	2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0043334	NA
+CG7277	Ubiquinone Biosynthesis	NA	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen ; GO:0016709	NA
+CG32174	Ubiquinone Biosynthesis	NA	molecular_function ; GO:0003674	NA
+CG10585	Ubiquinone Biosynthesis	NA	-	NA
+qless	Ubiquinone Biosynthesis	NA	-	NA
+CG9249	Ubiquinone Biosynthesis	NA	2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity ; GO:0008425	NA
+Coq2	Ubiquinone Biosynthesis	NA	DNA-directed RNA polymerase activity ; GO:0003899	NA
+COQ7	Ubiquinone Biosynthesis	NA	-	NA
+CG30493	Ubiquinone Biosynthesis	NA	-	NA
+CG7616	Unknown	NA	-	NA
+CAHbeta	Unknown	NA	carbonate dehydratase activity ; GO:0004089	NA
+Dpck	Unknown	NA	dephospho-CoA kinase activity ; GO:0004140	NA
+CG5500	Unknown	NA	-	NA
+CG16787	Unknown	NA	-	NA
+CG14613	Unknown	NA	-	NA
+CG13392	Unknown	NA	molecular_function ; GO:0003674	NA
+CG1532	Unknown	NA	-	NA
+CG12935	Unknown	NA	-	NA
+CG14717	Unknown	NA	carboxylic ester hydrolase activity ; GO:0052689	NA
+c12.2	Unknown	NA	ATP binding ; GO:0005524	NA
+CG2059	Unknown	NA	carboxylic ester hydrolase activity ; GO:0052689	NA
+CG10877	Unknown	NA	catalytic activity ; GO:0003824	NA
+CG6028	Unknown	NA	catalytic activity ; GO:0003824	NA
+dj	Unknown	NA	-	NA
+CG15912	Unknown	NA	hydrolase activity ; GO:0016787	NA
+CG11095	Unknown	NA	hydrolase activity ; GO:0016787	NA
+Reg-2	Unknown	NA	hydrolase activity ; GO:0016787	NA
+asrij	Unknown	NA	molecular_function ; GO:0003674	NA
+CG6012	Unknown	NA	-	NA
+CG5590	Unknown	NA	-	NA
+papi	Unknown	NA	RNA binding ; GO:0003723	NA
+CG4884	Unknown	NA	RNA binding ; GO:0003723	NA
+CG13284	Unknown	NA	-	NA
+CG31809	Unknown	NA	-	NA
+CG31810	Unknown	NA	-	NA

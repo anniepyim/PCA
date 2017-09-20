@@ -1,0 +1,8 @@
+sampleID	timing	type
+100hvs90h	100hvs90h	Muscle
+16hvs0h	16hvs0h	Muscle
+24hvs16h	24hvs16h	Muscle
+30hvs24h	30hvs24h	Muscle
+48hvs30h	48hvs30h	Muscle
+72hvs48h	72hvs48h	Muscle
+90hvs72h	90hvs72h	Muscle

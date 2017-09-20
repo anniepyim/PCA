@@ -1,0 +1,659 @@
+gene	process	chr	function	ENSG
+GCLC	ROS defense	NA	Gclc: Catalyzes the first step reaction combining cystein and glutamate to form glutamylcysteine	NA
+GCLM	ROS defense	NA	Gclm: Catalyzes the first step reaction combining cystein and glutamate to form glutamylcysteine	NA
+SLC25A1	ROS defense	NA	Slc25a1: May be involved in the transport of gluthathione inside the mitochondria	NA
+SOD2	ROS defense	NA	Sod2: Dismutates the super oxide generated in the mitochondiral matrix to hydrogen peroxide	NA
+BCKDHA	ROS defense	NA	Bckdha: Involved in the catabolism of aminoacids in mitochondria and may also be involved in the production of superoxides and hydrogen peroxide	NA
+BCKDHB	ROS defense	NA	Bckdhb: Involved in the catabolism of aminoacids in mitochondria and may also be involved in the production of superoxides and hydrogen peroxide	NA
+GPX4	ROS defense	NA	Gpx4: Involved in the reduction of the lipid peroxides to their hydroxides	NA
+PRDX3	ROS defense	NA	Prdx3: Mitochondrial peroxiredoxin reduces hydrogen peroxide to water	NA
+TXN2	ROS defense	NA	Txn2: Mitochondrial thioredoxin reduces peroxiredoxin to their super oxide scavenging state	NA
+TXNRD2	ROS defense	NA	Txnrd2: Maintains thioredoxins in their reduced state using NAPDH reducing equivalents	NA
+MPV17	ROS defense	NA	Mpv17: May have a role in the metabolism of reactive oxygen species	NA
+MPV17L	ROS defense	NA	Mpv17l: May have a role in the metabolism of reactive oxygen species	NA
+GLRX2	ROS defense	NA	Glrx2: Involved in the control of mitochondrial protein gluthathionylation	NA
+GSTP2	ROS defense	NA	Gstp2: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or peroxide reduction detoxify harmful byproducts	NA
+GSTP1	ROS defense	NA	Gstp1: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or peroxide reduction detoxify harmful byproducts	NA
+GSS	ROS defense	NA	Gss: Catalyzes the formation of gluthathione from glutamylcysteine by combining it with the glycine	NA
+SLC25A11	ROS defense	NA	Slc25a11: May be involved in the transport of gluthathione inside the mitochondria	NA
+SLC25A10	ROS defense	NA	Slc25a10: May be involved in the transport of gluthathione inside the mitochondria	NA
+SOD1	ROS defense	NA	Sod1: May be involved in the removal of superoxides in the inter membrane space of mitochondria	NA
+GPX1	ROS defense	NA	Gpx1: Reduces hydrogen peroxide to water by utilising reducing equivalents from gluthathione	NA
+GSR	ROS defense	NA	Gsr: Reduces oxidized gluthathione to gluthathione to be reutilized by Gpx1	NA
+GSTA1	ROS defense	NA	Gsta1: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or peroxide reduction detoxify harmful byproducts	NA
+GSTA2	ROS defense	NA	Gsta2: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or peroxide reduction detoxify harmful byproducts	NA
+GSTA4	ROS defense	NA	Gsta4: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or peroxide reduction detoxify harmful byproducts	NA
+SHC1	ROS defense	NA	Shc1: Could be involved in the generation of the hydrogen peroxide independent of superoxides in mitochondria	NA
+CDS1	Cardiolipin biosynthesis	NA	Cds1: Converts phosphatidic acid to cytidine diphosphate diacylglycerol	NA
+CDS2	Cardiolipin biosynthesis	NA	Cds2: Converts phosphatidic acid to cytidine diphosphate diacylglycerol	NA
+PGS1	Cardiolipin biosynthesis	NA	Pgs1: Phosphatidylglycerol synthase converts cytidine diphosphate diacylglycerol to phosphatidylglycerol phosphate	NA
+PTPMT1	Cardiolipin biosynthesis	NA	Ptpmt1: Phosphatidylglycerophosphatase activity removes phospate from phosphatidylglycerol phosphate to form phosphatidylglycerol	NA
+CRLS1	Cardiolipin biosynthesis	NA	Crls1: Catalyzes the condensation of cytidine diphosphate diacylglycerol and phosphatidylglycerol forming a nascent cardiolipin	NA
+TAZ	Cardiolipin biosynthesis	NA	Taz: Converts the nascent cardiolipin to mature cardiolipin	NA
+TOMM20	Import & Sorting	NA	Tomm20: Outer membrane translocation, recognize targeting singnals in presequences at the mitochondrial outer membrane	NA
+TOMM22	Import & Sorting	NA	Tomm22: Outer membrane translocation, recognize targeting singnals in presequences at the mitochondrial outer membrane	NA
+TOMM40	Import & Sorting	NA	Tomm40: Outer membrane translocation, forms the outer membrane channel forming protein	NA
+TOMM40L	Import & Sorting	NA	Tomm40l: Outer membrane translocation, forms the outer membrane channel forming protein	NA
+TOMM5	Import & Sorting	NA	Tomm5: Outer membrane translocation, transports preprotein to the import pore formed by Tomm40	NA
+TOMM70A	Import & Sorting	NA	Tomm70a: Outer membrane translocation, recognizes proteins with internal targeting signals	NA
+TOMM6	Import & Sorting	NA	Tomm6: Outer membrane translocation, required for the assembly and stability of the Tom complex	NA
+TOMM7	Import & Sorting	NA	Tomm7: Outer membrane translocation, required for the assembly and stability of the Tom complex	NA
+TIMM50	Import & Sorting	NA	Timm50: Inner membrane translocation, guides the preproteins to the import channel formed by Timm23	NA
+TIMM17A	Import & Sorting	NA	Timm17a: Inner membrane translocation, might influence the channel activity formed by the Timm23	NA
+TIMM17B	Import & Sorting	NA	Timm17b: Inner membrane translocation, might influence the channel activity formed by the Timm23	NA
+TIMM23	Import & Sorting	NA	Timm23: Inner membrane translocation, forms the main channel forming protein	NA
+TIMM21	Import & Sorting	NA	Timm21: Inner membrane translocation, connects Tomm and Timm complex and may assists the release of preprotein from the TOMM complex	NA
+HSPA9	Import & Sorting	NA	Hspa9: Presequence translocase associated motor, binds to the preprotein and drives it into the matrix in association with other chaperones and is also involved in the mediation of the interaction between VDAC1 and Inositol-1,4,5-triphosphate receptors	NA
+TIMM44	Import & Sorting	NA	Timm44: Presequence translocase associated motor, gets asssociated with the Hspa9 to drive proteins into the matrix	NA
+DNAJC19	Import & Sorting	NA	Dnajc19: Presequence translocase associated motor, could stimulate the ATPase activity of HSPA9	NA
+PAM16	Import & Sorting	NA	Pam16: Presequence translocase associated motor, controls the activity of Dnajc19	NA
+GRPEL1	Import & Sorting	NA	Grpel1: Presequence translocase associated motor, acts as a nucleotide exchange factor releasing the ADP from Hspa9	NA
+GRPEL2	Import & Sorting	NA	Grpel2: Presequence translocase associated motor, acts as a nucleotide exchange factor releasing the ADP from Hspa9	NA
+TIMM9	Import & Sorting	NA	Timm9: Innermembrane carrier pathway, forms complex with Timm10 and performs chaperone like activity in the intermembrane space	NA
+TIMM10	Import & Sorting	NA	Timm10: Innermembrane carrier pathway, forms complex with Timm9 and performs chaperone like activity in the intermembrane space	NA
+TIMM8A1	Import & Sorting	NA	Timm8a1: Innermembrane carrier pathway, forms complex with Timm13 and also performs the transfer of inner membrane proteins	NA
+TIMM8A2	Import & Sorting	NA	Timm8a2: Innermembrane carrier pathway, forms complex with Timm13 and also performs the transfer of inner membrane proteins	NA
+TIMM8B	Import & Sorting	NA	Timm8b: Innermembrane carrier pathway, forms complex with Timm13 and also performs the transfer of inner membrane proteins	NA
+TIMM13	Import & Sorting	NA	Timm13: Innermembrane carrier pathway, forms complex with Timm8 and performs the transfer of inner membrane proteins	NA
+TIMM22	Import & Sorting	NA	Timm22: Innermembrane carrier pathway, forms the core channel and inserts proteins into inner membrane	NA
+CHCHD4	Import & Sorting	NA	Chchd4: Intermembrane transport and assembly, acts as a receptor at the inter membrane space and recognizes incoming precursor proteins	NA
+GFER	Import & Sorting	NA	Gfer: Intermembrane transport and assembly, it is know to oxidize Chchd4 and then the oxidized Chchd4 acts as a receptor for the pre proteins and it also facilitates assembly of cytosolic Fe_„_S proteins	NA
+SAMM50	Import & Sorting	NA	Samm50: Outermembrane sorting and assembly machinary, central component of SAMM complex and inserts beta barrel proteins into the outer membrane	NA
+PMPCA	Import & Sorting	NA	Pmpca: Presequence of preproteins are removed by proteolytic enzyme mitochondrial processing peptidase	NA
+PMPCB	Import & Sorting	NA	Pmpcb: Presequence of preproteins are removed by proteolytic enzyme mitochondrial processing peptidase	NA
+MIPEP	Import & Sorting	NA	Mipep: Secondary cleavage of the pre proteins processed by the mitochondrial processing peptidase	NA
+IMMP1L	Import & Sorting	NA	Immp1l: Inner membrane peptidase that cleaves hydrophobic sorting signal	NA
+IMMP2L	Import & Sorting	NA	Immp2l: Inner membrane peptidase that cleaves hydrophobic sorting signal	NA
+CS	Tricarboxylic acid cycle	NA	Cs: Catalyzes the synthesis of citrate from oxaloacetate and acetyl coenzyme A	NA
+ACO2	Tricarboxylic acid cycle	NA	Aco2: Catalyzes the interconversion of citrate to isocitrate 	NA
+IDH2	Tricarboxylic acid cycle	NA	Idh2: Catalyze the oxidative decarboxylation of isocitrate to 2-oxoglutarate	NA
+IDH3A	Tricarboxylic acid cycle	NA	Idh3a: Catalyze the oxidative decarboxylation of isocitrate to 2-oxoglutarate	NA
+IDH1	Tricarboxylic acid cycle	NA	Idh1: Catalyze the oxidative decarboxylation of isocitrate to 2-oxoglutarate	NA
+IDH3B	Tricarboxylic acid cycle	NA	Idh3b: Catalyze the oxidative decarboxylation of isocitrate to 2-oxoglutarate	NA
+IDH3G	Tricarboxylic acid cycle	NA	Idh3g: Catalyze the oxidative decarboxylation of isocitrate to 2-oxoglutarate	NA
+OGDH	Tricarboxylic acid cycle	NA	Ogdh: Catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO2	NA
+DLST	Tricarboxylic acid cycle	NA	Dlst: Catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO2	NA
+DLD	Tricarboxylic acid cycle	NA	Dld: Catalyzes the overall conversion of 2-oxoglutarate to succinyl-CoA and CO2	NA
+SUCLG1	Tricarboxylic acid cycle	NA	Suclg1: Catalyzes the conversion of succinyl CoA to succinate	NA
+SUCLA2	Tricarboxylic acid cycle	NA	Sucla2: convert succinate to succinyl-CoA	NA
+SUCLG2	Tricarboxylic acid cycle	NA	Suclg2: Catalyzes the conversion of succinyl CoA to succinate	NA
+SDHA	Tricarboxylic acid cycle	NA	Sdha: Part of Succinate dehydrogenase complex in oxidative phosporylation in TCA cycle it catalyzes the oxidation of succinate to fumarate	NA
+SDHB	Tricarboxylic acid cycle	NA	Sdhb: Part of Succinate dehydrogenase complex in oxidative phosporylation in TCA cycle it catalyzes the oxidation of succinate to fumarate	NA
+SDHC	Tricarboxylic acid cycle	NA	Sdhc: Part of Succinate dehydrogenase complex in oxidative phosporylation in TCA cycle it catalyzes the oxidation of succinate to fumarate	NA
+SDHD	Tricarboxylic acid cycle	NA	Sdhd: Part of Succinate dehydrogenase complex in oxidative phosporylation in TCA cycle it catalyzes the oxidation of succinate to fumarate	NA
+FH1	Tricarboxylic acid cycle	NA	Fh1: Catalyzes the formation of L-malate from fumarate	NA
+MDH2	Tricarboxylic acid cycle	NA	Mdh2: Catalyzes the reversible oxidation of malate to oxaloacetate	NA
+OTC	Urea Cycle	NA	Otc: Ornithine transcarbamoylase catalyzes the step in which carbamoyl phosphate combines with ornithine to form citruline	NA
+ASS1	Urea Cycle	NA	Ass1: Argininosuccinate synthetase catalyzes the step where Citruline combines with Aspartate to form Argininosuccinate	NA
+ASL	Urea Cycle	NA	Asl: Argininosuccinate lyase catalyzes the reaction where Argininosuccinate is cleaved of its nitrogen and carbon skeleton forming arginine and fumarate respectively	NA
+ARG1	Urea Cycle	NA	Arg1: Arginase catalyzes the step where Arginine is hydrolyzed to form urea and ornithine	NA
+ARG2	Urea Cycle	NA	Arg2: Arginase catalyzes the step where Arginine is hydrolyzed to form urea and ornithine	NA
+CPS1	Urea Cycle	NA	Cps1: Carbamoyl phosphate synthetase catalyzes the step where free NH4+ with HCO3- form carbamoyl phosphate	NA
+ALAS2	Heme Biosynthesis	NA	Alas2: Catalyzes the reaction in which amino acid glycine and succinyl CoA condenses to form 5-aminolevulinate (ALA) and CO2	NA
+ALAS1	Heme Biosynthesis	NA	Alas1: Catalyzes the reaction in which amino acid glycine and succinyl CoA condenses to form 5-aminolevulinate (ALA) and CO2	NA
+FECH	Heme Biosynthesis	NA	Fech: Ferrochelatase catalyzes the step involving the addition of Ferrous iron into the protoprphyrin IX to form the protoheme IX	NA
+PPOX	Heme Biosynthesis	NA	Ppox: Enzyme protoporphyrinogen oxidase converts Protoporphyrinogen IX to Protoporphyrin IX	NA
+CPOX	Heme Biosynthesis	NA	Cpox: Coproporphyrinogen III is transported to mitochondria and in the presence of coproporphyrinogen III oxidase it is oxidatively decarboxylated	NA
+UROD	Heme Biosynthesis	NA	Urod: Uroporphyrinogen III decarboxylase catalyzes stepwise decarboxylation of the Uroporphyrinogen III	NA
+UROS	Heme Biosynthesis	NA	Uros: Enzyme uroporphyrinogen III syntase catalyzes the reaction, in which hydroxymethylbilane is rearranged to form uroporphyrinogen III	NA
+HMBS	Heme Biosynthesis	NA	Hmbs: Hydroxymethylbilane synthase catalyzes head to tail condensation of four porphobilinogen and subsequent deamination to form a linear tetrapyrrole, Hydroxymethylbilane	NA
+ALAD	Heme Biosynthesis	NA	Alad: ALA dehydratase catalyzes the reaction, where two molecules of ALA condenses to form monopyrrole porphobilinogen 	NA
+SLC2A1	Glycolysis	NA	Slc2a1: A major glucose transporter in the mammalian blood-brain barrier	NA
+SLC2A2	Glycolysis	NA	Slc2a2: Facilitated glucose transporter	NA
+SLC2A3	Glycolysis	NA	Slc2a3: Solute carrier family 2 (facilitated glucose transporter), member 3	NA
+SLC2A4	Glycolysis	NA	Slc2a4: Insulin-regulated facilitated glucose transporter	NA
+SLC2A5	Glycolysis	NA	Slc2a5: Solute carrier family 2 (facilitated glucose/fructose transporter), member 5	NA
+HK1	Glycolysis	NA	Hk1: Hexokinases phosphorylate glucose to produce glucose-6-phosphate	NA
+HK2	Glycolysis	NA	Hk2: Hexokinases phosphorylate glucose to produce glucose-6-phosphate	NA
+HK3	Glycolysis	NA	Hk3: Hexokinases phosphorylate glucose to produce glucose-6-phosphate	NA
+GCK	Glycolysis	NA	Gck: Hexokinases phosphorylate glucose to produce glucose-6-phosphate	NA
+GPI1	Glycolysis	NA	Gpi1: Glycolytic enzyme that interconverts glucose-6-phophsate and fructose-6-phosphate	NA
+PFKL	Glycolysis	NA	Pfkl: Catalyzes the conversion of fructose 6-phosphate to fructose 1,6-bisphosphate	NA
+PFKM	Glycolysis	NA	Pfkm: Catalyzes the phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate	NA
+PFKP	Glycolysis	NA	Pfkp: Catalyzes the irreversible conversion of fructose-6-phosphate to fructose-1,6-bisphosphate	NA
+ALDOA	Glycolysis	NA	Aldoa: Catalyzes the reversible conversion of fructose-1,6-bisphosphate to glyceraldehyde 3-phosphate and dihydroxyacetone phosphate	NA
+ALDOB	Glycolysis	NA	Aldob: Catalyzes the reversible conversion of fructose-1,6-bisphosphate to glyceraldehyde 3-phosphate and dihydroxyacetone phosphate	NA
+ALDOC	Glycolysis	NA	Aldoc: Catalyzes the reversible conversion of fructose-1,6-bisphosphate to glyceraldehyde 3-phosphate and dihydroxyacetone phosphate	NA
+TPI1	Glycolysis	NA	Tpi1: Catalyzes the isomerization of glyceraldehydes 3-phosphate and dihydroxy-acetone phosphate	NA
+GAPDH	Glycolysis	NA	Gapdh: Catalyzes the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate and may also inhibit Caspase independent cell death in apoptosis	NA
+GAPDHS	Glycolysis	NA	Gapdhs: Catalyzes the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate	NA
+PGK1	Glycolysis	NA	Pgk1: Catalyzes the conversion of 1,3-diphosphoglycerate to 3-phosphoglycerate	NA
+PGK2	Glycolysis	NA	Pgk2: Catalyzes the reversible conversion of 1,3-bisphosphoglycerate to 3-phosphoglycerate	NA
+PGAM1	Glycolysis	NA	Pgam1: Catalyzes the reversible reaction of 3-phosphoglycerate to 2-phosphoglycerate	NA
+PGAM2	Glycolysis	NA	Pgam2: Catalyzes the reversible reaction of 3-phosphoglycerate to 2-phosphoglycerate	NA
+ENO1	Glycolysis	NA	Eno1: Catalyzes the dehydration of 2-phosphoglycerate to phosphoenolpyruate	NA
+ENO2	Glycolysis	NA	Eno2: Catalyzes the dehydration of 2-phosphoglycerate to phosphoenolpyruate	NA
+ENO3	Glycolysis	NA	Eno3: Catalyzes the dehydration of 2-phosphoglycerate to phosphoenolpyruate	NA
+PKLR	Glycolysis	NA	Pklr: Catalyzes the transphosphorylation of phohsphoenolpyruvate into pyruvate and ATP	NA
+PKM2	Glycolysis	NA	Pkm2: Catalyzes the transphosphorylation of phohsphoenolpyruvate into pyruvate and ATP	NA
+LDHAL6B	Glycolysis	NA	Ldhal6b: Catalyzes the interconversion of pyruvate to lactate and back	NA
+LDHC	Glycolysis	NA	Ldhc: Catalyzes the interconversion of pyruvate to lactate and back	NA
+LDHB	Glycolysis	NA	Ldhb: Catalyzes the interconversion of pyruvate to lactate and back	NA
+LDHA	Glycolysis	NA	Ldha: Catalyzes the interconversion of pyruvate to lactate and back	NA
+BRP44	Pyruvate transfer	NA	Brp44: Mitochondrial pyruvate carrier 2	NA
+BRP44L	Pyruvate transfer	NA	Brp44l: Mitochondrial pyruvate carrier 1	NA
+PDHA1	Formation of Acetyl CoA	NA	Pdha1: Catalyzes the overall conversion of pyruvate to acetyl-CoA	NA
+PDHA2	Formation of Acetyl CoA	NA	Pdha2: Catalyzes the overall conversion of pyruvate to acetyl-CoA	NA
+PDHB	Formation of Acetyl CoA	NA	Pdhb: Catalyzes the overall conversion of pyruvate to acetyl-CoA	NA
+PDHX	Formation of Acetyl CoA	NA	Pdhx: Catalyzes the conversion of pyruvate to acetyl coenzyme A	NA
+DLAT	Formation of Acetyl CoA	NA	Dlat: Catalyzes the conversion of pyruvate to acetyl coenzyme A	NA
+CCDC109A	Calcium trafficking	NA	Ccdc109a: Calcium uniporter, involved in the accumulation of calcium ions in the matrix through ion impermeable inner mitochondrial membrane	NA
+SLC24A6	Calcium trafficking	NA	Slc24a6: Involved in the calcium homeostasis by counteracting the calcium accumaltion in the mitochondria	NA
+LETM1	Calcium trafficking	NA	Letm1: Might act as calcium and hydrogen ion antiporter exchanging hydrogen for calcium	NA
+CBARA1	Calcium trafficking	NA	Cbara1: Regulates the mitochodrial calcium uniporter by inhibiting and permitting the calcium, depending upon the cytosolic calcium concentrations	NA
+EFHA1	Calcium trafficking	NA	Efha1: Regulates the mitochodrial calcium uniporter by inhibiting and permitting the calcium, depending upon the cytosolic calcium concentrations	NA
+CCDC90A	Calcium trafficking	NA	Ccdc90a: Regulates MCU dependent calcium uptake by the mitochondria 	NA
+EFHA2	Calcium trafficking	NA	Efha2: Regulates the mitochodrial calcium uniporter by inhibiting and permitting the calcium depending upon the cytosolic calcium concentrations	NA
+CCDC109B	Calcium trafficking	NA	Ccdc109b: Forms a important component of mitochondrial calcium uniporter	NA
+1500032L24RIK	Calcium trafficking	NA	1500032L24Rik: Forms a important component of mitochondrial calcium uniporter 	NA
+ITPR3	Calcium trafficking	NA	Itpr3: Component of the Inositol-1,4,5-triphosphate receptors channels used for the flux of Ca2+ from ER to mitochondria	NA
+ITPR2	Calcium trafficking	NA	Itpr2: Component of the Inositol-1,4,5-triphosphate receptors channels used for the flux of Ca2+ from ER to mitochondria	NA
+ITPR1	Calcium trafficking	NA	Itpr1: Component of the Inositol-1,4,5-triphosphate receptors channels used for the flux of Ca2+ from ER to mitochondria	NA
+TCHP	Calcium trafficking	NA	Tchp: Involved in the regulation of ER mitochondria juxtaposition 	NA
+SIGMAR1	Calcium trafficking	NA	Sigmar1: Stabilises the Inositol-1,4,5-triphosphate receptors and ensures proper Ca2+ flux	NA
+PACS2	Calcium trafficking	NA	Pacs2: Involved in the control of ER mitochondria apposition 	NA
+PML	Calcium trafficking	NA	Pml: Regulates Inositol-1,4,5-triphosphate receptor mediated Ca2+ release from the ER	NA
+RARS2	Translation	NA	Rars2: Involved in the specific attachment of arginine aminoacid to its cognate tRNA	NA
+CARS2	Translation	NA	Cars2: Involved in the specific attachment of cysteine aminoacid to its cognate tRNA	NA
+EARS2	Translation	NA	Ears2: Involved in the specific attachment of glutamic acid aminoacid to its cognate tRNA	NA
+IARS2	Translation	NA	Iars2: Involved in the specific attachment of isoleucine aminoacid to its cognate tRNA	NA
+LARS2	Translation	NA	Lars2: Involved in the specific attachment of leucine aminoacid to its cognate tRNA	NA
+MARS2	Translation	NA	Mars2: Involved in the specific attachment of methionine aminoacid to its cognate tRNA	NA
+WARS2	Translation	NA	Wars2: Involved in the specific attachment of tryptophan aminoacid to its cognate tRNA	NA
+YARS2	Translation	NA	Yars2: Involved in the specific attachment of tyrosine aminoacid to its cognate tRNA	NA
+VARS2	Translation	NA	Vars2: Involved in the specific attachment of valine aminoacid to its cognate tRNA	NA
+AARS2	Translation	NA	Aars2: Involved in the specific attachment of alanine aminoacid to its cognate tRNA	NA
+NARS2	Translation	NA	Nars2: Involved in the specific attachment of asparagine aminoacid to its cognate tRNA	NA
+DARS2	Translation	NA	Dars2: Involved in the specific attachment of aspartic acid aminoacid to its cognate tRNA	NA
+GARS	Translation	NA	Gars: Involved in the specific attachment of glycine aminoacid to its cognate tRNA	NA
+HARS2	Translation	NA	Hars2: Involved in the specific attachment of histidine aminoacid to its cognate tRNA	NA
+KARS	Translation	NA	Kars: Involved in the specific attachment of lysine aminoacid to its cognate tRNA	NA
+FARS2	Translation	NA	Fars2: Involved in the specific attachment of phenylalanine aminoacid to its cognate tRNA	NA
+PARS2	Translation	NA	Pars2: Involved in the specific attachment of proline aminoacid to its cognate tRNA	NA
+SARS2	Translation	NA	Sars2: Involved in the specific attachment of serine aminoacid to its cognate tRNA	NA
+TARS2	Translation	NA	Tars2: Involved in the specific attachment of threonine aminoacid to its cognate tRNA	NA
+QRSL1	Translation	NA	Qrsl1: Involved in the biosynthesis of glutamyl-tRNA	NA
+PET112L	Translation	NA	Pet112l: Involved in the biosynthesis of glutamyl-tRNA	NA
+GATC	Translation	NA	Gatc: Involved in the biosynthesis of glutamyl-tRNA	NA
+MTFMT	Translation	NA	Mtfmt: Involved in the specific attachment of methionine aminoacid to its cognate tRNA	NA
+TUFM	Translation	NA	Tufm: Involved in the elongation and termination phases of the translation process	NA
+GFM2	Translation	NA	Gfm2: Involved in the elongation and termination phases of the translation process may also be involved in the ribosome recycling	NA
+GFM1	Translation	NA	Gfm1: Involved in the elongation and termination phases of the translation process	NA
+TSFM	Translation	NA	Tsfm: Involved in the elongation and termination phases of the translation process	NA
+MTRF1	Translation	NA	Mtrf1: Involved in the mitochondrial translation termination, may act as a release factor	NA
+MTRF1L	Translation	NA	Mtrf1l: Involved in the mitochondrial translation termination, act as a release factor	NA
+MRRF	Translation	NA	Mrrf: Acts as a mitochondrial ribosome recycling factor during translation process	NA
+PTCD3	Translation	NA	Ptcd3: Associates with mitochondrial small ribosomal subunit and regulates translation	NA
+MT-TA	Translation	NA	mt-Ta: mitochondrially encoded tRNA alanine	NA
+MT-TC	Translation	NA	mt-Tc: mitochondrially encoded tRNA cysteine	NA
+MT-TD	Translation	NA	mt-Td: mitochondrially encoded tRNA aspartic acid	NA
+MT-TE	Translation	NA	mt-Te: mitochondrially encoded tRNA glutamic acid	NA
+MT-TF	Translation	NA	mt-Tf: mitochondrially encoded tRNA phenylalanine	NA
+MT-TG	Translation	NA	mt-Tg: mitochondrially encoded tRNA glycine	NA
+MT-TH	Translation	NA	mt-Th: mitochondrially encoded tRNA histidine	NA
+MT-TI	Translation	NA	mt-Ti: mitochondrially encoded tRNA isoleucine	NA
+MT-TK	Translation	NA	mt-Tk: mitochondrially encoded tRNA lysine	NA
+MT-TL1	Translation	NA	mt-Tl1: mitochondrially encoded tRNA leucine 1 (UUA/G)	NA
+MT-TL2	Translation	NA	mt-Tl2: mitochondrially encoded tRNA leucine 2 (CUN)	NA
+MT-TM	Translation	NA	mt-Tm: mitochondrially encoded tRNA methionine	NA
+MT-TN	Translation	NA	mt-Tn: mitochondrially encoded tRNA asparagine	NA
+MT-TP	Translation	NA	mt-Tp: mitochondrially encoded tRNA proline	NA
+MT-TQ	Translation	NA	mt-Tq: mitochondrially encoded tRNA glutamine	NA
+MT-TR	Translation	NA	mt-Tr: mitochondrially encoded tRNA arginine	NA
+MT-TS1	Translation	NA	mt-Ts1: mitochondrially encoded tRNA serine 1 (UCN)	NA
+MT-TS2	Translation	NA	mt-Ts2: mitochondrially encoded tRNA serine 2 (AGU/C)	NA
+MT-TT	Translation	NA	mt-Tt: mitochondrially encoded tRNA threonine	NA
+MT-TV	Translation	NA	mt-Tv: mitochondrially encoded tRNA valine	NA
+MT-TW	Translation	NA	mt-Tw: mitochondrially encoded tRNA tryptophan	NA
+MT-TY	Translation	NA	mt-Ty: mitochondrially encoded tRNA tyrosine	NA
+MRPL1	Translation	NA	Mrpl1: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL2	Translation	NA	Mrpl2: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL3	Translation	NA	Mrpl3: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL4	Translation	NA	Mrpl4: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL9	Translation	NA	Mrpl9: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL10	Translation	NA	Mrpl10: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL11	Translation	NA	Mrpl11: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL12	Translation	NA	Mrpl12: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL13	Translation	NA	Mrpl13: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL14	Translation	NA	Mrpl14: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL15	Translation	NA	Mrpl15: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL16	Translation	NA	Mrpl16: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL17	Translation	NA	Mrpl17: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL18	Translation	NA	Mrpl18: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL19	Translation	NA	Mrpl19: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL20	Translation	NA	Mrpl20: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL21	Translation	NA	Mrpl21: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL22	Translation	NA	Mrpl22: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL23	Translation	NA	Mrpl23: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL24	Translation	NA	Mrpl24: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL27	Translation	NA	Mrpl27: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL28	Translation	NA	Mrpl28: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL30	Translation	NA	Mrpl30: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL32	Translation	NA	Mrpl32: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL33	Translation	NA	Mrpl33: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL34	Translation	NA	Mrpl34: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL35	Translation	NA	Mrpl35: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL36	Translation	NA	Mrpl36: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL37	Translation	NA	Mrpl37: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL38	Translation	NA	Mrpl38: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL39	Translation	NA	Mrpl39: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL40	Translation	NA	Mrpl40: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL41	Translation	NA	Mrpl41: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL42	Translation	NA	Mrpl42: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL43	Translation	NA	Mrpl43: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL44	Translation	NA	Mrpl44: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL45	Translation	NA	Mrpl45: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL46	Translation	NA	Mrpl46: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL47	Translation	NA	Mrpl47: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL48	Translation	NA	Mrpl48: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL49	Translation	NA	Mrpl49: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL50	Translation	NA	Mrpl50: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL51	Translation	NA	Mrpl51: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL52	Translation	NA	Mrpl52: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL53	Translation	NA	Mrpl53: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL54	Translation	NA	Mrpl54: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL55	Translation	NA	Mrpl55: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPL57	Translation	NA	Mrpl57: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS10	Translation	NA	Mrps10: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS11	Translation	NA	Mrps11: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS12	Translation	NA	Mrps12: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS14	Translation	NA	Mrps14: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS15	Translation	NA	Mrps15: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS16	Translation	NA	Mrps16: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS17	Translation	NA	Mrps17: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS18A	Translation	NA	Mrps18a: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS18B	Translation	NA	Mrps18b: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS18C	Translation	NA	Mrps18c: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS2	Translation	NA	Mrps2: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS21	Translation	NA	Mrps21: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS22	Translation	NA	Mrps22: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS23	Translation	NA	Mrps23: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS24	Translation	NA	Mrps24: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS25	Translation	NA	Mrps25: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS26	Translation	NA	Mrps26: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS27	Translation	NA	Mrps27: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS28	Translation	NA	Mrps28: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+DAP3	Translation	NA	Dap3: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS30	Translation	NA	Mrps30: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS31	Translation	NA	Mrps31: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS33	Translation	NA	Mrps33: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS34	Translation	NA	Mrps34: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS35	Translation	NA	Mrps35: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS36	Translation	NA	Mrps36: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS5	Translation	NA	Mrps5: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS6	Translation	NA	Mrps6: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS7	Translation	NA	Mrps7: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MRPS9	Translation	NA	Mrps9: Mitoribosome which forms a part of mitochondrial translation machinary	NA
+MTIF3	Translation	NA	Mtif3: Translation initiation factor could assist the mRNA to bind to rRNAs	NA
+MTIF2	Translation	NA	Mtif2: Translation initiation factor could assist the tRNA to bind to rRNAs	NA
+TACO1	Translation	NA	Taco1: Translation activator of complex IV subunit	NA
+LRPPRC	Translation	NA	Lrpprc: Might play a role in the translation and stability of COX subunits	NA
+RNASEL	Translation	NA	Rnasel: Modulate the stability of mitochondrial mRNAs by interacting with MTIF2	NA
+LONP1	Translation	NA	Lonp1: Involved in the post translational quality control, has re-solublization activity of protein aggregates	NA
+CLPP	Translation	NA	Clpp: Involved in the post translational quality control, has re-solublization activity of protein aggregates	NA
+CLPX	Translation	NA	Clpx: Quality control of inner membrane proteins	NA
+PHB	Translation	NA	Phb: Involved in the post translational quality control, stabilizes mitochondrially synthesized proteins	NA
+OXA1L	Translation	NA	Oxa1l: May have a role in the insertion of proteins into inner membrane and also a complex V assembly factor	NA
+ATAD3A	Translation	NA	Atad3a: May interact with mitochondrial proteins and is required for mitochondrial protein synthesis	NA
+ATAD3B	Translation	NA	Atad3b: May interact with mitochondrial proteins and is required for mitochondrial protein synthesis	NA
+MPV17L2	Translation	NA	Mpv17l2: May be involved in the biogenesis of mitochondrial ribosomes	NA
+DHX30	Translation	NA	Dhx30: May be involved in the biogenesis of mitochondrial ribosomes	NA
+DDX28	Translation	NA	Ddx28: May be involved in the biogenesis of mitochondrial ribosomes	NA
+FASTKD2	Translation	NA	Fastkd2: May be involved in the biogenesis of mitochondrial ribosomes	NA
+FASTKD5	Translation	NA	Fastkd5: Essential for maturing mitochondrial transcripts not flanked by tRNAs	NA
+APAF1	Apoptosis	NA	Apaf1: Binds Casp9 preprotein forming an apoptosome and activates it	NA
+CASP3	Apoptosis	NA	Casp3: Executioner caspases leading to apoptosis	NA
+MAPK1	Apoptosis	NA	Mapk1: Inhibitors of Casp9 activity	NA
+CASP7	Apoptosis	NA	Casp7: Executioner caspases leading to apoptosis	NA
+DIABLO	Apoptosis	NA	Diablo: Acts as caspase activator by inhibiting the inhibitors of apoptotic proteins	NA
+XIAP	Apoptosis	NA	Xiap: X-linked inhibitor of apoptosis protein inhibits caspase activity by directly binding to CASP9, 3 and 7	NA
+BCL2	Apoptosis	NA	Bcl2: Bcl-2 family member Anti-apoptotic proteins	NA
+BCL2L1	Apoptosis	NA	Bcl2l1: Bcl-2 family member Anti-apoptotic proteins	NA
+MCL1	Apoptosis	NA	Mcl1: Bcl-2 family member Anti-apoptotic proteins	NA
+BAX	Apoptosis	NA	Bax: Bcl-2 family member propagating apoptosis	NA
+BAK1	Apoptosis	NA	Bak1: Bcl-2 family member propagating apoptosis	NA
+BAD	Apoptosis	NA	Bad: Bcl-2 family member propagating apoptosis	NA
+BIK	Apoptosis	NA	Bik: Bcl-2 family member propagating apoptosis	NA
+BID	Apoptosis	NA	Bid: Bcl-2 family member propagating apoptosis	NA
+BCL2L11	Apoptosis	NA	Bcl2l11: Bim Bcl-2 family member propagating apoptosis	NA
+PMAIP1	Apoptosis	NA	Pmaip1: Noxa Bcl-2 family member propagating apoptosis	NA
+BBC3	Apoptosis	NA	Bbc3: Puma Bcl-2 family member propagating apoptosis	NA
+TRP53	Apoptosis	NA	Trp53: Directly binds both Bak and Bax and activates them	NA
+VDAC1	Apoptosis	NA	Vdac1: Voltage dependent anion channel forms part of permeability transition pore and also involved in the takeup of calcium ions from the Endoplasmic reticulum	NA
+VDAC2	Apoptosis	NA	Vdac2: Voltage dependent anion channel forms part of permeability transition pore and also involved in the takeup of calcium ions from the Endoplasmic reticulum	NA
+VDAC3	Apoptosis	NA	Vdac3: Voltage dependent anion channel forms part of permeability transition pore and also involved in the takeup of calcium ions from the Endoplasmic reticulum	NA
+SLC25A4	Apoptosis	NA	Slc25a4: Adenine nucleotide translocator forms part of permeability transition pore	NA
+SLC25A5	Apoptosis	NA	Slc25a5: Adenine nucleotide translocator forms part of permeability transition pore	NA
+2810002N01RIK	Apoptosis	NA	2810002N01Rik: Localizes to the mitochondria and stimulates the release of cytochrome c	NA
+PPIF	Apoptosis	NA	Ppif: Cyclophilin D forms part of permeability transition pore	NA
+CYCS	Apoptosis	NA	Cycs: Binds to apoptosis inducing factor 1 (APAF1) forming a structure called apoptosome	NA
+ANP32A	Apoptosis	NA	Anp32a: Enhances 2810002N01Rik function	NA
+CASP9	Apoptosis	NA	Casp9: Initiator caspase recruited by Apoptosome	NA
+CDK1	Apoptosis	NA	Cdk1: Can Inhibit Casp9 activity and also involved in the phosphorylation of Dnm1l to increase fission	NA
+DNM1	Apoptosis	NA	Dnm1: Recruited to mitochondria can induce cristae remodelling to release cytochrome c and subsequent apoptosis	NA
+MAPK3	Apoptosis	NA	Mapk3: Inhibitors of Casp9 activity	NA
+EIF3M	Apoptosis	NA	Eif3m: PCI domain containing protein 1 can negatively regulate Casp9 activity	NA
+AIFM1	Apoptosis	NA	Aifm1: Mitochondria associated apoptosis inducing factor translocates to nucleus and degrades DNA	NA
+PPIA	Apoptosis	NA	Ppia: Cyclophilin A might work with ENDOG in a DNA degradation complex	NA
+HTRA2	Apoptosis	NA	Htra2: Mitochondrial serene protease induces cell death by inhibiting Inhibitors of apoptotic proteins	NA
+MFN1	Mitochondrial Dynamics	NA	Mfn1: Involved in the mitochondrial fusion, mitofusins dimerize resulting in tethering of the outer membranes of the fusing mitochondria; also involved in the tethering of Endoplasmic reticulum with mitochondria during mitochondrial calcium uptake	NA
+MFN2	Mitochondrial Dynamics	NA	Mfn2: Involved in the mitochondrial fusion, mitofusins dimerize resulting in tethering of the outer membranes of the fusing mitochondria; also involved in the tethering of Endoplasmic reticulum with mitochondria during mitochondrial calcium uptake	NA
+OPA1	Mitochondrial Dynamics	NA	Opa1: Involved in the mitochondrial fusion, initiates inner membrane fusion	NA
+STOML2	Mitochondrial Dynamics	NA	Stoml2:  Involved in the mitochondrial fusion, scaffold proteins Phb2 and Stoml2 coordinate stability of the Opa1	NA
+PINK1	Mitochondrial Dynamics	NA	Pink1: Involved in the mitochondrial fusion, Pink1 phosphorylates Park2 and inturn Park2 induced ubiquitination of mitofusins may target mitochondria for mitophagy	NA
+PARK2	Mitochondrial Dynamics	NA	Park2: Involved in the mitochondrial fusion, Park2 induced ubiquitination of mitofusins may target mitochondria for mitophagy	NA
+OPA3	Mitochondrial Dynamics	NA	Opa3: Involved in the mitochondrial fusion, Involved in mitochondrial fragmentation, interacts with Mfn1	NA
+PARL	Mitochondrial Dynamics	NA	Parl: Involved in the mitochondrial fusion, regulates the clevage of Opa1	NA
+SPG7	Mitochondrial Dynamics	NA	Spg7: Involved in the mitochondrial fusion, known to maintain the Opa1 isoforms	NA
+AFG3L2	Mitochondrial Dynamics	NA	Afg3l2: Involved in the mitochondrial fusion, known to maintain the Opa1 isoforms	NA
+OMA1	Mitochondrial Dynamics	NA	Oma1: Involved in the mitochondrial fusion, know to induce proteolytic inactivation of Opa1	NA
+YME1L1	Mitochondrial Dynamics	NA	Yme1l1: Involved in the mitochondrial fusion, known to cleave Opa1	NA
+PLD6	Mitochondrial Dynamics	NA	Pld6: Involved in the mitochondrial fusion, promotes mitofusin-mediated fusion	NA
+MARCH5	Mitochondrial Dynamics	NA	March5: Involved in the mitochondrial fusion and fission, control of mitochondrial morphology by regulating Mfn2 and Dnm1l	NA
+TRAP1	Mitochondrial Dynamics	NA	Trap1: Involved in the mitochonrial fission, known to regulate fission proteins Dnm1l and Mff	NA
+DNM1L	Mitochondrial Dynamics	NA	Dnm1l: Involved in the mitochondrial fission, mediates the division of mitochondria	NA
+MFF	Mitochondrial Dynamics	NA	Mff: Involved in the mitochondrial fission, suggested to have roles in recruiting Dnm1l	NA
+SMCR7L	Mitochondrial Dynamics	NA	Smcr7l: Involved in the mitochondrial fission, suggested to have roles in recruiting Dnm1l	NA
+SMCR7	Mitochondrial Dynamics	NA	Smcr7: Involved in the mitochondrial fission, suggested to have roles in recruiting Dnm1l	NA
+FIS1	Mitochondrial Dynamics	NA	Fis1: Involved in the mitochondrial fission, facilitates binding and assembly of Dnm1l	NA
+1700020C11RIK	Mitochondrial Dynamics	NA	1700020C11Rik: Involved in the mitochondrial fission, role in mitochondrial fragmentation and is dependent on Dnm1l expression	NA
+GDAP1	Mitochondrial Dynamics	NA	Gdap1: Involved in the mitochondrial fission, know to have a role in the mitochondrial fragmentation	NA
+SH3GLB1	Mitochondrial Dynamics	NA	Sh3glb1: Involved in the mitochondrial fission, proposed to be involved in the lipid remodeling of the outer membrane during fission	NA
+PKIA	Mitochondrial Dynamics	NA	Pkia: Involved in the mitochondrial fission, known to inhibit GTPase activity of Dnm1l	NA
+BECN1	Mitochondrial Dynamics	NA	Becn1: Involved in the mitophagy, involved in the initiation of autophagy	NA
+AMBRA1	Mitochondrial Dynamics	NA	Ambra1: Involved in the mitophagy, translocates to the mitochondria and facilitate phagophore formation	NA
+BNIP3	Mitochondrial Dynamics	NA	Bnip3: Involved in the mitophagy, cause permeabilization of the mitochondrial membrane and also acts as a proapoptotic factor	NA
+BNIP3L	Mitochondrial Dynamics	NA	Bnip3l: Involved in the mitophagy, cause permeabilization of the mitochondrial membrane and also regulate mitophagy	NA
+MAP1LC3A	Mitochondrial Dynamics	NA	Map1lc3a: Involved in the mitophagy, interacts with Bnip3 and Bnip3l to remove mitochondria via autophagy	NA
+GABARAP	Mitochondrial Dynamics	NA	Gabarap: Involved in the mitophagy, interacts with Bnip3 and Bnip3l to remove mitochondria via autophagy	NA
+SQSTM1	Mitochondrial Dynamics	NA	Sqstm1: Involved  in the mitophagy, recruited to mitochondria and binds mitochondrial substrates on the autophagosomes	NA
+RHOT1	Mitochondrial Dynamics	NA	Rhot1: Involved in the mitophagy, tethers mitochondria to the tubulin network but phosphorylation by Pink1 results in the disattachment of mitochondria	NA
+RHOT2	Mitochondrial Dynamics	NA	Rhot2: Involved in the mitophagy, tethers mitochondria to the tubulin network but phosphorylation by Pink1 results in the disattachment of mitochondria	NA
+KIF5B	Mitochondrial Dynamics	NA	Kif5b: Involved in the mitochondrial movement, have role in the mitochondrial distribution in neurons	NA
+KIF1B	Mitochondrial Dynamics	NA	Kif1b: Involved in the mitochondrial movement, have role in the mitochondrial distribution in neurons	NA
+DYNLL1	Mitochondrial Dynamics	NA	Dynll1: Involved in the mitochondrial movement, have role in the retrograde mitochondrial movement	NA
+SYBU	Mitochondrial Dynamics	NA	Sybu: Involved in the mitochondrial movement, have a role in linking the mitochondria to Kif5b	NA
+TRAK1	Mitochondrial Dynamics	NA	Trak1: Involved in the mitochondrial movement, acts as a adapter linking kinesin-1 to mitochondria	NA
+TRAK2	Mitochondrial Dynamics	NA	Trak2: Involved in the mitochondrial movement, acts as a adapter linking kinesin-1 to mitochondria	NA
+MSTO1	Mitochondrial Dynamics	NA	Msto1: Involved in the regulation of mitochondrial distribution and morphology	NA
+MT-ND1	Electron transport chain	NA	mt-Nd1: Mitochondrially encoded NADH dehydrogenase 1, part of enzyme complex I	NA
+MT-ND2	Electron transport chain	NA	mt-Nd2: Mitochondrially encoded NADH dehydrogenase 2, part of enzyme complex I	NA
+MT-ND3	Electron transport chain	NA	mt-Nd3: Mitochondrially encoded NADH dehydrogenase 3, part of enzyme complex I	NA
+MT-ND4	Electron transport chain	NA	mt-Nd4: Mitochondrially encoded NADH dehydrogenase 4, part of enzyme complex I	NA
+MT-ND4L	Electron transport chain	NA	mt-Nd4l: Mitochondrially encoded NADH dehydrogenase 4L, part of enzyme complex I	NA
+MT-ND5	Electron transport chain	NA	mt-Nd5: Mitochondrially encoded NADH dehydrogenase 5, part of enzyme complex I	NA
+MT-ND6	Electron transport chain	NA	mt-Nd6: Mitochondrially encoded NADH dehydrogenase 6, part of enzyme complex I	NA
+NDUFA1	Electron transport chain	NA	Ndufa1: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA2	Electron transport chain	NA	Ndufa2: Essential component of complex I, may be involved in regulating complex I activity or its assembly via assistance in redox processes	NA
+NDUFA3	Electron transport chain	NA	Ndufa3: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA4	Electron transport chain	NA	Ndufa4: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA5	Electron transport chain	NA	Ndufa5: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA6	Electron transport chain	NA	Ndufa6: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA7	Electron transport chain	NA	Ndufa7: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA8	Electron transport chain	NA	Ndufa8: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA9	Electron transport chain	NA	Ndufa9: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA10	Electron transport chain	NA	Ndufa10: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA11	Electron transport chain	NA	Ndufa11: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA12	Electron transport chain	NA	Ndufa12: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFA13	Electron transport chain	NA	Ndufa13: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFAB1	Electron transport chain	NA	Ndufab1: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB2	Electron transport chain	NA	Ndufb2: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB3	Electron transport chain	NA	Ndufb3: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB4	Electron transport chain	NA	Ndufb4: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB5	Electron transport chain	NA	Ndufb5: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB6	Electron transport chain	NA	Ndufb6: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB7	Electron transport chain	NA	Ndufb7: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB8	Electron transport chain	NA	Ndufb8: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB9	Electron transport chain	NA	Ndufb9: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB10	Electron transport chain	NA	Ndufb10: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFB11	Electron transport chain	NA	Ndufb11: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFC1	Electron transport chain	NA	Ndufc1: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFC2	Electron transport chain	NA	Ndufc2: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS1	Electron transport chain	NA	Ndufs1: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS2	Electron transport chain	NA	Ndufs2: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS3	Electron transport chain	NA	Ndufs3: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS4	Electron transport chain	NA	Ndufs4: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS5	Electron transport chain	NA	Ndufs5: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS6	Electron transport chain	NA	Ndufs6: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS7	Electron transport chain	NA	Ndufs7: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFS8	Electron transport chain	NA	Ndufs8: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFV1	Electron transport chain	NA	Ndufv1: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFV2	Electron transport chain	NA	Ndufv2: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+NDUFV3	Electron transport chain	NA	Ndufv3: Essential component of complex I, transfers electrons from NADH to ubiquinone	NA
+CYC1	Electron transport chain	NA	Cyc1: Essential component of complex III transfers electrons from iron sulphur protein to cytochrome c	NA
+MT-CYTB	Electron transport chain	NA	mt-Cytb: Essential component of complex III transfers electrons from iron sulphur protein to cytochrome c	NA
+UQCR10	Electron transport chain	NA	Uqcr10: Ubiquinol-cytochrome c reductase essential component of complex III	NA
+UQCR11	Electron transport chain	NA	Uqcr11: Ubiquinol-cytochrome c reductase essential component of complex III	NA
+UQCRB	Electron transport chain	NA	Uqcrb: Ubiquinol-cytochrome c reductase binding protein essential component of complex III	NA
+UQCRC1	Electron transport chain	NA	Uqcrc1: Ubiquinol-cytochrome c reductase core protein I essential component of complex III	NA
+UQCRC2	Electron transport chain	NA	Uqcrc2: Ubiquinol-cytochrome c reductase core protein II essential component of complex III	NA
+UQCRFS1	Electron transport chain	NA	Uqcrfs1: Ubiquinol-cytochrome c reductase Rieske iron-sulfur polypeptide 1 essential component of complex III	NA
+UQCRH	Electron transport chain	NA	Uqcrh: Ubiquinol-cytochrome c reductase hinge protein essential component of complex III	NA
+UQCRQ	Electron transport chain	NA	Uqcrq: Ubiquinol-cytochrome c reductase essential component of complex III	NA
+COX4I1	Electron transport chain	NA	Cox4i1: Cytochrome c oxidase subunit IV isoform 1 essential component of complex IV	NA
+COX4I2	Electron transport chain	NA	Cox4i2: Cytochrome c oxidase subunit IV isoform 2 (lung) essential component of complex IV	NA
+COX5A	Electron transport chain	NA	Cox5a: Cytochrome c oxidase subunit Va essential component of complex IV	NA
+COX5B	Electron transport chain	NA	Cox5b: Cytochrome c oxidase subunit Vb essential component of complex IV	NA
+COX6A1	Electron transport chain	NA	Cox6a1: Cytochrome c oxidase subunit VIa polypeptide 1 essential component of complex IV	NA
+COX6A2	Electron transport chain	NA	Cox6a2: Cytochrome c oxidase subunit VIa polypeptide 2 essential component of complex IV	NA
+COX6B1	Electron transport chain	NA	Cox6b1: Cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) essential component of complex IV	NA
+COX6B2	Electron transport chain	NA	Cox6b2: CDS1 subunit VIb polypeptide 2 (testis) essential component of complex IV	NA
+COX6C	Electron transport chain	NA	Cox6c: Cytochrome c oxidase subunit VIc essential component of complex IV	NA
+COX7A1	Electron transport chain	NA	Cox7a1: Cytochrome c oxidase subunit VIIa polypeptide 1 (muscle) essential component of complex IV	NA
+COX7A2	Electron transport chain	NA	Cox7a2: Cytochrome c oxidase subunit VIIa polypeptide 2 (liver) essential component of complex IV	NA
+COX7B	Electron transport chain	NA	Cox7b: Cytochrome c oxidase subunit VIIb essential component of complex IV	NA
+COX7B2	Electron transport chain	NA	Cox7b2: Cytochrome c oxidase subunit VIIb2 essential component of complex IV	NA
+COX7C	Electron transport chain	NA	Cox7c: Cytochrome c oxidase subunit VIIc essential component of complex IV	NA
+COX8A	Electron transport chain	NA	Cox8a: Cytochrome c oxidase subunit VIIIA (ubiquitous) essential component of complex IV	NA
+MT-CO1	Electron transport chain	NA	mt-Co1: Mitochondrially encoded cytochrome c oxidase I essential component of complex IV	NA
+MT-CO2	Electron transport chain	NA	mt-Co2: Mitochondrially encoded cytochrome c oxidase II essential component of complex IV	NA
+MT-CO3	Electron transport chain	NA	mt-Co3: Mitochondrially encoded cytochrome c oxidase III essential component of complex IV	NA
+ATP5A1	Electron transport chain	NA	Atp5a1: ATP synthase H+ transporting mitochondrial F1 complex alpha subunit 1 cardiac muscle essential component of complex V	NA
+ATP5B	Electron transport chain	NA	Atp5b: ATP synthase H+ transporting mitochondrial F1 complex beta polypeptide essential component of complex V	NA
+ATP5C1	Electron transport chain	NA	Atp5c1: ATP synthase H+ transporting mitochondrial F1 complex gamma polypeptide 1 essential component of complex V	NA
+ATP5D	Electron transport chain	NA	Atp5d: ATP synthase H+ transporting mitochondrial F1 complex delta subunit essential component of complex V	NA
+ATP5E	Electron transport chain	NA	Atp5e: ATP synthase H+ transporting mitochondrial F1 complex epsilon subunit essential component of complex V	NA
+ATP5F1	Electron transport chain	NA	Atp5f1: ATP synthase H+ transporting mitochondrial Fo complex subunit B1 essential component of complex V	NA
+ATP5G1	Electron transport chain	NA	Atp5g1: ATP synthase H+ transporting mitochondrial Fo complex subunit C1 (subunit 9) essential component of complex V	NA
+ATP5G2	Electron transport chain	NA	Atp5g2: ATP synthase H+ transporting mitochondrial Fo complex subunit C2 (subunit 9) essential component of complex V	NA
+ATP5G3	Electron transport chain	NA	Atp5g3: ATP synthase H+ transporting mitochondrial Fo complex subunit C3 (subunit 9) essential component of complex V	NA
+ATP5H	Electron transport chain	NA	Atp5h: ATP synthase H+ transporting mitochondrial Fo complex subunit d essential component of complex V	NA
+ATP5K	Electron transport chain	NA	Atp5k: ATP synthase H+ transporting mitochondrial Fo complex subunit E essential component of complex V	NA
+ATP5J	Electron transport chain	NA	Atp5j: ATP synthase H+ transporting mitochondrial Fo complex subunit F6 essential component of complex V	NA
+ATP5J2	Electron transport chain	NA	Atp5j2: ATP synthase H+ transporting mitochondrial Fo complex subunit F2 essential component of complex V	NA
+ATP5L	Electron transport chain	NA	Atp5l: ATP synthase H+ transporting mitochondrial Fo complex subunit G essential component of complex V	NA
+ATP5O	Electron transport chain	NA	Atp5o: ATP synthase H+ transporting mitochondrial F1 complex O subunit essential component of complex V	NA
+ATPIF1	Electron transport chain	NA	Atpif1: ATPase inhibitory factor 1 essential component of complex V	NA
+MT-ATP6	Electron transport chain	NA	mt-Atp6: Mitochondrially encoded ATP synthase 6 essential component of complex V	NA
+MT-ATP8	Electron transport chain	NA	mt-Atp8: Mitochondrially encoded ATP synthase 6 essential component of complex V	NA
+ACAD9	Electron transport chain	NA	Acad9: Role in the assembly of Complex I and might also be involved in the beta-oxidation of fatty acids	NA
+FOXRED1	Electron transport chain	NA	Foxred1: Complex I assembly factor	NA
+ATPAF1	Electron transport chain	NA	Atpaf1: Complex V assembly factor, essential for assembly of alpha + beta heterooligomer	NA
+ATPAF2	Electron transport chain	NA	Atpaf2: Complex V assembly factor, essential for assembly of alpha + beta heterooligome	NA
+BCS1L	Electron transport chain	NA	Bcs1l: Involved in the assembly of complex III of the mitochondrial respiratory chain	NA
+CCDC56	Electron transport chain	NA	Ccdc56: COA3 Complex IV assembly factor	NA
+CHCHD8	Electron transport chain	NA	Chchd8: COA4 Complex IV assembly factor	NA
+COA5	Electron transport chain	NA	Coa5: Complex IV assembly factor	NA
+2010305A19RIK	Electron transport chain	NA	2010305A19Rik: COA7 Complex IV assembly factor	NA
+COX10	Electron transport chain	NA	Cox10: Complex IV assembly factor	NA
+COX11	Electron transport chain	NA	Cox11: Complex IV assembly factor	NA
+COX14	Electron transport chain	NA	Cox14: Complex IV assembly factor	NA
+COX15	Electron transport chain	NA	Cox15: Complex IV assembly factor, may function in the regulation and assembly of the complex	NA
+COX17	Electron transport chain	NA	Cox17: Complex IV assembly factor, may function in the regulation and assembly of the complex	NA
+COX18	Electron transport chain	NA	Cox18: Complex IV assembly factor	NA
+COX19	Electron transport chain	NA	Cox19: Complex IV assembly factor	NA
+FAM36A	Electron transport chain	NA	Fam36a: Complex IV assembly factor	NA
+ECSIT	Electron transport chain	NA	Ecsit: Interactcs with NDUFAF1 and functions in Complex I assembly	NA
+NDUFAF1	Electron transport chain	NA	Ndufaf1: Required in the assembly of Complex I	NA
+NDUFAF2	Electron transport chain	NA	Ndufaf2: Required in the assembly of Complex I	NA
+NDUFAF3	Electron transport chain	NA	Ndufaf3: Required in the assembly of Complex I	NA
+NDUFAF4	Electron transport chain	NA	Ndufaf4: Complex I assembly factor required in the assembly of Complex I	NA
+2310003L22RIK	Electron transport chain	NA	2310003L22Rik: NDUFAF5 is required for complex I assembly	NA
+2310030N02RIK	Electron transport chain	NA	2310030N02Rik: NDUFAF6 important role in the assembly of complex I	NA
+2410091C18RIK	Electron transport chain	NA	2410091C18Rik: NDUFAF7 methylates arginine 85 in the NDUFS2 subunit of human complex I	NA
+NUBPL	Electron transport chain	NA	Nubpl: Possible role in the delivery of one or more Fe/S clusters to complex I subunits	NA
+SCO1	Electron transport chain	NA	Sco1: Complex IV assembly factor, Incorporation of copper atoms in the catalytic sites of the nascent complex	NA
+SCO2	Electron transport chain	NA	Sco2: Complex IV assembly factor, involved in the biogenesis of cytochrome c oxidase subunit II	NA
+SDHAF1	Electron transport chain	NA	Sdhaf1: Essential for complex II assembly	NA
+SDHAF2	Electron transport chain	NA	Sdhaf2: Required for flavination of a succinate dehydrogenase complex	NA
+SURF1	Electron transport chain	NA	Surf1: Complex IV assembly factor, involved in the biogenesis of the cytochrome c oxidase complex	NA
+TMEM126B	Electron transport chain	NA	Tmem126b: Component of the mitochondrial complex I assembly complex	NA
+UQCC	Electron transport chain	NA	Uqcc: Complex III assembly factor, ubiquinol-cytochrome c reductase complex assembly factor 1	NA
+2900010M23RIK	Electron transport chain	NA	2900010M23Rik: Complex III assembly factor, ubiquinol-cytochrome c reductase complex assembly factor 2	NA
+TTC19	Electron transport chain	NA	Ttc19: Complex III assembly factor	NA
+HCCS	Electron transport chain	NA	Hccs: Complex III assembly factor, covalently links a heme group to the apoprotein of cytochrome c	NA
+PTCD2	Electron transport chain	NA	Ptcd2: Complex III assembly factor, maturation and stabilization of cytochrome b mRNA	NA
+TMEM70	Electron transport chain	NA	Tmem70: Complex V assembly factor, may play a role in biogenesis of mitochondrial ATP synthase	NA
+UCP1	Electron transport chain	NA	Ucp1: Involved in the proton transport across mitochondrial membranes and regultaion of ATP synthesis	NA
+UCP2	Electron transport chain	NA	Ucp2: Involved in the proton transport across mitochondrial membranes and regultaion of ATP synthesis	NA
+UCP3	Electron transport chain	NA	Ucp3: Involved in the proton transport across mitochondrial membranes and regultaion of ATP synthesis	NA
+SSBP1	Replication & Transcription	NA	Ssbp1: Promotes helical destabilization for the DNA helicases and Polymerase gama (POLG) to support mtDNA replication	NA
+PEO1	Replication & Transcription	NA	Peo1: Mitochondrial DNA (mtDNA) helicase (TWINKLE) plays a important role in the maintenance of mtDNA	NA
+RNASEH1	Replication & Transcription	NA	Rnaseh1: May have role in the removal of RNA primers at the origin of replication on heavy and light strands	NA
+TOP1MT	Replication & Transcription	NA	Top1mt: Suggested to have a role in the removal of positive supercoils created by helicase activity	NA
+TOP3A	Replication & Transcription	NA	Top3a: May also be present in mitochondrial with the role in the removal of positive supercoils during replication	NA
+LIG3	Replication & Transcription	NA	Lig3: involved in the mitochondrial DNA replication and repair	NA
+TERT	Replication & Transcription	NA	Tert: Role in the protection of mitochondrial integrity with a suggested role in mt-DNA replication and/or repair	NA
+TFAM	Replication & Transcription	NA	Tfam: A key activator of mitochondrial transcription and also functions in replication and repair	NA
+TFB1M	Replication & Transcription	NA	Tfb1m: Regulates the stability of small subunit of mitochondrial ribosome by its methylation activity. It also plays a very important role in transcription	NA
+TFB2M	Replication & Transcription	NA	Tfb2m: Essential transcription faactor involved in the transcription of mitochondrial genes	NA
+NRF1	Replication & Transcription	NA	Nrf1: Regulates the expression of TFB1M and TFB2M which are two mitochondrial transcription factors	NA
+NFE2L2	Replication & Transcription	NA	Nfe2l2: Regulates the expression of TFB1M and TFB2M which are two mitochondrial transcription factors	NA
+PPARGC1A	Replication & Transcription	NA	Ppargc1a: Regulates the expression of TFB1M and TFB2M which are two mitochondrial transcription factors	NA
+POLRMT	Replication & Transcription	NA	Polrmt: provides primers for the initiation of replication of the mitochondria genome	NA
+RMRP	Replication & Transcription	NA	Rmrp: RNA component of mitochondrial RNA processing endoribonuclease: cleaves mitochondrial RNA at the priming site of mitochondrial DNA replication	NA
+UNG	Replication & Transcription	NA	Ung: prevent mutagenesis by eliminating uracil from DNA molecules	NA
+OGG1	Replication & Transcription	NA	Ogg1: responsible for the excision of 8-oxoguanine	NA
+NTHL1	Replication & Transcription	NA	Nthl1: Involved in the repair of mispairs in DNA	NA
+MUTYH	Replication & Transcription	NA	Mutyh: Involved in the mitochondrial DNA base excision repair	NA
+APEX1	Replication & Transcription	NA	Apex1: Involved in the mitochondrial DNA base excision repair	NA
+APEX2	Replication & Transcription	NA	Apex2: Involved in the mitochondrial DNA base excision repair	NA
+ENDOG	Replication & Transcription	NA	Endog: Nuclease which processes the RNA primers for heavy strand replication also has a role in apopptosis where after release from the mitochondria induces nucleosomal DNA fragmentation	NA
+POLG	Replication & Transcription	NA	Polg: Mitochondrial DNA polymerasein addition it also shows 3' to 5' exonuclease activity and ensure faithful replication	NA
+POLG2	Replication & Transcription	NA	Polg2: Acts as catalytic subunit of mitochondrial DNA polymerase	NA
+MTERF	Replication & Transcription	NA	Mterf: Mitochondrial transcription termination factor	NA
+MTERFD2	Replication & Transcription	NA	Mterfd2: Mitochondrial transcription termination factor	NA
+MTERFD3	Replication & Transcription	NA	Mterfd3: Mitochondrial transcription termination factor	NA
+MTERFD4	Replication & Transcription	NA	Mterfd4: Mitochondrial transcription termination factor	NA
+RG9MTD1	Replication & Transcription	NA	Rg9mtd1: Cleaves the 5' terminus of mitochondrial tRNAs	NA
+1110008L16RIK	Replication & Transcription	NA	1110008L16Rik: Human mitochondrial tRNA processing enzyme	NA
+HSD17B10	Replication & Transcription	NA	Hsd17b10: Human mitochondrial tRNA processing enzyme	NA
+ELAC2	Replication & Transcription	NA	Elac2: Endolytic processing the 3' end of tRNA	NA
+TRNT1	Replication & Transcription	NA	Trnt1: Mitochondrial CCA adding enzyme, adds CCA sequence to the 3' end of tRNA	NA
+DGUOK	Replication & Transcription	NA	Dguok: Involved in the phosphorylation of recycled deoxyribonucleosides in mitochondria specific for guanosine, adenosine and inosine	NA
+TK2	Replication & Transcription	NA	Tk2: Involved in the phosphorylation of recycled deoxyribonucleosides in mitochondria specific for thymidine, cytidine and uridine	NA
+NT5M	Replication & Transcription	NA	Nt5m: Pyrimidine 5', 3' deoxyribonucleotidase that dephosphorylates dTMP	NA
+AK3	Replication & Transcription	NA	Ak3: Phosphorylates the deoxyribonucleoside mono phosphates specifically on dAMP	NA
+AK3L1	Replication & Transcription	NA	Ak3l1: Phosphorylates the deoxyribonucleoside mono phosphates specifically on dAMP	NA
+CMPK2	Replication & Transcription	NA	Cmpk2: Phosphorylates the deoxyribonucleoside mono phosphates specifically on dCMP	NA
+NME4	Replication & Transcription	NA	Nme4: Shows mitochondrial nucleoside diphosphate kinase activity	NA
+SLC25A19	Replication & Transcription	NA	Slc25a19: Transports thiamine pyrophosphates into mitochondria	NA
+SLC25A33	Replication & Transcription	NA	Slc25a33: Mitochondrial pyrimidine nucleotide carrier	NA
+SLC29A1	Replication & Transcription	NA	Slc29a1: Equilibrative nucleoside transporter 1 imports recycled deoxyribonucleosides from cytoplasm into mitochondria	NA
+NME3	Replication & Transcription	NA	Nme3: Shows mitochondrial nucleoside diphosphate kinase activity	NA
+NME6	Replication & Transcription	NA	Nme6: Shows mitochondrial nucleoside diphosphate kinase activity	NA
+TRMT11	Replication & Transcription	NA	Trmt11: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRMT112	Replication & Transcription	NA	Trmt112: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+DUS2L	Replication & Transcription	NA	Dus2l: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRMT1	Replication & Transcription	NA	Trmt1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+PUS1	Replication & Transcription	NA	Pus1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+RPUSD2	Replication & Transcription	NA	Rpusd2: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+RPUSD4	Replication & Transcription	NA	Rpusd4: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+GTPBP3	Replication & Transcription	NA	Gtpbp3: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+MTO1	Replication & Transcription	NA	Mto1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRMU	Replication & Transcription	NA	Trmu: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+QTRT1	Replication & Transcription	NA	Qtrt1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+QTRTD1	Replication & Transcription	NA	Qtrtd1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRMT5	Replication & Transcription	NA	Trmt5: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+YRDC	Replication & Transcription	NA	Yrdc: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+OSGEPL1	Replication & Transcription	NA	Osgepl1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRIT1	Replication & Transcription	NA	Trit1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+CDK5RAP1	Replication & Transcription	NA	Cdk5rap1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+CDKAL1	Replication & Transcription	NA	Cdkal1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+PUS3	Replication & Transcription	NA	Pus3: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+NSUN2	Replication & Transcription	NA	Nsun2: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRMT2B	Replication & Transcription	NA	Trmt2b: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRUB2	Replication & Transcription	NA	Trub2: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+TRMT6	Replication & Transcription	NA	Trmt6: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	NA
+CREB1	Replication & Transcription	NA	Creb1: Promotes the transcription of mitochondrial genes	NA
+SLC25A3	Replication & Transcription	NA	Slc25a3: Involved in the transport of phosphate into the mitochondrial matrix	NA
+MTPAP	Replication & Transcription	NA	Mtpap: Involved in the polyadenylation of mitochondrial tRNAs, rRNAs and mRNAs	NA
+RRM2B	Replication & Transcription	NA	Rrm2b: Required for the de novo deoxyribonucloetide synthesis in nonproliferating cells supplying dNTPs to mtDNA synthesis	NA
+FXN	Iron-sulfur cluster biosynthesis	NA	Fxn: Functions in regulating mitochondrial iron transport and respiration	NA
+ISCU	Iron-sulfur cluster biosynthesis	NA	Iscu: Iron sulphur cluster assembly enzyme, Fe-S cluster intermediate is formed on it	NA
+NFS1	Iron-sulfur cluster biosynthesis	NA	Nfs1: The sulfide for Fe-S clusters originates from cysteine via the action of NFS1	NA
+LYRM4	Iron-sulfur cluster biosynthesis	NA	Lyrm4: Assembles with NFS1	NA
+SLC25A37	Iron-sulfur cluster biosynthesis	NA	Slc25a37: Functions as an essential iron importer	NA
+SLC25A28	Iron-sulfur cluster biosynthesis	NA	Slc25a28: Mitochondrial iron transporter	NA
+FDXR	Iron-sulfur cluster biosynthesis	NA	Fdxr: Provide reducing equivalents in an electron transfer chain contribute to iron-sulfur cluster biogenesis	NA
+FDX1	Iron-sulfur cluster biosynthesis	NA	Fdx1: Small iron-sulfur protein, transfers electrons from NADPH to mitochondrial cytochrome P450	NA
+FDX1L	Iron-sulfur cluster biosynthesis	NA	Fdx1l: Transfers electrons from NADPH to mitochondrial cytochrome P450	NA
+HSCB	Iron-sulfur cluster biosynthesis	NA	Hscb: Mitochondrial iron-sulfur cluster co-chaperone	NA
+GLRX5	Iron-sulfur cluster biosynthesis	NA	Glrx5: Fe-S cluster transfer protein directly to the apoprotein	NA
+NFU1	Iron-sulfur cluster biosynthesis	NA	Nfu1: Protein assembles and transfers 4Fe-4S clusters to target apoproteins	NA
+BOLA3	Iron-sulfur cluster biosynthesis	NA	Bola3: Rrole in the biogenesis of iron-sulfur clusters	NA
+FTMT	Iron-sulfur cluster biosynthesis	NA	Ftmt: Shows ferroxidase activity and binds iron	NA
+ABCB7	Iron-sulfur cluster biosynthesis	NA	Abcb7: Exports an sulphur product (X) from the mitochondrial iron sulphor cluster system to cytosol	NA
+NUBP2	Iron-sulfur cluster biosynthesis	NA	Nubp2: Required for the assembly of cyotosolic iron-sulfur proteins	NA
+NUBP1	Iron-sulfur cluster biosynthesis	NA	Nubp1: Essential for both cytosolic iron-sulfur protein assembly and iron homeostasis	NA
+CIAPIN1	Iron-sulfur cluster biosynthesis	NA	Ciapin1: Facilitates NUBP1 and NUBP2 assembly	NA
+ISCA1	Iron-sulfur cluster biosynthesis	NA	Isca1: Involved in the biogenesis and assembly of iron-sulfur clusters	NA
+ISCA2	Iron-sulfur cluster biosynthesis	NA	Isca2: Involved in the maturation of mitochondrial iron-sulfur proteins	NA
+A230051G13RIK	Iron-sulfur cluster biosynthesis	NA	A230051G13Rik: Involved in the maturation of mitochondrial iron-sulfur proteins	NA
+CIAO1	Iron-sulfur cluster biosynthesis	NA	Ciao1: Cytosolic Fe-S cluster biogenesis and maturation	NA
+FAM96A	Iron-sulfur cluster biosynthesis	NA	Fam96a: Components of the cytosolic Fe/S protein assembly (CIA) machinery	NA
+FAM96B	Iron-sulfur cluster biosynthesis	NA	Fam96b: Components of the cytosolic Fe/S protein assembly (CIA) machinery	NA
+MMS19	Iron-sulfur cluster biosynthesis	NA	Mms19: Cytosolic Fe/S protein assembly targeting factor	NA
+NARF	Iron-sulfur cluster biosynthesis	NA	Narf: Cytosolic Fe-S protein maturation	NA
+SLC27A1	Beta-oxidation of Fatty acids	NA	Slc27a1: Readily converts the transported very long chain fatty acids to acyl-CoAs	NA
+SLC27A2	Beta-oxidation of Fatty acids	NA	Slc27a2: Readily converts the transported very long chain fatty acids to acyl-CoAs	NA
+SLC27A3	Beta-oxidation of Fatty acids	NA	Slc27a3: Readily converts the transported very long chain fatty acids to acyl-CoAs	NA
+SLC27A4	Beta-oxidation of Fatty acids	NA	Slc27a4: Readily converts the transported very long chain fatty acids to acyl-CoAs	NA
+SLC27A5	Beta-oxidation of Fatty acids	NA	Slc27a5: Readily converts the transported very long chain fatty acids to acyl-CoAs	NA
+SLC27A6	Beta-oxidation of Fatty acids	NA	Slc27a6: Readily converts the transported very long chain fatty acids to acyl-CoAs	NA
+ACSL1	Beta-oxidation of Fatty acids	NA	Acsl1: Acyl-CoA synthetase activity for long chain free fatty acids are also involved in the activation of fatty acids	NA
+ACSL3	Beta-oxidation of Fatty acids	NA	Acsl3: Acyl-CoA synthetase activity for long chain free fatty acids are also involved in the activation of fatty acids	NA
+ACSL4	Beta-oxidation of Fatty acids	NA	Acsl4: Acyl-CoA synthetase activity for long chain free fatty acids are also involved in the activation of fatty acids	NA
+ACSL5	Beta-oxidation of Fatty acids	NA	Acsl5: Acyl-CoA synthetase activity for long chain free fatty acids are also involved in the activation of fatty acids	NA
+ACSL6	Beta-oxidation of Fatty acids	NA	Acsl6: Acyl-CoA synthetase activity for long chain free fatty acids are also involved in the activation of fatty acids	NA
+ACSS1	Beta-oxidation of Fatty acids	NA	Acss1: Acyl-CoA synthetase activity for short chain fatty acids	NA
+ACSS2	Beta-oxidation of Fatty acids	NA	Acss2: Acyl-CoA synthetase activity for short chain fatty acids	NA
+ACSS3	Beta-oxidation of Fatty acids	NA	Acss3: Acyl-CoA synthetase activity for short chain fatty acids	NA
+ACSM1	Beta-oxidation of Fatty acids	NA	Acsm1: Acyl-CoA synthetase activity for medium chain fatty acids	NA
+ACSM2	Beta-oxidation of Fatty acids	NA	Acsm2: Acyl-CoA synthetase activity for medium chain fatty acids	NA
+ACSM3	Beta-oxidation of Fatty acids	NA	Acsm3: Acyl-CoA synthetase activity for medium chain fatty acids	NA
+ACSM4	Beta-oxidation of Fatty acids	NA	Acsm4: Acyl-CoA synthetase activity for medium chain fatty acids	NA
+ACSM5	Beta-oxidation of Fatty acids	NA	Acsm5: Acyl-CoA synthetase activity for medium chain fatty acids	NA
+ACSBG1	Beta-oxidation of Fatty acids	NA	Acsbg1: Acyl-CoA synthetase activity for bubblegum family members	NA
+ACSBG2	Beta-oxidation of Fatty acids	NA	Acsbg2: Acyl-CoA synthetase activity for bubblegum family members	NA
+FABP1	Beta-oxidation of Fatty acids	NA	Fabp1: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP2	Beta-oxidation of Fatty acids	NA	Fabp2: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP3	Beta-oxidation of Fatty acids	NA	Fabp3: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP4	Beta-oxidation of Fatty acids	NA	Fabp4: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP5	Beta-oxidation of Fatty acids	NA	Fabp5: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP6	Beta-oxidation of Fatty acids	NA	Fabp6: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP7	Beta-oxidation of Fatty acids	NA	Fabp7: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP9	Beta-oxidation of Fatty acids	NA	Fabp9: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+FABP12	Beta-oxidation of Fatty acids	NA	Fabp12: Fatty acid binding proteins are also involved in the import and export of fatty acids	NA
+CD36	Beta-oxidation of Fatty acids	NA	Cd36: Fatty acid translocase	NA
+GOT2	Beta-oxidation of Fatty acids	NA	Got2: Plasma membrane fatty acid binding protein	NA
+CPT1A	Beta-oxidation of Fatty acids	NA	Cpt1a: Carnitiine palmitoyl transferase converts an acyl-CoA into an acylcarnitine	NA
+CPT1B	Beta-oxidation of Fatty acids	NA	Cpt1b: Carnitiine palmitoyl transferase converts an acyl-CoA into an acylcarnitine	NA
+CPT1C	Beta-oxidation of Fatty acids	NA	Cpt1c: Carnitiine palmitoyl transferase converts an acyl-CoA into an acylcarnitine	NA
+SLC25A20	Beta-oxidation of Fatty acids	NA	Slc25a20: Carnitine acylcarnitine translocase mediates acylcarnitine entry into mitochondria	NA
+CPT2	Beta-oxidation of Fatty acids	NA	Cpt2: Acylcarnitines are reconverted to their CoA esters by carnitine palmitoyltransferase 2	NA
+CRAT	Beta-oxidation of Fatty acids	NA	Crat: Free carnitine in the mitochondria can be converted into acyl carnitine by the action of carnitine acetyl transferase	NA
+ACAD8	Beta-oxidation of Fatty acids	NA	Acad8: Involved in the catabolism of fatty acids and branched chain aminoacid valine	NA
+ACAD10	Beta-oxidation of Fatty acids	NA	Acad10: Involved in the catabolism of fatty acids with significant activity towards branched chains	NA
+ACAD11	Beta-oxidation of Fatty acids	NA	Acad11: May be involved in the catabolism of long chain fatty acids	NA
+ACADL	Beta-oxidation of Fatty acids	NA	Acadl: Long chain hydroxyacyl-CoA dehydrogenase	NA
+ACADVL	Beta-oxidation of Fatty acids	NA	Acadvl: Very long chain acyl-CoAs are first catalyzed by long chain acyl-CoA dehydrogenase	NA
+HADHA	Beta-oxidation of Fatty acids	NA	Hadha: Mitochondrial trifunctional protein catalyzes the Very long and long chain fatty acids	NA
+HADHB	Beta-oxidation of Fatty acids	NA	Hadhb: Mitochondrial trifunctional protein catalyzes the Very long and long chain fatty acids	NA
+ACADM	Beta-oxidation of Fatty acids	NA	Acadm: Fatty acids are metabolized for 3 to 4 cycles by the medium chain acyl-CoA dehydrogenase	NA
+ECHS1	Beta-oxidation of Fatty acids	NA	Echs1: Enoyl-CoA hydratases, short chain, 1, mitochondrial	NA
+HADH	Beta-oxidation of Fatty acids	NA	Hadh: Medium and short chain hydroxyacyl-CoA dehydrogenase	NA
+ACAA2	Beta-oxidation of Fatty acids	NA	Acaa2: Medium chain 3-ketoacyl-CoA thiolase	NA
+ACADS	Beta-oxidation of Fatty acids	NA	Acads: Short chain acyl-CoA dehydrogenase encoded by ACADS catalyzes the final 1 to 2 cycles	NA
+ACADSB	Beta-oxidation of Fatty acids	NA	Acadsb: Involved in the metabolism of short branched chain fatty acids	NA
+DECR1	Beta-oxidation of Fatty acids	NA	Decr1: 2,4 dienoyl CoA reductase 1 catalyzes the metabolism of Polyunsaturated fatty acids	NA

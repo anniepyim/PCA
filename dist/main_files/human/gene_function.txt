@@ -1,0 +1,1153 @@
+gene	process	chr	gene_function	ENSG
+AADAT	Amino Acid Metabolism	NA	catalytic activity; pyridoxal phosphate binding	NA
+AASS	Amino Acid Metabolism	NA	saccharopine dehydrogenase (NAD+; L-lysine-forming) activity	NA
+ABAT	Amino Acid Metabolism	NA	4-aminobutyrate transaminase activity; pyridoxal phosphate binding	NA
+ACAA2	Amino Acid Metabolism	NA	acetyl-CoA C-acetyltransferase activity	NA
+ACAT1	Amino Acid Metabolism	NA	acetyl-CoA C-acetyltransferase activity	NA
+ACAT2	Amino Acid Metabolism	NA	acetyl-CoA C-acetyltransferase activity	NA
+ADO	Amino Acid Metabolism	NA	cysteamine dioxygenase activity	NA
+AGXT	Amino Acid Metabolism	NA	alanine-glyoxylate transaminase activity; pyridoxal phosphate binding; serine-pyruvate transaminase activity	NA
+AGXT2	Amino Acid Metabolism	NA	alanine-glyoxylate transaminase activity; pyridoxal phosphate binding	NA
+AGXT2L1	Amino Acid Metabolism	NA	alanine-glyoxylate transaminase activity; ornithine-oxo-acid transaminase activity; pyridoxal phosphate binding	NA
+AGXT2L2	Amino Acid Metabolism	NA	alanine-glyoxylate transaminase activity; ornithine-oxo-acid transaminase activity; pyridoxal phosphate binding	NA
+ALDH18A1	Amino Acid Metabolism	NA	delta1-pyrroline-5-carboxylate synthetase activity; glutamate 5-kinase activity; glutamate-5-semialdehyde dehydrogenase activity	NA
+ALDH4A1	Amino Acid Metabolism	NA	1-pyrroline-5-carboxylate dehydrogenase activity; oxidoreductase activity; acting on the aldehyde or oxo group of donors; NAD or NADP as acceptor	NA
+ALDH5A1	Amino Acid Metabolism	NA	succinate-semialdehyde dehydrogenase (NAD+) activity; succinate-semialdehyde dehydrogenase [NAD(P)+] activity	NA
+ALDH6A1	Amino Acid Metabolism	NA	methylmalonate-semialdehyde dehydrogenase (acylating) activity	NA
+ASS1	Amino Acid Metabolism	NA	argininosuccinate synthase activity; ATP binding	NA
+AUH	Amino Acid Metabolism	NA	AU-rich element binding; enoyl-CoA hydratase activity	NA
+BCAT1	Amino Acid Metabolism	NA	branched-chain-amino-acid transaminase activity	NA
+BCAT2	Amino Acid Metabolism	NA	branched-chain-amino-acid transaminase activity	NA
+BCKDHA	Amino Acid Metabolism	NA	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity	NA
+BCKDHB	Amino Acid Metabolism	NA	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity	NA
+C15orf61	Amino Acid Metabolism	NA		NA
+CCBL2	Amino Acid Metabolism	NA	kynurenine-oxoglutarate transaminase activity; pyridoxal phosphate binding	NA
+DBT	Amino Acid Metabolism	NA	cofactor binding; dihydrolipoamide branched chain acyltransferase activity; dihydrolipoyllysine-residue (2-methylpropanoyl)transferase activity	NA
+DHTKD1	Amino Acid Metabolism	NA	oxoglutarate dehydrogenase (succinyl-transferring) activity; thiamine pyrophosphate binding	NA
+ECHDC2	Amino Acid Metabolism	NA	AU-rich element binding; enoyl-CoA hydratase activity	NA
+ETHE1	Amino Acid Metabolism	NA	hydrolase activity	NA
+FAHD1	Amino Acid Metabolism	NA	catalytic activity	NA
+GCSH	Amino Acid Metabolism	NA		NA
+GLDC	Amino Acid Metabolism	NA	glycine dehydrogenase (decarboxylating) activity; pyridoxal phosphate binding	NA
+GLS	Amino Acid Metabolism	NA	glutaminase activity	NA
+GLS2	Amino Acid Metabolism	NA	glutaminase activity	NA
+GLUD1	Amino Acid Metabolism	NA	glutamate dehydrogenase (NAD+) activity; glutamate dehydrogenase [NAD(P)+] activity; identical protein binding	NA
+GLUD2	Amino Acid Metabolism	NA	glutamate dehydrogenase (NAD+) activity; glutamate dehydrogenase [NAD(P)+] activity; identical protein binding	NA
+GLUL	Amino Acid Metabolism	NA	glutamate synthase activity; glutamate-ammonia ligase activity	NA
+GOT2	Amino Acid Metabolism	NA	L-aspartate:2-oxoglutarate aminotransferase activity; pyridoxal phosphate binding	NA
+GPT2	Amino Acid Metabolism	NA	L-alanine:2-oxoglutarate aminotransferase activity; pyridoxal phosphate binding	NA
+GSTZ1	Amino Acid Metabolism	NA	glutathione transferase activity; maleylacetoacetate isomerase activity	NA
+HIBADH	Amino Acid Metabolism	NA	3-hydroxyisobutyrate dehydrogenase activity; NAD binding; phosphogluconate dehydrogenase (decarboxylating) activity	NA
+HIBCH	Amino Acid Metabolism	NA	3-hydroxyisobutyryl-CoA hydrolase activity	NA
+HMGCL	Amino Acid Metabolism	NA	hydroxymethylglutaryl-CoA lyase activity	NA
+HMGCS2	Amino Acid Metabolism	NA	hydroxymethylglutaryl-CoA synthase activity	NA
+IVD	Amino Acid Metabolism	NA	flavin adenine dinucleotide binding; isovaleryl-CoA dehydrogenase activity	NA
+KMO	Amino Acid Metabolism	NA	kynurenine 3-monooxygenase activity	NA
+MAOB	Amino Acid Metabolism	NA	oxidoreductase activity	NA
+MCCC1	Amino Acid Metabolism	NA	ATP binding; biotin carboxylase activity; metal ion binding; methylcrotonoyl-CoA carboxylase activity	NA
+MCCC2	Amino Acid Metabolism	NA	CoA carboxylase activity; methylcrotonoyl-CoA carboxylase activity; propionyl-CoA carboxylase activity	NA
+NADKD1	Amino Acid Metabolism	NA	NAD+ kinase activity	NA
+NIT1	Amino Acid Metabolism	NA	bis(5'-adenosyl)-triphosphatase activity; hydrolase activity; acting on carbon-nitrogen (but not peptide) bonds; nitrilase activity	NA
+NIT2	Amino Acid Metabolism	NA	bis(5'-adenosyl)-triphosphatase activity; hydrolase activity; acting on carbon-nitrogen (but not peptide) bonds; nitrilase activity	NA
+OAT	Amino Acid Metabolism	NA	ornithine-oxo-acid transaminase activity; pyridoxal phosphate binding	NA
+OXCT1	Amino Acid Metabolism	NA	3-oxoacid CoA-transferase activity	NA
+OXCT2	Amino Acid Metabolism	NA	3-oxoacid CoA-transferase activity	NA
+P4HA1	Amino Acid Metabolism	NA	iron ion binding; L-ascorbic acid binding; oxidoreductase activity; acting on single donors with incorporation of molecular oxygen; incorporation of two atoms of oxygen; procollagen-proline 4-dioxygenase activity	NA
+PC	Amino Acid Metabolism	NA	ATP binding; biotin carboxylase activity; DNA binding; metal ion binding; pyruvate carboxylase activity	NA
+PCBD2	Amino Acid Metabolism	NA	4-alpha-hydroxytetrahydrobiopterin dehydratase activity	NA
+PCCA	Amino Acid Metabolism	NA	ATP binding; biotin carboxylase activity; metal ion binding; methylcrotonoyl-CoA carboxylase activity	NA
+PRODH	Amino Acid Metabolism	NA	proline dehydrogenase activity	NA
+PRODH2	Amino Acid Metabolism	NA		NA
+PYCR1	Amino Acid Metabolism	NA	pyrroline-5-carboxylate reductase activity	NA
+PYCR2	Amino Acid Metabolism	NA	pyrroline-5-carboxylate reductase activity	NA
+QDPR	Amino Acid Metabolism	NA	6; 7-dihydropteridine reductase activity	NA
+SCCPDH	Amino Acid Metabolism	NA	oxidoreductase activity	NA
+SQRDL	Amino Acid Metabolism	NA	oxidoreductase activity	NA
+SUOX	Amino Acid Metabolism	NA	electron carrier activity; heme binding; molybdenum ion binding; sulfite oxidase activity	NA
+MCL1	Apoptosis	1	MCL1: Bcl-2 family member Anti-apoptotic proteins	ENSG00000143384
+CASP9	Apoptosis	1	CASP9: Initiator caspase recruited by Apoptosome	ENSG00000132906
+BCL2L11	Apoptosis	2	BCL2L11: Bim Bcl-2 family member propagating apoptosis	ENSG00000153094
+CASP3	Apoptosis	4	CASP3: Executioner caspases leading to apoptosis	ENSG00000164305
+BAK1	Apoptosis	6	BAK1: Bcl-2 family member propagating apoptosis	ENSG00000030110
+PPIA	Apoptosis	7	PPIA: Cyclophilin A might work with ENDOG in a DNA degradation complex	ENSG00000196262
+DNM1	Apoptosis	9	DNM1: Recruited to mitochondria can induce cristae remodelling to release cytochrome c and subsequent apoptosis	ENSG00000106976
+CASP7	Apoptosis	10	CASP7: Executioner caspases leading to apoptosis	ENSG00000165806
+CDK1	Apoptosis	10	CDK1: Can Inhibit CASP9 activity and also involved in the phosphorylation of DNM1L to increase fission	ENSG00000170312
+EIF3M	Apoptosis	11	EIF3M: PCI domain containing protein 1 can negatively regulate CASP9 activity	ENSG00000149100
+APAF1	Apoptosis	12	APAF1: Binds CASP9 preprotein forming an apoptosome and activates it	ENSG00000120868
+DIABLO	Apoptosis	12	DIABLO: Acts as caspase activator by inhibiting the inhibitors of apoptotic proteins	ENSG00000184047
+ANP32A	Apoptosis	15	ANP32A: Enhances APAF1 function	ENSG00000140350
+MAPK3	Apoptosis	16	MAPK3: Inhibitors of CASP9 activity	ENSG00000102882
+TP53	Apoptosis	17	TP53: Directly binds both BAK and BAX and activates them	ENSG00000141510
+BCL2	Apoptosis	18	BCL2: Bcl-2 family member Anti-apoptotic proteins	ENSG00000171791
+PMAIP1	Apoptosis	18	PMAIP1: Noxa Bcl-2 family member propagating apoptosis	ENSG00000141682
+BAX	Apoptosis	19	BAX: Bcl-2 family member propagating apoptosis	ENSG00000087088
+BBC3	Apoptosis	19	BBC3: Puma Bcl-2 family member propagating apoptosis	ENSG00000105327
+BCL2L1	Apoptosis	20	BCL2L1: Bcl-2 family member Anti-apoptotic proteins	ENSG00000171552
+MAPK1	Apoptosis	22	MAPK1: Inhibitors of CASP9 activity	ENSG00000100030
+BIK	Apoptosis	22	BIK: Bcl-2 family member propagating apoptosis	ENSG00000100290
+BID	Apoptosis	22	BID: Bcl-2 family member propagating apoptosis	ENSG00000015475
+AIFM1	Apoptosis	NA	DNA binding; flavin adenine dinucleotide binding; oxidoreductase activity	NA
+AIFM3	Apoptosis	NA	2 iron; 2 sulfur cluster binding; ferredoxin-NAD(P) reductase activity; flavin adenine dinucleotide binding; oxidoreductase activity	NA
+AK2	Apoptosis	NA	adenylate kinase activity; ATP binding	NA
+ALKBH7	Apoptosis	NA		NA
+APOPT1	Apoptosis	NA		NA
+BAD	Apoptosis	NA		NA
+BNIP1	Apoptosis	NA	SNAP receptor activity	NA
+BNIP3	Apoptosis	NA		NA
+BNIP3L	Apoptosis	NA		NA
+BOK	Apoptosis	NA	protein heterodimerization activity; protein homodimerization activity	NA
+CASP2	Apoptosis	NA	cysteine-type endopeptidase activity; endopeptidase activity; peptidase activator activity involved in apoptotic process; protein binding	NA
+CASP8	Apoptosis	NA	cysteine-type endopeptidase activity; endopeptidase activity; peptidase activator activity involved in apoptotic process; protein binding	NA
+CLIC4	Apoptosis	NA	calcium ion binding; chloride channel activity; lipid binding	NA
+CTSB	Apoptosis	NA	cysteine-type endopeptidase activity	NA
+DNAJA3	Apoptosis	NA	ATP binding; heat shock protein binding; patched binding; unfolded protein binding	NA
+DNM1L	Apoptosis	NA	GTP binding; GTPase activity	NA
+DYNLL1	Apoptosis	NA	ATPase activity; coupled; dynein intermediate chain binding; microtubule motor activity; protein binding; protein homodimerization activity	NA
+FAM162A	Apoptosis	NA		NA
+FKBP8	Apoptosis	NA	FK506 binding; peptidyl-prolyl cis-trans isomerase activity	NA
+GFER	Apoptosis	NA	flavin-linked sulfhydryl oxidase activity	NA
+GHITM	Apoptosis	NA		NA
+HINT2	Apoptosis	NA	nucleotidase activity	NA
+HSPA1B	Apoptosis	NA	ATPase activity; chaperone binding; unfolded protein binding	NA
+HTRA2	Apoptosis	NA	peptidase activity; serine-type endopeptidase activity	NA
+LETMD1	Apoptosis	NA	ribosome binding	NA
+MTCH1	Apoptosis	NA	transmembrane transporter activity	NA
+MTCH2	Apoptosis	NA	transmembrane transporter activity	NA
+NUDT6	Apoptosis	NA	hydrolase activity	NA
+PACRG	Apoptosis	NA	G-protein coupled receptor binding	NA
+PARL	Apoptosis	NA	serine-type endopeptidase activity	NA
+PRELID1	Apoptosis	NA		NA
+RPS6KB1	Apoptosis	NA	ATP binding; protein serine/threonine kinase activity; ribosomal protein S6 kinase activity	NA
+TMEM173	Apoptosis	NA	cyclic-di-GMP binding	NA
+TRAP1	Apoptosis	NA	ATP binding; ATPase activity; unfolded protein binding	NA
+TRIAP1	Apoptosis	NA		NA
+TSPO	Apoptosis	NA	benzodiazepine receptor activity	NA
+VDAC1	Apoptosis	NA	voltage-gated anion channel activity	NA
+VDAC2	Apoptosis	NA	voltage-gated anion channel activity	NA
+VDAC3	Apoptosis	NA	voltage-gated anion channel activity	NA
+XIAP	Apoptosis	X	XIAP: X-linked inhibitor of apoptosis protein inhibits caspase activity by directly binding to CASP9, 3 and 7	ENSG00000101966
+AMACR	Bile Acid Synthesis	NA	alpha-methylacyl-CoA racemase activity	NA
+CYP11A1	Bile Acid Synthesis	NA	electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP24A1	Bile Acid Synthesis	NA	electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP27A1	Bile Acid Synthesis	NA	electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP27B1	Bile Acid Synthesis	NA	electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+HSD17B4	Bile Acid Synthesis	NA	3R-hydroxyacyl-CoA dehydratase activity; enoyl-CoA hydratase activity; oxidoreductase activity; protein homodimerization activity	NA
+SCP2	Bile Acid Synthesis	NA	acetyl-CoA C-acyltransferase activity; phospholipid transporter activity; sterol binding; transferase activity; transferring acyl groups other than amino-acyl groups	NA
+STAR	Bile Acid Synthesis	NA	cholesterol binding; cholesterol transporter activity	NA
+C22orf32	Calcium Signaling & Transport	NA		NA
+EFHD1	Calcium Signaling & Transport	NA	calcium ion binding	NA
+LETM1	Calcium Signaling & Transport	NA	calcium ion binding; calcium:sodium antiporter activity; potassium:hydrogen antiporter activity	NA
+LETM2	Calcium Signaling & Transport	NA	calcium ion binding; calcium:sodium antiporter activity; potassium:hydrogen antiporter activity	NA
+MCU	Calcium Signaling & Transport	NA	nucleic acid binding	NA
+MICU1	Calcium Signaling & Transport	NA	calcium ion binding	NA
+MICU2;EFHA1	Calcium Signaling & Transport	NA	calcium ion binding	NA
+PPIF	Calcium Signaling & Transport	NA	cyclin-dependent protein serine/threonine kinase regulator activity; peptidyl-prolyl cis-trans isomerase activity	NA
+SLC25A12	Calcium Signaling & Transport	NA	calcium ion binding; transmembrane transporter activity	NA
+SLC25A13	Calcium Signaling & Transport	NA	calcium ion binding; transmembrane transporter activity	NA
+STOML2	Calcium Signaling & Transport	NA		NA
+TMEM65	Calcium Signaling & Transport	NA		NA
+ITPR1	Calcium Signaling & Transport	3	ITPR1: Component of the Inositol-1,4,5-triphosphate receptors channels used for the fluxes of Ca2+ from ER to mitochondria	ENSG00000150995
+CCDC109B	Calcium Signaling & Transport	4	CCDC109B: Forms a important component of mitochondrial calcium uniporter with MCU	ENSG00000005059
+CCDC90A	Calcium Signaling & Transport	6	CCDC90A: Mitochondrial calcium uniporter regulator 1 required for the MCU dependent calcium uptake by the mitochondria	ENSG00000050393
+ITPR3	Calcium Signaling & Transport	6	ITPR3: Component of the Inositol-1,4,5-triphosphate receptors channels used for the fluxes of Ca2+ from ER to mitochondria	ENSG00000096433
+EFHA2	Calcium Signaling & Transport	8	EFHA2: Regulates the mitochodrial calcium uniporter by inhibiting and permitting the calcium depending upon the cytosolic calcium concentrations	ENSG00000155970
+SIGMAR1	Calcium Signaling & Transport	9	SIGMAR1: Stabilises the Inositol-1,4,5-triphosphate receptors and ensures proper Ca2+ fluxes	ENSG00000147955
+SLC24A6	Calcium Signaling & Transport	12	SLC24A6: Involved in the calcium homeostasis by counteracting the calcium accumaltion in the mitochondria	ENSG00000089060
+ITPR2	Calcium Signaling & Transport	12	ITPR2: Component of the Inositol-1,4,5-triphosphate receptors channels used for the fluxes of Ca2+ from ER to mitochondria	ENSG00000123104
+TCHP	Calcium Signaling & Transport	12	TCHP: Involved in the regulation of ER mitochondria juxtaposition	ENSG00000139437
+EFHA1	Calcium Signaling & Transport	13	EFHA1: Regulates the mitochodrial calcium uniporter by inhibiting and permitting the calcium depending upon the cytosolic calcium concentrations	ENSG00000165487
+PACS2	Calcium Signaling & Transport	14	PACS2: Involved in the control of ER mitochondria appositions	ENSG00000179364
+PML	Calcium Signaling & Transport	15	PML: Regulates Inositol-1,4,5-triphosphate receptor mediated Ca2+ release from the ER	ENSG00000140464
+CDS1	Cardiolipin Biosynthesis	4	CDS1: Converts phosphatidic acid to cytidine diphosphate diacylglycerol	ENSG00000163624
+CRLS1	Cardiolipin Biosynthesis	NA	cardiolipin synthase activity; CDP-alcohol phosphatidyltransferase activity	NA
+PGS1	Cardiolipin Biosynthesis	NA	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity	NA
+PLD6	Cardiolipin Biosynthesis	NA	cardiolipin hydrolase activity; cardiolipin synthase activity; endoribonuclease activity, producing 5Ã¢â‚¬â„¢-phosphomonoesters	NA
+TAZ	Cardiolipin Biosynthesis	NA	phosphatidylcholine:cardiolipin O-linoleoyltransferase activity; transferase activity; transferring acyl groups	NA
+C1orf31	Electron Transport Chain	1	C1orf31: COA6 Complex IV assembly factor	ENSG00000168275
+SELRC1	Electron Transport Chain	1	SELRC1: COA7 Complex IV assembly factor	ENSG00000162377
+COA5	Electron Transport Chain	2	COA5: Complex IV assembly factor	ENSG00000183513
+C2orf56	Electron Transport Chain	2	C2orf56: NDUFAF7 methylates arginine 85 in the NDUFS2 subunit of human complex I	ENSG00000003509
+NDUFC1	Electron Transport Chain	4	NDUFC1: Essential component of complex I transfers electrons from NADH to ubiquinone	ENSG00000109390
+COX7B2	Electron Transport Chain	4	COX7B2: Cytochrome c oxidase subunit VIIb2 essential component of complex IV	ENSG00000170516
+NDUFAF2	Electron Transport Chain	5	NDUFAF2: Required in the assembly of Complex I	ENSG00000164182
+PTCD2	Electron Transport Chain	5	PTCD2: Complex III assembly factor, maturation and stabilization of cytochrome b mRNA	ENSG00000049883
+MNF1	Electron Transport Chain	6	MNF1: Complex III assembly factor, ubiquinol-cytochrome c reductase complex assembly factor 2	ENSG00000137288
+C7orf44	Electron Transport Chain	7	C7orf44: COA1 Complex IV assembly factor	ENSG00000106603
+COX19	Electron Transport Chain	7	COX19: Complex IV assembly factor	ENSG00000240230
+C8orf38	Electron Transport Chain	8	C8orf38: NDUFAF6 important role in the assembly of complex I	ENSG00000156170
+CHCHD8	Electron Transport Chain	11	CHCHD8: COA4 Complex IV assembly factor	ENSG00000181924
+TMEM126B	Electron Transport Chain	11	TMEM126B: Component of the mitochondrial complex I assembly complex	ENSG00000171204
+ATP5G2	Electron Transport Chain	12	ATP5G2: ATP synthase H+ transporting mitochondrial Fo complex subunit C2 (subunit 9) essential component of complex V	ENSG00000135390
+CCDC56	Electron Transport Chain	17	CCDC56: COA3 Complex IV assembly factor	ENSG00000183978
+NDUFA3	Electron Transport Chain	19	NDUFA3: Essential component of complex I transfers electrons from NADH to ubiquinone	ENSG00000170906
+SDHAF1	Electron Transport Chain	19	SDHAF1: Essential for complex II assembly	ENSG00000205138
+C20orf7	Electron Transport Chain	20	C20orf7: NDUFAF5 is required for complex I assembly	ENSG00000101247
+NDUFV3	Electron Transport Chain	21	NDUFV3: Essential component of complex I transfers electrons from NADH to ubiquinone	ENSG00000160194
+ACAD9	Electron Transport Chain	NA	flavin adenine dinucleotide binding; long-chain-acyl-CoA dehydrogenase activity	NA
+ACN9	Electron Transport Chain	NA		NA
+ADCK1	Electron Transport Chain	NA	ATP binding; protein kinase activity; transferase activity; transferring phosphorus-containing groups	NA
+ADCK3	Electron Transport Chain	NA	protein kinase activity; transferase activity; transferring phosphorus-containing groups	NA
+ADCK4	Electron Transport Chain	NA	protein kinase activity; transferase activity; transferring phosphorus-containing groups	NA
+ADCK5	Electron Transport Chain	NA	ATP binding; protein kinase activity; transferase activity; transferring phosphorus-containing groups	NA
+ATP5A1	Electron Transport Chain	NA	ATP binding; hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism; proton-transporting ATPase activity; rotational mechanism	NA
+ATP5B	Electron Transport Chain	NA	ATP binding; hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism	NA
+ATP5C1	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism; proton-transporting ATPase activity; rotational mechanism	NA
+ATP5D	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism; proton-transporting ATPase activity; rotational mechanism	NA
+ATP5E	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism; proton-transporting ATPase activity; rotational mechanism	NA
+ATP5F1	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism	NA
+ATP5G1	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5G3	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5H	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5I	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5J	Electron Transport Chain	NA	hydrogen ion transmembrane transporter activity; hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5J2	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5L	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5L2	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5O	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism	NA
+ATP5S	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP5SL	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism	NA
+ATP6	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism	NA
+ATP6V1E1	Electron Transport Chain	NA	proton-transporting ATPase activity; rotational mechanism	NA
+ATP8	Electron Transport Chain	NA	hydrogen-exporting ATPase activity; phosphorylative mechanism; proton-transporting ATP synthase activity; rotational mechanism	NA
+ATPAF1	Electron Transport Chain	NA		NA
+ATPAF2	Electron Transport Chain	NA		NA
+ATPIF1	Electron Transport Chain	NA	enzyme inhibitor activity	NA
+BCS1L	Electron Transport Chain	NA	ATP binding; ATPase activity	NA
+C2orf47	Electron Transport Chain	NA	protein binding	NA
+C6orf57	Electron Transport Chain	NA		NA
+C7orf55	Electron Transport Chain	NA		NA
+CISD1	Electron Transport Chain	NA	2 iron; 2 sulfur cluster binding	NA
+CISD2	Electron Transport Chain	NA	2 iron; 2 sulfur cluster binding	NA
+CISD3	Electron Transport Chain	NA	2 iron; 2 sulfur cluster binding	NA
+CMC1	Electron Transport Chain	NA	copper ion binding	NA
+Coa1	Electron Transport Chain	NA	RNA binding; structural constituent of ribosome	NA
+COA3	Electron Transport Chain	NA		NA
+COA6	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COQ10A	Electron Transport Chain	NA	ubiquinone binding	NA
+COQ10B	Electron Transport Chain	NA	ubiquinone binding	NA
+COX1	Electron Transport Chain	NA	cytochrome-c oxidase activity; electron carrier activity; heme binding; iron ion binding	NA
+COX10	Electron Transport Chain	NA	protoheme IX farnesyltransferase activity	NA
+COX11	Electron Transport Chain	NA	procollagen-lysine 5-dioxygenase activity; copper ion binding	NA
+COX14	Electron Transport Chain	NA		NA
+COX15	Electron Transport Chain	NA	oxidoreductase activity; acting on the CH-CH group of donors	NA
+COX16	Electron Transport Chain	NA		NA
+COX17	Electron Transport Chain	NA	copper chaperone activity	NA
+COX18	Electron Transport Chain	NA		NA
+COX2	Electron Transport Chain	NA	copper ion binding; cytochrome-c oxidase activity	NA
+COX20	Electron Transport Chain	NA		NA
+COX3	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX4I1	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX4I2	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX5A	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX5B	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX6A1	Electron Transport Chain	NA	cytochrome-c oxidase activity; enzyme regulator activity	NA
+COX6A2	Electron Transport Chain	NA	cytochrome-c oxidase activity; enzyme regulator activity	NA
+COX6B1	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX6B2	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX6C	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX7A1	Electron Transport Chain	NA	cytochrome-c oxidase activity; electron carrier activity	NA
+COX7A2	Electron Transport Chain	NA	cytochrome-c oxidase activity; electron carrier activity	NA
+COX7A2L	Electron Transport Chain	NA	cytochrome-c oxidase activity; electron carrier activity	NA
+COX7C	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX8A	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+COX8C	Electron Transport Chain	NA	cytochrome-c oxidase activity	NA
+CYC1	Electron Transport Chain	NA	electron transporter; transferring electrons within CoQH2-cytochrome c reductase complex activity; heme binding; iron ion binding	NA
+CYCS	Electron Transport Chain	NA	electron carrier activity; electron transporter; transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity; heme binding; iron ion binding	NA
+CYTB	Electron Transport Chain	NA	electron carrier activity; oxidoreductase activity; ubiquinol-cytochrome-c reductase activity	NA
+D2HGDH	Electron Transport Chain	NA	flavin adenine dinucleotide binding; UDP-N-acetylmuramate dehydrogenase activity	NA
+ECSIT	Electron Transport Chain	NA	protein binding	NA
+ETFA	Electron Transport Chain	NA	electron carrier activity; flavin adenine dinucleotide binding	NA
+ETFB	Electron Transport Chain	NA	electron carrier activity	NA
+ETFDH	Electron Transport Chain	NA	electron-transferring-flavoprotein dehydrogenase activity	NA
+FASTK	Electron Transport Chain	NA	protein kinase activity	NA
+FASTKD1	Electron Transport Chain	NA	protein kinase activity	NA
+FASTKD3	Electron Transport Chain	NA	protein kinase activity	NA
+FOXRED1	Electron Transport Chain	NA	oxidoreductase activity	NA
+GBAS	Electron Transport Chain	NA		NA
+GPD1	Electron Transport Chain	NA	DNA binding; glycerol-3-phosphate dehydrogenase [NAD+] activity; NAD binding; protein homodimerization activity	NA
+GPD2	Electron Transport Chain	NA	calcium ion binding; glycerol-3-phosphate dehydrogenase activity	NA
+HCCS	Electron Transport Chain	NA	holocytochrome-c synthase activity	NA
+HIGD1A	Electron Transport Chain	NA		NA
+HIGD2A	Electron Transport Chain	NA		NA
+LYRM5	Electron Transport Chain	NA		NA
+LYRM7	Electron Transport Chain	NA		NA
+ND1	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+ND2	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+ND3	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+ND4	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+ND4L	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; oxidoreductase activity; acting on NAD(P)H	NA
+ND5	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+ND6	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+NDUFA1	Electron Transport Chain	NA		NA
+NDUFA10	Electron Transport Chain	NA	ATP binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; phosphotransferase activity; alcohol group as acceptor	NA
+NDUFA11	Electron Transport Chain	NA	ligand Ubiquinone	NA
+NDUFA12	Electron Transport Chain	NA	electron carrier activity; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFA13	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFA2	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFA4	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFA5	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFA6	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFA7	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFA8	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFA9	Electron Transport Chain	NA	coenzyme binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFAB1	Electron Transport Chain	NA	ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process; phosphopantetheine binding	NA
+NDUFAF1	Electron Transport Chain	NA	unfolded protein binding	NA
+NDUFAF3	Electron Transport Chain	NA		NA
+NDUFAF4	Electron Transport Chain	NA		NA
+NDUFAF5	Electron Transport Chain	NA	methyltransferase activity	NA
+NDUFAF6	Electron Transport Chain	NA	transferase activity	NA
+NDUFAF7	Electron Transport Chain	NA		NA
+NDUFB1	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFB10	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFB11	Electron Transport Chain	NA		NA
+NDUFB2	Electron Transport Chain	NA	ligand ubiquinone	NA
+NDUFB3	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFB4	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFB5	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFB6	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFB7	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFB8	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFB9	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFC2	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFS1	Electron Transport Chain	NA	electron carrier activity; iron-sulfur cluster binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFS2	Electron Transport Chain	NA	NAD binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; quinone binding	NA
+NDUFS3	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFS4	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+NDUFS5	Electron Transport Chain	NA	NADH dehydrogenase activity	NA
+NDUFS6	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity	NA
+NDUFS7	Electron Transport Chain	NA	4 iron; 4 sulfur cluster binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity; quinone binding	NA
+NDUFS8	Electron Transport Chain	NA	4 iron; 4 sulfur cluster binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFV1	Electron Transport Chain	NA	4 iron; 4 sulfur cluster binding; FMN binding; NAD binding; NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NDUFV2	Electron Transport Chain	NA	NADH dehydrogenase (ubiquinone) activity; NADH dehydrogenase activity	NA
+NIPSNAP1	Electron Transport Chain	NA		NA
+NUBPL	Electron Transport Chain	NA	ATP binding; nucleotide binding	NA
+OXA1L	Electron Transport Chain	NA	protein transporter activity	NA
+PET117	Electron Transport Chain	NA		NA
+PMPCB	Electron Transport Chain	NA	metal ion binding; metalloendopeptidase activity; ubiquinol-cytochrome-c reductase activity	NA
+RTN4IP1	Electron Transport Chain	NA	oxidoreductase activity; zinc ion binding	NA
+SCO1	Electron Transport Chain	NA	copper chaperone activity; cytochrome-c oxidase activity	NA
+SCO2	Electron Transport Chain	NA	copper chaperone activity; cytochrome-c oxidase activity	NA
+SDHA	Electron Transport Chain	NA	flavin adenine dinucleotide binding; succinate dehydrogenase (ubiquinone) activity; succinate-CoA ligase (GDP-forming) activity	NA
+SDHAF2	Electron Transport Chain	NA	copper ion binding	NA
+SDHAF3	Electron Transport Chain	NA		NA
+SDHAF4	Electron Transport Chain	NA		NA
+SDHB	Electron Transport Chain	NA	2 iron; 2 sulfur cluster binding; electron carrier activity; succinate dehydrogenase (ubiquinone) activity	NA
+SDHC	Electron Transport Chain	NA	electron carrier activity; succinate dehydrogenase (ubiquinone) activity; succinate dehydrogenase activity	NA
+SDHD	Electron Transport Chain	NA	succinate dehydrogenase (ubiquinone) activity; succinate dehydrogenase activity	NA
+SURF1	Electron Transport Chain	NA	heme transporter activity	NA
+TBRG4	Electron Transport Chain	NA	protein kinase activity	NA
+TFB1M	Electron Transport Chain	NA		NA
+TMEM186	Electron Transport Chain	NA		NA
+TMEM70	Electron Transport Chain	NA		NA
+TSTD1	Electron Transport Chain	NA	unfolded protein binding	NA
+TTC19	Electron Transport Chain	NA		NA
+UQCC	Electron Transport Chain	NA		NA
+UQCR10	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity	NA
+UQCR11	Electron Transport Chain	NA	electron carrier activity; ubiquinol-cytochrome-c reductase activity	NA
+UQCRB	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity	NA
+UQCRC1	Electron Transport Chain	NA	metal ion binding; metalloendopeptidase activity; ubiquinol-cytochrome-c reductase activity	NA
+UQCRC2	Electron Transport Chain	NA	metal ion binding; ubiquinol-cytochrome-c reductase activity	NA
+UQCRFS1	Electron Transport Chain	NA	2 iron; 2 sulfur cluster binding; ubiquinol-cytochrome-c reductase activity	NA
+UQCRH	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity	NA
+UQCRQ	Electron Transport Chain	NA	ubiquinol-cytochrome-c reductase activity; ubiquinone binding	NA
+USMG5	Electron Transport Chain	NA	ribonucleoprotein, ribosomal protein; hormone activity	NA
+COX7B	Electron Transport Chain	X	COX7B: Cytochrome c oxidase subunit VIIb essential component of complex IV	ENSG00000131174
+MT-ND1	Electron Transport Chain (MT)	MT	MT-ND1: Mitochondrially encoded NADH dehydrogenase 1 part of enzyme complex I	ENSG00000198888
+MT-ND2	Electron Transport Chain (MT)	MT	MT-ND2: Mitochondrially encoded NADH dehydrogenase 2 part of enzyme complex I	ENSG00000198763
+MT-ND3	Electron Transport Chain (MT)	MT	MT-ND3: Mitochondrially encoded NADH dehydrogenase 3 part of enzyme complex I	ENSG00000198840
+MT-ND4	Electron Transport Chain (MT)	MT	MT-ND4: Mitochondrially encoded NADH dehydrogenase 4 part of enzyme complex I	ENSG00000198886
+MT-ND4L	Electron Transport Chain (MT)	MT	MT-ND4L: Mitochondrially encoded NADH dehydrogenase 4L part of enzyme complex I	ENSG00000212907
+MT-ND5	Electron Transport Chain (MT)	MT	MT-ND5: Mitochondrially encoded NADH dehydrogenase 5 part of enzyme complex I	ENSG00000198786
+MT-ND6	Electron Transport Chain (MT)	MT	MT-ND6: Mitochondrially encoded NADH dehydrogenase 6 part of enzyme complex I	ENSG00000198695
+MT-CYB	Electron Transport Chain (MT)	MT	MT-CYB: Essential component of complex III transfers electrons from iron sulphur protein to cytochrome c	ENSG00000198727
+MT-CO1	Electron Transport Chain (MT)	MT	MT-CO1: Mitochondrially encoded cytochrome c oxidase I essential component of complex IV	ENSG00000198804
+MT-CO2	Electron Transport Chain (MT)	MT	MT-CO2: Mitochondrially encoded cytochrome c oxidase II essential component of complex IV	ENSG00000198712
+MT-CO3	Electron Transport Chain (MT)	MT	MT-CO3: Mitochondrially encoded cytochrome c oxidase III essential component of complex IV	ENSG00000198938
+MT-ATP6	Electron Transport Chain (MT)	MT	MT-ATP6: Mitochondrially encoded ATP synthase 6 essential component of complex V	ENSG00000198899
+MT-ATP8	Electron Transport Chain (MT)	MT	MT-ATP8: Mitochondrially encoded ATP synthase 6 essential component of complex V	ENSG00000228253
+ACOT13	Fatty Acid Biosynthesis and Elongation	NA	acyl-CoA hydrolase activity	NA
+ACSF2	Fatty Acid Biosynthesis and Elongation	NA	4-coumarate-CoA ligase activity	NA
+ACSL1	Fatty Acid Biosynthesis and Elongation	NA	long-chain fatty acid-CoA ligase activity	NA
+ACSL5	Fatty Acid Biosynthesis and Elongation	NA	long-chain fatty acid-CoA ligase activity	NA
+ACSL6	Fatty Acid Biosynthesis and Elongation	NA	long-chain fatty acid-CoA ligase activity	NA
+ACSM2A	Fatty Acid Biosynthesis and Elongation	NA	4-coumarate-CoA ligase activity	NA
+CBR4	Fatty Acid Biosynthesis and Elongation	NA	2; 4-dienoyl-CoA reductase (NADPH) activity; oxidoreductase activity; acting on CH-OH group of donors	NA
+ECHDC3	Fatty Acid Biosynthesis and Elongation	NA	enoyl-CoA hydratase activity	NA
+FASN	Fatty Acid Biosynthesis and Elongation	NA	[acyl-carrier-protein] S-acetyltransferase activity; [acyl-carrier-protein] S-malonyltransferase activity; 3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity; 3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity; 3-oxoacyl-[acyl-carrier-protein] synthase activity; enoyl-[acyl-carrier-protein] reductase (NADPH; B-specific) activity; fatty acid synthase activity; myristoyl-[acyl-carrier-protein] hydrolase activity; oleoyl-[acyl-carrier-protein] hydrolase activity; palmitoyl-[acyl-carrier-protein] hydrolase activity; zinc ion binding	NA
+HSD17B8	Fatty Acid Biosynthesis and Elongation	NA	2; 4-dienoyl-CoA reductase (NADPH) activity; oxidoreductase activity; acting on CH-OH group of donors	NA
+MCAT	Fatty Acid Biosynthesis and Elongation	NA	[acyl-carrier-protein] S-malonyltransferase activity	NA
+OXSM	Fatty Acid Biosynthesis and Elongation	NA	3-oxoacyl-[acyl-carrier-protein] synthase activity	NA
+SLC25A19	Fatty Acid Biosynthesis and Elongation	NA	thiamine pyrophosphate-transporting ATPase activity; transmembrane transporter activity	NA
+ECHS1	Fatty Acid Biosynthesis and Elongation	NA	enoyl-CoA hydratase activity	NA
+HADH	Fatty Acid Biosynthesis and Elongation	NA	3-hydroxyacyl-CoA dehydrogenase activity; NAD+ binding	NA
+HADHA	Fatty Acid Biosynthesis and Elongation	NA	3-hydroxyacyl-CoA dehydrogenase activity; coenzyme binding; enoyl-CoA hydratase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity	NA
+HADHB	Fatty Acid Biosynthesis and Elongation	NA	acetyl-CoA C-acyltransferase activity; long-chain-3-hydroxyacyl-CoA dehydrogenase activity	NA
+MECR	Fatty Acid Biosynthesis and Elongation	NA	trans-2-enoyl-CoA reductase (NADPH) activity; zinc ion binding	NA
+SLC27A3	Fatty Acid Degradation and Beta-oxidation	1	SLC27A3: Readily converts the transported very long chain fatty acids to acyl-CoAs	ENSG00000143554
+FABP3	Fatty Acid Degradation and Beta-oxidation	1	FABP3: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000121769
+FABP1	Fatty Acid Degradation and Beta-oxidation	2	FABP1: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000163586
+ACADL	Fatty Acid Degradation and Beta-oxidation	2	ACADL: Long chain hydroxyacyl-CoA dehydrogenase	ENSG00000115361
+ACAD11	Fatty Acid Degradation and Beta-oxidation	3	ACAD11: May be involved in the catabolism of long chain fatty acids	ENSG00000240303
+FABP2	Fatty Acid Degradation and Beta-oxidation	4	FABP2: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000145384
+SLC27A6	Fatty Acid Degradation and Beta-oxidation	5	SLC27A6: Readily converts the transported very long chain fatty acids to acyl-CoAs	ENSG00000113396
+FABP6	Fatty Acid Degradation and Beta-oxidation	5	FABP6: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000170231
+FABP7	Fatty Acid Degradation and Beta-oxidation	6	FABP7: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000164434
+CD36	Fatty Acid Degradation and Beta-oxidation	7	CD36: Fatty acid translocase	ENSG00000135218
+FABP4	Fatty Acid Degradation and Beta-oxidation	8	FABP4: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000170323
+FABP5	Fatty Acid Degradation and Beta-oxidation	8	FABP5: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000164687
+FABP9	Fatty Acid Degradation and Beta-oxidation	8	FABP9: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000205186
+FABP12	Fatty Acid Degradation and Beta-oxidation	8	FABP12: Fatty acid binding proteins are also involved in the import and export of fatty acids	ENSG00000197416
+DECR1	Fatty Acid Degradation and Beta-oxidation	8	DECR1: 2,4 dienoyl CoA reductase 1 catalyzes the metabolism of Polyunsaturated fatty acids	ENSG00000104325
+SLC27A4	Fatty Acid Degradation and Beta-oxidation	9	SLC27A4: Readily converts the transported very long chain fatty acids to acyl-CoAs	ENSG00000167114
+C10orf129	Fatty Acid Degradation and Beta-oxidation	10	C10orf129: ACSM6 Acyl-CoA synthetase activity for medium chain fatty acids	ENSG00000173124
+GOT1	Fatty Acid Degradation and Beta-oxidation	10	GOT1: Plasma membrane fatty acid binding protein	ENSG00000120053
+ACAD8	Fatty Acid Degradation and Beta-oxidation	11	ACAD8: Involved in the caatabolism of fatty acids and branched chain aminoacid valine	ENSG00000151498
+ACSM4	Fatty Acid Degradation and Beta-oxidation	12	ACSM4: Acyl-CoA synthetase activity for medium chain fatty acids	ENSG00000215009
+ACAD10	Fatty Acid Degradation and Beta-oxidation	12	ACAD10: Involved in the catabolism of fatty acids with significant activity towards branched chains	ENSG00000111271
+SLC27A2	Fatty Acid Degradation and Beta-oxidation	15	SLC27A2: Readily converts the transported very long chain fatty acids to acyl-CoAs	ENSG00000140284
+ACSBG1	Fatty Acid Degradation and Beta-oxidation	15	ACSBG1: Acyl-CoA synthetase activity for bubblegum family members	ENSG00000103740
+ACSM1	Fatty Acid Degradation and Beta-oxidation	16	ACSM1: Acyl-CoA synthetase activity for medium chain fatty acids	ENSG00000166743
+ACSM2B	Fatty Acid Degradation and Beta-oxidation	16	ACSM2B: Acyl-CoA synthetase activity for medium chain fatty acids	ENSG00000066813
+ACSM3	Fatty Acid Degradation and Beta-oxidation	16	ACSM3: Acyl-CoA synthetase activity for medium chain fatty acids	ENSG00000005187
+ACSM5	Fatty Acid Degradation and Beta-oxidation	16	ACSM5: Acyl-CoA synthetase activity for medium chain fatty acids	ENSG00000183549
+SLC27A1	Fatty Acid Degradation and Beta-oxidation	19	SLC27A1: Readily converts the transported very long chain fatty acids to acyl-CoAs	ENSG00000130304
+SLC27A5	Fatty Acid Degradation and Beta-oxidation	19	SLC27A5: Readily converts the transported very long chain fatty acids to acyl-CoAs	ENSG00000083807
+ACSS2	Fatty Acid Degradation and Beta-oxidation	20	ACSS2: Acyl-CoA synthetase activity for short chain fatty acids	ENSG00000131069
+ACAA2	Fatty Acid Degradation and Beta-oxidation	NA	acetyl-CoA C-acyltransferase activity	NA
+ACAD9	Fatty Acid Degradation and Beta-oxidation	NA	flavin adenine dinucleotide binding; very-long-chain-acyl-CoA dehydrogenase activity	NA
+ACADM	Fatty Acid Degradation and Beta-oxidation	NA	acyl-CoA dehydrogenase activity; flavin adenine dinucleotide binding	NA
+ACADS	Fatty Acid Degradation and Beta-oxidation	NA	acyl-CoA dehydrogenase activity; flavin adenine dinucleotide binding; RNA polymerase II transcription cofactor activity; short-branched-chain-acyl-CoA dehydrogenase activity	NA
+ACADSB	Fatty Acid Degradation and Beta-oxidation	NA	acyl-CoA dehydrogenase activity; flavin adenine dinucleotide binding; RNA polymerase II transcription cofactor activity; short-branched-chain-acyl-CoA dehydrogenase activity	NA
+ACADVL	Fatty Acid Degradation and Beta-oxidation	NA	flavin adenine dinucleotide binding; very-long-chain-acyl-CoA dehydrogenase activity	NA
+ACAT1	Fatty Acid Degradation and Beta-oxidation	NA	acetyl-CoA C-acyltransferase activity	NA
+ACAT2	Fatty Acid Degradation and Beta-oxidation	NA	acetyl-CoA C-acyltransferase activity	NA
+ACOX1	Fatty Acid Degradation and Beta-oxidation	NA	acyl-CoA dehydrogenase activity; acyl-CoA oxidase activity; flavin adenine dinucleotide binding	NA
+ACOX3	Fatty Acid Degradation and Beta-oxidation	NA	acyl-CoA dehydrogenase activity; acyl-CoA oxidase activity; flavin adenine dinucleotide binding; pristanoyl-CoA oxidase activity	NA
+ACSBG2	Fatty Acid Degradation and Beta-oxidation	NA	long-chain fatty acid-CoA ligase activity	NA
+ACSL3	Fatty Acid Degradation and Beta-oxidation	NA	long-chain fatty acid-CoA ligase activity	NA
+ACSL4	Fatty Acid Degradation and Beta-oxidation	NA	long-chain fatty acid-CoA ligase activity	NA
+ALDH1B1	Fatty Acid Degradation and Beta-oxidation	NA	acetaldehyde dehydrogenase (acetylating) activity; aldehyde dehydrogenase (NAD) activity	NA
+ALDH2	Fatty Acid Degradation and Beta-oxidation	NA	acetaldehyde dehydrogenase (acetylating) activity; aldehyde dehydrogenase (NAD) activity	NA
+ALDH3A2	Fatty Acid Degradation and Beta-oxidation	NA	aldehyde dehydrogenase [NAD(P)+] activity; oxidoreductase activity; acting on the aldehyde or oxo group of donors; NAD or NADP as acceptor	NA
+CPT1A	Fatty Acid Degradation and Beta-oxidation	NA	carnitine O-palmitoyltransferase activity	NA
+CPT1B	Fatty Acid Degradation and Beta-oxidation	NA	carnitine O-palmitoyltransferase activity	NA
+CPT1C	Fatty Acid Degradation and Beta-oxidation	NA	carnitine O-palmitoyltransferase activity	NA
+CPT2	Fatty Acid Degradation and Beta-oxidation	NA	carnitine O-palmitoyltransferase activity	NA
+ECH1	Fatty Acid Degradation and Beta-oxidation	NA	dodecenoyl-CoA delta-isomerase activity; delta5-delta2; 4-dienoyl-CoA isomerase activity	NA
+ECHDC2	Fatty Acid Degradation and Beta-oxidation	NA	delta5-delta2; 4-dienoyl-CoA isomerase activity	NA
+ECI1	Fatty Acid Degradation and Beta-oxidation	NA	dodecenoyl-CoA delta-isomerase activity	NA
+GCDH	Fatty Acid Degradation and Beta-oxidation	NA	flavin adenine dinucleotide binding; glutaryl-CoA dehydrogenase activity	NA
+ACOT9	Fatty Acid Metabolism	NA	acyl-CoA hydrolase activity	NA
+ACSF2	Fatty Acid Metabolism	NA	catalytic activity; long-chain fatty acid transporter activity; fatty-acyl-CoA synthase activity; long-chain fatty acid-CoA ligase activity; luciferin monooxygenase activity	NA
+ACSF3	Fatty Acid Metabolism	NA	long-chain fatty acid-CoA ligase activity	NA
+ACSS3	Fatty Acid Metabolism	NA	acetate-CoA ligase activity	NA
+AGK	Fatty Acid Metabolism	NA	diacylglycerol kinase activity; NAD+ kinase activity	NA
+BDH1	Fatty Acid Metabolism	NA	oxidoreductase activity; acting on CH-OH group of donors	NA
+C5orf63	Fatty Acid Metabolism	NA	transferase activity; transferring acyl groups other than amino-acyl groups	NA
+CHAT	Fatty Acid Metabolism	NA	carnitine O-acetyltransferase activity	NA
+CRAT	Fatty Acid Metabolism	NA	carnitine O-acetyltransferase activity	NA
+LYPLA1	Fatty Acid Metabolism	NA	carboxylic ester hydrolase activity	NA
+SLC25A20	Fatty Acid Metabolism	NA	acyl carnitine transmembrane transporter activity; carnitine transmembrane transporter activity; carnitine:acyl carnitine antiporter activity; transmembrane transporter activity	NA
+BOLA3	Fe-S cluster biosynthesis	2	BOLA3: Rrole in the biogenesis of iron-sulfur clusters	ENSG00000163170
+CIAO1	Fe-S cluster biosynthesis	2	CIAO1: Cytosolic Fe-S cluster biogenesis and maturation	ENSG00000144021
+MMS19	Fe-S cluster biosynthesis	10	MMS19: Cytosolic Fe/S protein assembly targeting factor	ENSG00000155229
+FAM96A	Fe-S cluster biosynthesis	15	FAM96A: Components of the cytosolic Fe/S protein assembly (CIA) machinery	ENSG00000166797
+NUBP2	Fe-S cluster biosynthesis	16	NUBP2: Required for the assembly of cyotosolic iron-sulfur proteins	ENSG00000095906
+NUBP1	Fe-S cluster biosynthesis	16	NUBP1: Essential for both cytosolic iron-sulfur protein assembly and iron homeostasis	ENSG00000103274
+CIAPIN1	Fe-S cluster biosynthesis	16	CIAPIN1: Facilitates NUBP1 and NUBP2 assembly	ENSG00000005194
+FAM96B	Fe-S cluster biosynthesis	16	FAM96B: Components of the cytosolic Fe/S protein assembly (CIA) machinery	ENSG00000166595
+NARF	Fe-S cluster biosynthesis	17	NARF: Cytosolic Fe-S protein maturation	ENSG00000141562
+FDX1	Fe-S cluster biosynthesis	NA	2 iron; 2 sulfur cluster binding; electron carrier activity	NA
+FDX1L	Fe-S cluster biosynthesis	NA	2 iron; 2 sulfur cluster binding; electron carrier activity	NA
+FDXR	Fe-S cluster biosynthesis	NA	electron carrier activity; ferredoxin-NADP+ reductase activity; NADPH-adrenodoxin reductase activity	NA
+FXN	Fe-S cluster biosynthesis	NA	ferric iron binding; ferroxidase activity; iron chaperone activity	NA
+HSCB	Fe-S cluster biosynthesis	NA	chaperone binding	NA
+IBA57	Fe-S cluster biosynthesis	NA	aminomethyltransferase activity	NA
+ISCA1	Fe-S cluster biosynthesis	NA	iron-sulfur cluster binding; structural molecule activity	NA
+ISCA2	Fe-S cluster biosynthesis	NA	iron-sulfur cluster binding; structural molecule activity	NA
+ISCU	Fe-S cluster biosynthesis	NA	iron ion binding; iron-sulfur cluster binding	NA
+LYRM4	Fe-S cluster biosynthesis	NA		NA
+NFS1	Fe-S cluster biosynthesis	NA	cystathionine gamma-lyase activity; cysteine desulfurase activity; pyridoxal phosphate binding	NA
+NFU1	Fe-S cluster biosynthesis	NA	ATP binding; ATP-dependent helicase activity; iron ion binding; iron-sulfur cluster binding; nucleic acid binding	NA
+SLC25A28	Fe-S cluster biosynthesis	NA	iron ion transmembrane transporter activity; transmembrane transporter activity	NA
+SLC25A37	Fe-S cluster biosynthesis	NA	iron ion transmembrane transporter activity; transmembrane transporter activity	NA
+ALDH1L1	Folate & Pterine Metabolism	NA	formyltetrahydrofolate dehydrogenase activity; hydroxymethyl-; formyl- and related transferase activity; methyltransferase activity; oxidoreductase activity; acting on the aldehyde or oxo group of donors; NAD or NADP as acceptor	NA
+ALDH1L2	Folate & Pterine Metabolism	NA	formyltetrahydrofolate dehydrogenase activity; hydroxymethyl-; formyl- and related transferase activity; methyltransferase activity; oxidoreductase activity; acting on the aldehyde or oxo group of donors; NAD or NADP as acceptor	NA
+DHFRL1	Folate & Pterine Metabolism	NA	dihydrofolate reductase activity; NADP binding; protein binding	NA
+FPGS	Folate & Pterine Metabolism	NA	ATP binding; tetrahydrofolylpolyglutamate synthase activity	NA
+MTHFD1	Folate & Pterine Metabolism	NA	ATP binding; formate-tetrahydrofolate ligase activity; methenyltetrahydrofolate cyclohydrolase activity; methylenetetrahydrofolate dehydrogenase (NADP+) activity	NA
+MTHFD1L	Folate & Pterine Metabolism	NA	ATP binding; formate-tetrahydrofolate ligase activity; methenyltetrahydrofolate cyclohydrolase activity; methylenetetrahydrofolate dehydrogenase (NADP+) activity	NA
+MTHFD2	Folate & Pterine Metabolism	NA	formate-tetrahydrofolate ligase activity; magnesium ion binding; methenyltetrahydrofolate cyclohydrolase activity; methylenetetrahydrofolate dehydrogenase (NAD+) activity; methylenetetrahydrofolate dehydrogenase (NADP+) activity	NA
+MTHFD2L	Folate & Pterine Metabolism	NA	formate-tetrahydrofolate ligase activity; magnesium ion binding; methenyltetrahydrofolate cyclohydrolase activity; methylenetetrahydrofolate dehydrogenase (NAD+) activity; methylenetetrahydrofolate dehydrogenase (NADP+) activity	NA
+MTHFS	Folate & Pterine Metabolism	NA	5-formyltetrahydrofolate cyclo-ligase activity; ATP binding	NA
+SHMT1	Folate & Pterine Metabolism	NA	glycine hydroxymethyltransferase activity; pyridoxal phosphate binding	NA
+SHMT2	Folate & Pterine Metabolism	NA	glycine hydroxymethyltransferase activity; pyridoxal phosphate binding	NA
+SLC25A32	Folate & Pterine Metabolism	NA	folic acid transporter activity; transmembrane transporter activity	NA
+AKR1B10	Fructose Metabolism	NA	alditol:NADP+ 1-oxidoreductase activity	NA
+GLYCTK	Fructose Metabolism	NA	glycerate kinase activity	NA
+SORD	Fructose Metabolism	NA	L-iditol 2-dehydrogenase activity; zinc ion binding	NA
+SLC2A1	Glycolysis	1	SLC2A1: A major glucose transporter in the mammalian blood-brain barrier	ENSG00000117394
+SLC2A5	Glycolysis	1	SLC2A5: Solute carrier family 2 (facilitated glucose/fructose transporter), member 5	ENSG00000142583
+ENO1	Glycolysis	1	ENO1: Catalyzes the dehydration of 2-phosphoglycerate to phosphoenolpyruate	ENSG00000074800
+PKLR	Glycolysis	1	PKLR: Catalyzes the transphosphorylation of phohsphoenolpyruvate into pyruvate and ATP	ENSG00000143627
+SLC2A2	Glycolysis	3	SLC2A2: Mediates facilitated bidirectional glucose transport of the liver, islet beta cells, intestine, and kidney epithelium	ENSG00000163581
+PGK2	Glycolysis	6	PGK2: Catalyzes the reversible conversion of 1,3-bisphosphoglycerate to 3-phosphoglycerate	ENSG00000170950
+GCK	Glycolysis	7	GCK: Hexokinases phosphorylate glucose to produce glucose-6-phosphate	ENSG00000106633
+PGAM2	Glycolysis	7	PGAM2: Catalyzes the reversible reaction of 3-phosphoglycerate to 2-phosphoglycerate	ENSG00000164708
+ALDOB	Glycolysis	9	ALDOB: Catalyzes the reversible conversion of fructose-1,6-bisphosphate to glyceraldehyde 3-phosphate and dihydroxyacetone phosphate	ENSG00000136872
+FBP1	Glycolysis	9	FBP1: Catalyzes the hydrolysis of fructose 1-6-bisphosphate to fructose 6-phosphate and inorganic phosphate and functioning in gluconeogenesis	ENSG00000165140
+FBP2	Glycolysis	9	FBP2: Catalyzes the hydrolysis of fructose 1-6-bisphosphate to fructose 6-phosphate and inorganic phosphate and functioning in gluconeogenesis	ENSG00000130957
+PFKP	Glycolysis	10	PFKP: Catalyzes the irreversible conversion of fructose-6-phosphate to fructose-1,6-bisphosphate	ENSG00000067057
+PGAM1	Glycolysis	10	PGAM1: Catalyzes the reversible reaction of 3-phosphoglycerate to 2-phosphoglycerate	ENSG00000171314
+LDHC	Glycolysis	11	LDHC: Catalyzes the interconversion of pyruvate to lactate and back	ENSG00000166796
+LDHA	Glycolysis	11	LDHA: Catalyzes the interconversion of pyruvate to lactate and back	ENSG00000134333
+SLC2A3	Glycolysis	12	SLC2A3: Solute carrier family 2 (facilitated glucose transporter), member 3	ENSG00000059804
+PFKM	Glycolysis	12	PFKM: Catalyzes the phosphorylation of fructose-6-phosphate to fructose-1,6-bisphosphate	ENSG00000152556
+TPI1	Glycolysis	12	TPI1: Catalyzes the isomerization of glyceraldehydes 3-phosphate and dihydroxy-acetone phosphate	ENSG00000111669
+GAPDH	Glycolysis	12	GAPDH: Catalyzes the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate and may also inhibit Caspase independent cell death in apoptosis	ENSG00000111640
+ENO2	Glycolysis	12	ENO2: Catalyzes the dehydration of 2-phosphoglycerate to phosphoenolpyruate	ENSG00000111674
+LDHB	Glycolysis	12	LDHB: Catalyzes the interconversion of pyruvate to lactate and back	ENSG00000111716
+PKM2	Glycolysis	15	PKM2: Catalyzes the transphosphorylation of phohsphoenolpyruvate into pyruvate and ATP	ENSG00000067225
+LDHAL6B	Glycolysis	15	LDHAL6B: Catalyzes the interconversion of pyruvate to lactate and back	ENSG00000171989
+ALDOA	Glycolysis	16	ALDOA: Catalyzes the reversible conversion of fructose-1,6-bisphosphate to glyceraldehyde 3-phosphate and dihydroxyacetone phosphate	ENSG00000149925
+SLC2A4	Glycolysis	17	SLC2A4: Insulin-regulated facilitative glucose transporter	ENSG00000181856
+ENO3	Glycolysis	17	ENO3: Catalyzes the dehydration of 2-phosphoglycerate to phosphoenolpyruate	ENSG00000108515
+G6PC	Glycolysis	17	G6PC: Glucose-6-phosphatase catalyzes the hydrolysis of D-glucose 6-phosphate to D-glucose and orthophosphate and functioning in gluconeogenesis and glycogenolysis	ENSG00000131482
+GPI	Glycolysis	19	GPI: Glycolytic enzyme that interconverts glucose-6-phophsate and fructose-6-phosphate	ENSG00000105220
+GAPDHS	Glycolysis	19	GAPDHS: Catalyzes the reversible oxidative phosphorylation of glyceraldehyde-3-phosphate	ENSG00000105679
+PCK1	Glycolysis	20	PCK1: Catalyzes the formation of phosphoenolpyruvate from oxaloacetate along with GTP and regulate gluconeogenesis	ENSG00000124253
+PFKL	Glycolysis	21	PFKL: Catalyzes the conversion of fructose 6-phosphate to fructose 1,6-bisphosphate	ENSG00000141959
+ALDOC	Glycolysis	NA	fructose-bisphosphate aldolase activity	NA
+HK1	Glycolysis	NA	ATP binding; fructokinase activity; glucokinase activity; hexokinase activity; mannokinase activity	NA
+HK2	Glycolysis	NA	ATP binding; fructokinase activity; glucokinase activity; hexokinase activity; mannokinase activity	NA
+HK3	Glycolysis	NA	ATP binding; fructokinase activity; glucokinase activity; hexokinase activity; mannokinase activity	NA
+HKDC1	Glycolysis	NA	ATP binding; fructokinase activity; glucokinase activity; hexokinase activity; mannokinase activity	NA
+PGK1	Glycolysis	X	PGK1: Catalyzes the conversion of 1,3-diphosphoglycerate to 3-phosphoglycerate	ENSG00000102144
+UROD	Heme Biosynthesis	1	UROD: Uroporphyrinogen III decarboxylase catalyzes stepwise decarboxylation of the Uroporphyrinogen III	ENSG00000126088
+ALAD	Heme Biosynthesis	9	ALAD: ALA dehydratase catalyzes the reaction where two molecules of ALA condenses to form monopyrrole porphobilinogen (PBG)	ENSG00000148218
+HMBS	Heme Biosynthesis	11	HMBS: Hydroxymethylbilane synthase catalyzes head to tail condensation of four PBG and subsequent deamination to form a linear tetrapyrrole, Hydroxymethylbilane	ENSG00000256269
+ALAS1	Heme Biosynthesis	NA	5-aminolevulinate synthase activity; pyridoxal phosphate binding; glycine C-acetyltransferase activity	NA
+ALAS2	Heme Biosynthesis	NA	5-aminolevulinate synthase activity; pyridoxal phosphate binding; glycine C-acetyltransferase activity	NA
+CLPX	Heme Biosynthesis	NA	ATP binding; nucleoside-triphosphatase activity; serine-type endopeptidase activity; unfolded protein binding	NA
+CPOX	Heme Biosynthesis	NA	coproporphyrinogen oxidase activity	NA
+FDX2	Heme Biosynthesis	NA	2 iron; 2 sulfur cluster binding; electron carrier activity	NA
+FECH	Heme Biosynthesis	NA	2 iron, 2 sulfur cluster binding, ferrochelatase activity metal ion binding	NA
+FTH1	Heme Biosynthesis	NA	ferric iron binding; ferrous iron binding	NA
+FTMT	Heme Biosynthesis	NA	ferric iron binding; ferrous iron binding	NA
+GCAT	Heme Biosynthesis	NA	glycine C-acetyltransferase activity; 5-aminolevulinate synthase activity; pyridoxal phosphate binding	NA
+PPOX	Heme Biosynthesis	NA	oxygen-dependent protoporphyrinogen oxidase activity	NA
+UROS	Heme Biosynthesis	NA	uroporphyrinogen-III synthase activity	NA
+TOMM6	Import & Sorting	6	TOMM6: Outer membrane translocation, required for the assembly and stability of the TOM complex	ENSG00000214736
+TOMM5	Import & Sorting	9	TOMM5: Outer membrane translocation, transports preprotein to the import pore formed by TOMM40	ENSG00000175768
+ABCB10	Import & Sorting	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; oligopeptide-transporting ATPase activity; transporter activity; xenobiotic-transporting ATPase activity	NA
+ABCB6	Import & Sorting	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; cadmium ion transmembrane transporter activity; heme transporter activity; transporter activity	NA
+ABCB7	Import & Sorting	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; cadmium ion transmembrane transporter activity; heme transporter activity; transporter activity	NA
+ABCB8	Import & Sorting	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; oligopeptide-transporting ATPase activity; transporter activity; xenobiotic-transporting ATPase activity	NA
+ABCF2	Import & Sorting	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; transporter activity	NA
+CHCHD10	Import & Sorting	NA		NA
+CHCHD2	Import & Sorting	NA	seauence-specific DNA binding	NA
+CHCHD4	Import & Sorting	NA	ribonuclease activity	NA
+CHCHD7	Import & Sorting	NA		NA
+DNAJC15	Import & Sorting	NA	ATPase activator activity	NA
+DNAJC19	Import & Sorting	NA	ATPase activator activity	NA
+DNLZ	Import & Sorting	NA	zinc ion binding	NA
+FXC1	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+GRPEL1	Import & Sorting	NA	adenyl-nucleotide exchange factor activity; chaperone binding; protein homodimerization activity; unfolded protein binding	NA
+GRPEL2	Import & Sorting	NA	adenyl-nucleotide exchange factor activity; chaperone binding; protein homodimerization activity; unfolded protein binding	NA
+HSPA9	Import & Sorting	NA	ATP binding; ATPase activity; unfolded protein binding	NA
+HSPD1	Import & Sorting	NA	ATP binding; ATPase activity; coupled; unfolded protein binding	NA
+HSPE1	Import & Sorting	NA	unfolded protein binding	NA
+IMMP1L	Import & Sorting	NA	serine-type peptidase activity	NA
+IMMP2L	Import & Sorting	NA	serine-type peptidase activity	NA
+METAP1D	Import & Sorting	NA	aminopeptidase activity; metalloexopeptidase activity	NA
+MIPEP	Import & Sorting	NA	metalloendopeptidase activity	NA
+MMADHC	Import & Sorting	NA		NA
+MTX1	Import & Sorting	NA		NA
+MTX2	Import & Sorting	NA		NA
+MTX3	Import & Sorting	NA		NA
+PAM16	Import & Sorting	NA		NA
+PMPCA	Import & Sorting	NA	metal ion binding; metalloendopeptidase activity	NA
+SAMM50	Import & Sorting	NA		NA
+SFXN1	Import & Sorting	NA	cation transmembrane transporter activity; tricarboxylate secondary active transmembrane transporter activity	NA
+SFXN2	Import & Sorting	NA	cation transmembrane transporter activity; tricarboxylate secondary active transmembrane transporter activity; DNA binding	NA
+SFXN3	Import & Sorting	NA	cation transmembrane transporter activity; tricarboxylate secondary active transmembrane transporter activity; DNA binding	NA
+SFXN5	Import & Sorting	NA	cation transmembrane transporter activity; tricarboxylate secondary active transmembrane transporter activity; DNA binding	NA
+TAMM41	Import & Sorting	NA		NA
+TIMM10	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMM13	Import & Sorting	NA	metal ion binding; protein transporter activity; P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMM17A	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity; protein transporter activity	NA
+TIMM17B	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity; protein transporter activity	NA
+TIMM21	Import & Sorting	NA	mitohcondrial protein-transporting ATPase activity	NA
+TIMM22	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMM23	Import & Sorting	NA	protein channel activity	NA
+TIMM29	Import & Sorting	NA		NA
+TIMM44	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMM50	Import & Sorting	NA		NA
+TIMM8A	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMM8B	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMM9	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TIMMDC1	Import & Sorting	NA		NA
+TOMM20	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TOMM20L	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TOMM22	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TOMM34	Import & Sorting	NA	chaperone binding; protein serine/threonine phosphatase activity; aryl hydrocarbon receptor binding	NA
+TOMM40	Import & Sorting	NA	protein channel activity; P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TOMM40L	Import & Sorting	NA	protein channel activity; P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TOMM7	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+TOMM70A	Import & Sorting	NA	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	NA
+VDAC1	Import & Sorting	NA	cation channel activity; porin activity; channel activity; voltage-gated anion channel activity	NA
+VDAC2	Import & Sorting	NA	cation channel activity; porin activity; channel activity; voltage-gated anion channel activity	NA
+VDAC3	Import & Sorting	NA	cation channel activity; porin activity; channel activity; voltage-gated anion channel activity	NA
+LIAS	Lipoic Acid Metabolism	NA	4 iron; 4 sulfur cluster binding; lipoate synthase activity	NA
+LIPT1	Lipoic Acid Metabolism	NA	lipoate-protein ligase activity; lipoyltransferase activity	NA
+LIPT2	Lipoic Acid Metabolism	NA	lipoate-protein ligase activity; octanoyltransferase activity	NA
+ABCD1	Metabolism of Lipids & Lipoproteins	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; transporter activity	NA
+ABCD2	Metabolism of Lipids & Lipoproteins	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; transporter activity	NA
+ABCD3	Metabolism of Lipids & Lipoproteins	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; transporter activity	NA
+ACP6	Metabolism of Lipids & Lipoproteins	NA	acid phosphatase activity	NA
+AKR1B15	Metabolism of Lipids & Lipoproteins	NA	alcohol dehydrogenase (NADP+) activity	NA
+CDS2	Metabolism of Lipids & Lipoproteins	NA	phosphatidate cytidylyltransferase activity	NA
+CYP11A1	Metabolism of Lipids & Lipoproteins	NA	ecdysteroid 2-hydroxylase activity; electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP11B1	Metabolism of Lipids & Lipoproteins	NA	ecdysteroid 2-hydroxylase activity; electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP11B2	Metabolism of Lipids & Lipoproteins	NA	ecdysteroid 2-hydroxylase activity; electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP27A1	Metabolism of Lipids & Lipoproteins	NA	ecdysteroid 2-hydroxylase activity; electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+DMGDH	Metabolism of Lipids & Lipoproteins	NA	aminomethyltransferase activity; sarcosine dehydrogenase activity	NA
+FDPS	Metabolism of Lipids & Lipoproteins	NA	dimethylallyltranstransferase activity; geranyltranstransferase activity	NA
+GPAM	Metabolism of Lipids & Lipoproteins	NA	glycerol-3-phosphate O-acyltransferase activity	NA
+GPAT2	Metabolism of Lipids & Lipoproteins	NA	glycerol-3-phosphate O-acyltransferase activity	NA
+HSD3B1	Metabolism of Lipids & Lipoproteins	NA	3-beta-hydroxy-delta5-steroid dehydrogenase activity; oxidoreductase activity; acting on CH-OH group of donors	NA
+HSD3B2	Metabolism of Lipids & Lipoproteins	NA	3-beta-hydroxy-delta5-steroid dehydrogenase activity; oxidoreductase activity; acting on CH-OH group of donors	NA
+NUDT19	Metabolism of Lipids & Lipoproteins	NA	hydrolase activity	NA
+OPA3	Metabolism of Lipids & Lipoproteins	NA		NA
+Opa3 like	Metabolism of Lipids & Lipoproteins	NA		NA
+PISD	Metabolism of Lipids & Lipoproteins	NA	phosphatidylserine decarboxylase activity	NA
+PTPMT1	Metabolism of Lipids & Lipoproteins	NA	phosphatidylinositol-4; 5-bisphosphate 5-phosphatase activity; protein tyrosine phosphatase activity; protein tyrosine/serine/threonine phosphatase activity	NA
+SARDH	Metabolism of Lipids & Lipoproteins	NA	aminomethyltransferase activity; sarcosine dehydrogenase activity	NA
+SLMO1	Metabolism of Lipids & Lipoproteins	NA		NA
+SLMO2	Metabolism of Lipids & Lipoproteins	NA		NA
+CARKD	Metabolism of Vitamins & Co-Factors	NA	ATP-dependent NAD(P)H-hydrate dehydratase activity; ATP binding	NA
+COASY	Metabolism of Vitamins & Co-Factors	NA	ATP binding; dephospho-CoA kinase activity; pantetheine-phosphate adenylyltransferase activity	NA
+CYB5A	Metabolism of Vitamins & Co-Factors	NA	electron carrier activity; heme binding	NA
+CYB5B	Metabolism of Vitamins & Co-Factors	NA	electron carrier activity; heme binding	NA
+CYP24A1	Metabolism of Vitamins & Co-Factors	NA	ecdysone 20-monooxygenase activity; ecdysteroid 22-hydroxylase activity; electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+CYP27B1	Metabolism of Vitamins & Co-Factors	NA	electron carrier activity; heme binding; iron ion binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen	NA
+DHRS4	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity; acting on CH-OH group of donors	NA
+HSD17B8	Metabolism of Vitamins & Co-Factors	NA	oxidoreductase activity; acting on CH-OH group of donors	NA
+MMADHC	Metabolism of Vitamins & Co-Factors	NA		NA
+PANK2	Metabolism of Vitamins & Co-Factors	NA	ATP binding; pantothenate kinase activity	NA
+RFK	Metabolism of Vitamins & Co-Factors	NA	riboflavin kinase activity	NA
+MRPL12	Mitochondrial Carrier	NA	oxoglutarate:malate antiporter activity; transmembrane transporter activity	NA
+slc17a8	Mitochondrial Carrier	NA	high affinity inorganic phosphate:sodium symporter activity; high-affinity glutamate transmembrane transporter activity; sodium:inorganic phosphate symporter activity; sodium-dependent phosphate transmembrane transporter activity	NA
+SLC22A4	Mitochondrial Carrier	NA	cation transmembrane transporter activity; organic cation transmembrane transporter activity	NA
+SLC25A1	Mitochondrial Carrier	NA	transmembrane transporter activity; tricarboxylate secondary active transmembrane transporter activity	NA
+SLC25A10	Mitochondrial Carrier	NA	dicarboxylic acid transmembrane transporter activity; inorganic phosphate transmembrane transporter activity; malate transmembrane transporter activity; oxaloacetate transmembrane transporter activity; succinate transmembrane transporter activity; sulfate transmembrane transporter activity; thiosulfate transmembrane transporter activity; transmembrane transporter activity; oxoglutarate:malate antiporter activity;	NA
+SLC25A11	Mitochondrial Carrier	NA	oxoglutarate:malate antiporter activity; transmembrane transporter activity	NA
+SLC25A14	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A15	Mitochondrial Carrier	NA	amino acid transmembrane transporter activity; L-ornithine transmembrane transporter activity; transmembrane transporter activity	NA
+SLC25A16	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A18	Mitochondrial Carrier	NA	acyl carnitine transmembrane transporter activity; carnitine transmembrane transporter activity; transmembrane transporter activity	NA
+SLC25A19	Mitochondrial Carrier	NA	oxidative phosphorylation uncoupler activity; transmembrane transporter activity	NA
+SLC25A2	Mitochondrial Carrier	NA	amino acid transmembrane transporter activity; L-ornithine transmembrane transporter activity; transmembrane transporter activity	NA
+SLC25A21	Mitochondrial Carrier	NA	oxidative phosphorylation uncoupler activity; transmembrane transporter activity; tricarboxylate secondary active transmembrane transporter activity	NA
+SLC25A22	Mitochondrial Carrier	NA	acyl carnitine transmembrane transporter activity; carnitine transmembrane transporter activity; transmembrane transporter activity	NA
+SLC25A23	Mitochondrial Carrier	NA	calcium ion binding; transmembrane transporter activity	NA
+SLC25A24	Mitochondrial Carrier	NA	calcium ion binding; transmembrane transporter activity	NA
+SLC25A25	Mitochondrial Carrier	NA	calcium ion binding; transmembrane transporter activity	NA
+SLC25A26	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A27	Mitochondrial Carrier	NA	oxidative phosphorylation uncoupler activity; transmembrane transporter activity	NA
+SLC25A29	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A3	Mitochondrial Carrier	NA	phosphate ion transmembrane transporter activity; transmembrane transporter activity	NA
+SLC25A30	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A33	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A34	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A35	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A36	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A39	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A40	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A41	Mitochondrial Carrier	NA	calcium ion binding; transmembrane transporter activity	NA
+SLC25A42	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A44	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A45	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A47	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A48	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A51	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A52	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC25A53	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+SLC3A1	Mitochondrial Carrier	NA	alpha-glucosidase activity; catalytic activity; cation binding	NA
+SLC44A1	Mitochondrial Carrier	NA		NA
+UCP1	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+UCP2	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+UCP3	Mitochondrial Carrier	NA	transmembrane transporter activity	NA
+OMA1	Mitochondrial Dynamics	1	OMA1: Involved in the mitochondrial fusion, know to induce proteolytic inactivation of OPA1	ENSG00000162600
+SH3GLB1	Mitochondrial Dynamics	1	SH3GLB1: Involved in the mitochondrial fission, proposed to be involved in the lipid remodeling of the outer membrane during fission	ENSG00000097033
+KIF1B	Mitochondrial Dynamics	1	KIF1B: Involved in the mitochondrial movement, have role in the mitochondrial distribution in neurons	ENSG00000054523
+SQSTM1	Mitochondrial Dynamics	5	SQSTM1: Involved  in the mitophagy, recruited to mitochondria and binds mitochondrial substrates on the autophagosomes	ENSG00000161011
+PKIA	Mitochondrial Dynamics	8	PKIA: Involved in the mitochondrial fission, is known to inhibit GTPase activity of DNM1L	ENSG00000171033
+SYBU	Mitochondrial Dynamics	8	SYBU: Involved in the mitochondrial movement, have a role in linking the mitochondria to KIF5B	ENSG00000147642
+KIF5B	Mitochondrial Dynamics	10	KIF5B: Involved in the mitochondrial movement, have role in the mitochondrial distribution in neurons	ENSG00000170759
+AMBRA1	Mitochondrial Dynamics	11	AMBRA1: Involved in the mitophagy, translocates to the mitochondria and facilitate phagophore formation	ENSG00000110497
+MIEF2	Mitochondrial Dynamics	17	MIEF2: Involved in the mitochondrial fission, suggested to have roles in recruiting DNM1L	ENSG00000177427
+BECN1	Mitochondrial Dynamics	17	BECN1: Involved in the mitophagy, involved in the initiation of autophagy	ENSG00000126581
+GABARAP	Mitochondrial Dynamics	17	GABARAP: Involved in the mitophagy, interacts with BNIP3 and BNIP3L to remove mitochondria via autophagy	ENSG00000170296
+MAP1LC3A	Mitochondrial Dynamics	20	MAP1LC3A: Involved in the mitophagy, interacts with BNIP3 and BNIP3L to remove mitochondria via autophagy	ENSG00000101460
+MIEF1	Mitochondrial Dynamics	22	MIEF1: Involved in the mitochondrial fission, suggested to have roles in recruiting DNM1L	ENSG00000100335
+AFG3L2	Mitochondrial Dynamics	NA	ATP binding; ATPase activity; metalloendopeptidase activity; metallopeptidase activity; zinc ion binding	NA
+AGTPBP1	Mitochondrial Dynamics	NA	metallocarboxypeptidase activity; zinc ion binding	NA
+APOOL	Mitochondrial Dynamics	NA		NA
+C19orf70	Mitochondrial Dynamics	NA		NA
+CHCHD3	Mitochondrial Dynamics	NA		NA
+CHCHD6	Mitochondrial Dynamics	NA		NA
+DNAJC11	Mitochondrial Dynamics	NA	ATPase activator activity	NA
+DNM1L	Mitochondrial Dynamics	NA	actin binding; GTP binding; GTPase activity; microtubule binding; microtubule motor activity	NA
+FIS1	Mitochondrial Dynamics	NA		NA
+FUNDC1	Mitochondrial Dynamics	NA		NA
+FUNDC2	Mitochondrial Dynamics	NA		NA
+GDAP1	Mitochondrial Dynamics	NA	glutathione transferase activity	NA
+IMMT	Mitochondrial Dynamics	NA		NA
+KIAA1279	Mitochondrial Dynamics	NA	kinesin binding	NA
+MARCH5	Mitochondrial Dynamics	NA	zinc ion binding	NA
+MFF	Mitochondrial Dynamics	NA		NA
+MFN1	Mitochondrial Dynamics	NA	GTP binding; GTPase activity	NA
+MFN2	Mitochondrial Dynamics	NA	GTP binding; GTPase activity	NA
+MIC13	Mitochondrial Dynamics	NA		NA
+MIC27	Mitochondrial Dynamics	NA		NA
+MINOS1	Mitochondrial Dynamics	NA		NA
+MSTO1	Mitochondrial Dynamics	NA		NA
+MTFP1	Mitochondrial Dynamics	NA		NA
+OPA1	Mitochondrial Dynamics	NA	GTP binding; GTPase activity	NA
+PGAM5	Mitochondrial Dynamics	NA	phosphoprotein phosphatase activity; protein binding; protein serine/threonine kinase activator activity	NA
+PHB2	Mitochondrial Dynamics	NA		NA
+PINK1	Mitochondrial Dynamics	NA	ATP binding; protein binding; protein kinase activity; protein serine/threonine kinase activity	NA
+SLC25A31	Mitochondrial Dynamics	NA	ATP:ADP antiporter activity; transmembrane transporter activity	NA
+SLC25A4	Mitochondrial Dynamics	NA	ATP:ADP antiporter activity; transmembrane transporter activity	NA
+SLC25A46	Mitochondrial Dynamics	NA		NA
+SLC25A5	Mitochondrial Dynamics	NA	ATP:ADP antiporter activity; transmembrane transporter activity	NA
+SLC25A6	Mitochondrial Dynamics	NA	ATP:ADP antiporter activity; transmembrane transporter activity	NA
+SPG7	Mitochondrial Dynamics	NA	ATP binding; ATPase activity; metalloendopeptidase activity; metallopeptidase activity; zinc ion binding	NA
+TCAIM	Mitochondrial Dynamics	NA		NA
+TMEM11	Mitochondrial Dynamics	NA		NA
+TRAK1	Mitochondrial Dynamics	NA	kinesin-associated mitochondrial adaptor activity; myosin binding	NA
+TRAK2	Mitochondrial Dynamics	NA	kinesin-associated mitochondrial adaptor activity; myosin binding	NA
+USP30	Mitochondrial Dynamics	NA	ubiquitin thiolesterase activity	NA
+YME1L1	Mitochondrial Dynamics	NA	ATP binding; ATP-dependent peptidase activity; metalloendopeptidase activity	NA
+AKAP1	Mitochondrial Signaling	NA	protein kinase A binding; RNA binding	NA
+AKAP10	Mitochondrial Signaling	NA	protein kinase A binding	NA
+APOA1BP	Mitochondrial Signaling	NA		NA
+FGR	Mitochondrial Signaling	NA	ATP binding; protein tyrosine kinase activity	NA
+IDE	Mitochondrial Signaling	NA	metal ion binding; metalloendopeptidase activity; zinc ion binding	NA
+LYN	Mitochondrial Signaling	NA	ATP binding; protein tyrosine kinase activity	NA
+MACROD1	Mitochondrial Signaling	NA		NA
+MTOR	Mitochondrial Signaling	NA	drug binding; phosphotransferase activity; alcohol group as acceptor; protein kinase activity; protein self-association	NA
+NRD1	Mitochondrial Signaling	NA	metal ion binding; metalloendopeptidase activity; zinc ion binding	NA
+RHOT1	Mitochondrial Signaling	NA	calcium ion binding; GTP binding; GTPase activity	NA
+RHOT2	Mitochondrial Signaling	NA	calcium ion binding; GTP binding; GTPase activity	NA
+SHC1	Mitochondrial Signaling	NA	receptor tyrosine kinase binding	NA
+SIRT1	Mitochondrial Signaling	NA	histone deacetylase activity; NAD+ binding; NAD-dependent histone deacetylase activity; transcription factor binding	NA
+SIRT4	Mitochondrial Signaling	NA	NAD+ binding	NA
+SRC	Mitochondrial Signaling	NA	ATP binding; protein tyrosine kinase activity	NA
+ARG2	Nitrogen Metabolism	NA	arginase activity; metal ion binding	NA
+CA5A	Nitrogen Metabolism	NA	carbonate dehydratase activity	NA
+CPS1	Nitrogen Metabolism	NA	amino acid binding; aspartate carbamoyltransferase activity; ATP binding; carbamoyl-phosphate synthase (ammonia) activity; carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity; dihydroorotase activity; glutamine binding; metal ion binding	NA
+DDAH1	Nitrogen Metabolism	NA	dimethylargininase activity	NA
+ADSL	Nucleotide Metabolism	NA	N6-(1; 2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	NA
+AK3	Nucleotide Metabolism	NA	adenylate kinase activity; ATP binding; nucleoside triphosphate adenylate kinase activity	NA
+AK4	Nucleotide Metabolism	NA	adenylate kinase activity; ATP binding; nucleoside triphosphate adenylate kinase activity	NA
+ATIC	Nucleotide Metabolism	NA	IMP cyclohydrolase activity; phosphoribosylaminoimidazolecarboxamide formyltransferase activity	NA
+CTPS2	Nucleotide Metabolism	NA	DNA binding; ATP binding; CTP synthase activity	NA
+DHODH	Nucleotide Metabolism	NA	dihydroorotate dehydrogenase activity; dihydroorotate oxidase activity; flavin adenine dinucleotide binding; FMN binding; glutamate synthase (NADH) activity; glutamate synthase (NADPH) activity; iron ion binding; iron-sulfur cluster binding	NA
+DTYMK	Nucleotide Metabolism	NA	ATP binding; thymidylate kinase activity	NA
+DUT	Nucleotide Metabolism	NA	dUTP diphosphatase activity	NA
+MARC1	Nucleotide Metabolism	NA	catalytic activity; molybdenum ion binding; pyridoxal phosphate binding	NA
+MARC2	Nucleotide Metabolism	NA	catalytic activity; molybdenum ion binding; pyridoxal phosphate binding	NA
+NME6	Nucleotide Metabolism	NA	ATP binding; nucleoside diphosphate kinase activity	NA
+NUDT9	Nucleotide Metabolism	NA	hydrolase activity	NA
+TYMS	Nucleotide Metabolism	NA	thymidylate synthase activity	NA
+ATAD1	Protein Stability & Degradation	NA	ATP binding; ATPase activity; nucleoside-triphosphatase activity	NA
+CLPP	Protein Stability & Degradation	NA	serine-type endopeptidase activity	NA
+DNAJC30	Protein Stability & Degradation	NA	chaperone binding	NA
+LACE1	Protein Stability & Degradation	NA	ATP binding; ATPase activity	NA
+LONP1	Protein Stability & Degradation	NA	ATP binding; ATP-dependent peptidase activity; mitochondrial light strand promoter anti-sense binding; serine-type endopeptidase activity; single-stranded DNA binding; single-stranded RNA binding	NA
+MUL1	Protein Stability & Degradation	NA	ubiquitin-protein ligase activity; zinc ion binding	NA
+NLN	Protein Stability & Degradation	NA	metalloendopeptidase activity	NA
+PARK2	Protein Stability & Degradation	NA	ubiquitin conjugating enzyme binding; ubiquitin-protein ligase activity; zinc ion binding	NA
+PITRM1	Protein Stability & Degradation	NA	metal ion binding; metalloendopeptidase activity	NA
+RNF185	Protein Stability & Degradation	NA	zinc ion binding	NA
+RNF5	Protein Stability & Degradation	NA	zinc ion binding	NA
+UBA1	Protein Stability & Degradation	NA	ATP binding; ubiquitin activating enzyme activity; ubiquitin-protein ligase activity	NA
+XPNPEP3	Protein Stability & Degradation	NA	aminopeptidase activity; dipeptidase activity; dipeptidyl-peptidase activity; manganese ion binding; metalloexopeptidase activity	NA
+ACSS1	Pyruvate Metabolism	NA	acetate-CoA ligase activity; AMP binding	NA
+ADHFE1	Pyruvate Metabolism	NA	metal ion binding; oxidoreductase activity	NA
+ALDH7A1	Pyruvate Metabolism	NA	aldehyde dehydrogenase (NAD) activity	NA
+DLAT	Pyruvate Metabolism	NA	dihydrolipoyllysine-residue acetyltransferase activity	NA
+HAGH	Pyruvate Metabolism	NA	hydroxyacylglutathione hydrolase activity; zinc ion binding	NA
+L2HGDH	Pyruvate Metabolism	NA	oxidoreductase activity	NA
+ME1	Pyruvate Metabolism	NA	malate dehydrogenase (decarboxylating) (NAD+) activity; malate dehydrogenase (decarboxylating) (NADP+) activity; metal ion binding; NAD binding	NA
+ME2	Pyruvate Metabolism	NA	malate dehydrogenase (decarboxylating) (NAD+) activity; malate dehydrogenase (decarboxylating) (NADP+) activity; metal ion binding; NAD binding	NA
+ME3	Pyruvate Metabolism	NA	malate dehydrogenase (decarboxylating) (NAD+) activity; malate dehydrogenase (decarboxylating) (NADP+) activity; metal ion binding; NAD binding	NA
+MPC1	Pyruvate Metabolism	NA	pyruvate transmembrane transporter activity	NA
+MPC2	Pyruvate Metabolism	NA	pyruvate transmembrane transporter activity	NA
+PCK2	Pyruvate Metabolism	NA	GTP binding; phosphoenolpyruvate carboxykinase (GTP) activity	NA
+PDHA1	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) activity	NA
+PDHA2	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) activity	NA
+PDHB	Pyruvate Metabolism	NA	pyruvate dehydrogenase (acetyl-transferring) activity	NA
+PDK1	Pyruvate Metabolism	NA	ATP binding; pyruvate dehydrogenase (acetyl-transferring) kinase activity	NA
+PDK2	Pyruvate Metabolism	NA	ATP binding; pyruvate dehydrogenase (acetyl-transferring) kinase activity	NA
+PDK3	Pyruvate Metabolism	NA	ATP binding; pyruvate dehydrogenase (acetyl-transferring) kinase activity	NA
+PDK4	Pyruvate Metabolism	NA	ATP binding; pyruvate dehydrogenase (acetyl-transferring) kinase activity	NA
+PDP1	Pyruvate Metabolism	NA	[pyruvate dehydrogenase (lipoamide)] phosphatase activity; phosphoprotein phosphatase activity; protein serine/threonine phosphatase activity	NA
+PDP2	Pyruvate Metabolism	NA	[pyruvate dehydrogenase (lipoamide)] phosphatase activity; phosphoprotein phosphatase activity; protein serine/threonine phosphatase activity	NA
+PDPR	Pyruvate Metabolism	NA	[pyruvate dehydrogenase (lipoamide)] phosphatase regulator activity; aminomethyltransferase activity; oxidoreductase activity	NA
+MUTYH	Replication & Transcription	1	MUTYH: Involved in the mitochondrial DNA base excision repair	ENSG00000132781
+YRDC	Replication & Transcription	1	YRDC: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000196449
+RNASEH1	Replication & Transcription	2	RNASEH1: May have role in the removal of RNA primers at the origin of replication on heavy and light strands	ENSG00000171865
+NFE2L2	Replication & Transcription	2	NFE2L2: Regulates the expression of TFB1M and TFB2M which are two mitochondrial transcription factors	ENSG00000116044
+MTERF4	Replication & Transcription	2	MTERF4: Mitochondrial transcription termination factor	ENSG00000122085
+DGOUK	Replication & Transcription	2	DGOUK: Involved in the phosphorylation of recycled deoxyribonucleosides in mitochondria specific for guanosine, adenosine and inosine	ENSG00000114956
+CMPK2	Replication & Transcription	2	CMPK2: Phosphorylates the deoxyribonucleoside mono phosphates specifically on dCMP	ENSG00000134326
+TRMT61B	Replication & Transcription	2	TRMT61B: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000171103
+CREB1	Replication & Transcription	2	CREB1: Promotes the transcription of mitochondrial genes	ENSG00000118260
+QTRTD1	Replication & Transcription	3	QTRTD1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000151576
+PPARGC1A	Replication & Transcription	4	PPARGC1A: Regulates the expression of TFB1M and TFB2M which are two mitochondrial transcription factors	ENSG00000109819
+TERT	Replication & Transcription	5	TERT: Role in the protection of mitochondrial integrity with a suggested role in mt-DNA replication and/or repair	ENSG00000164362
+NSUN2	Replication & Transcription	5	NSUN2: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000037474
+SLC29A1	Replication & Transcription	6	SLC29A1: Equilibrative nucleoside transporter 1 imports recycled deoxyribonucleosides from cytoplasm into mitochondria	ENSG00000112759
+TRMT11	Replication & Transcription	6	TRMT11: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000066651
+CDKAL1	Replication & Transcription	6	CDKAL1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000145996
+NRF1	Replication & Transcription	7	NRF1: Regulates the expression of TFB1M and TFB2M which are two mitochondrial transcription factors	ENSG00000106459
+MTERF1	Replication & Transcription	7	MTERF1: Mitochondrial transcription termination factor	ENSG00000127989
+MTERF3	Replication & Transcription	8	MTERF3: Mitochondrial transcription termination factor	ENSG00000156469
+RRM2B	Replication & Transcription	8	RRM2B: Required for the de novo deoxyribonucloetide synthesis in nonproliferating cells supplying dNTPs to mtDNA synthesis	ENSG00000048392
+RMRP	Replication & Transcription	9	RMRP: RNA component of mitochondrial RNA processing endoribonuclease: cleaves mitochondrial RNA at the priming site of mitochondrial DNA replication	ENSG00000277027
+TRUB2	Replication & Transcription	9	TRUB2: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000167112
+TRMT112	Replication & Transcription	11	TRMT112: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000173113
+PUS3	Replication & Transcription	11	PUS3: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000110060
+UNG	Replication & Transcription	12	UNG: prevent mutagenesis by eliminating uracil from DNA molecules	ENSG00000076248
+MTERF2	Replication & Transcription	12	MTERF2: Mitochondrial transcription termination factor	ENSG00000120832
+APEX1	Replication & Transcription	14	APEX1: Involved in the mitochondrial DNA base excision repair	ENSG00000100823
+RPUSD2	Replication & Transcription	15	RPUSD2: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000166133
+NME4	Replication & Transcription	16	NME4: Shows mitochondrial nucleoside diphosphate kinase activity	ENSG00000103202
+NME3	Replication & Transcription	16	NME3: Shows mitochondrial nucleoside diphosphate kinase activity	ENSG00000103024
+DUS2L	Replication & Transcription	16	DUS2L: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000167264
+LIG3	Replication & Transcription	17	LIG3: involved in the mitochondrial DNA replication and repair	ENSG00000005156
+NTM5	Replication & Transcription	17	NTM5: Pyrimidine 5', 3' deoxyribonucleotidase that dephosphorylates dTMP	ENSG00000205309
+TRMT1	Replication & Transcription	19	TRMT1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000104907
+CDK5RAP1	Replication & Transcription	20	CDK5RAP1: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000101391
+TRMT6	Replication & Transcription	20	TRMT6: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000089195
+ALKBH1	Replication & Transcription	NA	oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen; 2-oxoglutarate as one donor; and incorporation of one atom each of oxygen into both donors	NA
+ATAD3A	Replication & Transcription	NA	ATP binding; nucleoside-triphosphatase activity	NA
+ATAD3B	Replication & Transcription	NA	ATP binding; nucleoside-triphosphatase activity	NA
+C10orf2	Replication & Transcription	NA	5'-3' DNA helicase activity; ATP binding; single-stranded DNA binding	NA
+DHX29	Replication & Transcription	NA	ATP binding; ATP-dependent helicase activity; ATP-dependent RNA helicase activity; G-quadruplex RNA binding; helicase activity	NA
+DNA2	Replication & Transcription	NA	5'-flap endonuclease activity; ATP-dependent DNA helicase activity; single-stranded DNA endodeoxyribonuclease activity; single-stranded DNA-dependent ATPase activity	NA
+ENDOG	Replication & Transcription	NA	endodeoxyribonuclease activity; endoribonuclease activity; endonuclease activity; metal ion binding; nucleic acid binding	NA
+EXOG	Replication & Transcription	NA	hydrolase activity; metal ion binding; nucleic acid binding	NA
+FEN1	Replication & Transcription	NA	DNA binding; endonuclease activity; flap endonuclease activity	NA
+GK	Replication & Transcription	NA	glycerol kinase activity	NA
+GK2	Replication & Transcription	NA	glycerol kinase activity	NA
+LIG1	Replication & Transcription	NA	ATP binding; DNA binding; DNA ligase (ATP) activity	NA
+NIF3L1	Replication & Transcription	NA		NA
+NTHL1	Replication & Transcription	NA	4 iron; 4 sulfur cluster binding; DNA binding; oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity	NA
+PHB	Replication & Transcription	NA		NA
+POLG	Replication & Transcription	NA	3'-5'-exodeoxyribonuclease activity; DNA binding; DNA-directed DNA polymerase activity	NA
+POLG2	Replication & Transcription	NA	DNA-directed DNA polymerase activity	NA
+POLRMT	Replication & Transcription	NA	DNA binding; DNA-directed RNA polymerase activity	NA
+RAD51	Replication & Transcription	NA	ATP binding; damaged DNA binding; DNA-dependent ATPase activity; protein binding; recombinase activity	NA
+SSBP1	Replication & Transcription	NA	single-stranded DNA binding	NA
+SUPV3L1	Replication & Transcription	NA	ATP binding; ATP-dependent RNA helicase activity; nucleic acid binding	NA
+TEFM	Replication & Transcription	NA		NA
+TFAM	Replication & Transcription	NA	sequence-specific DNA binding transcription factor activity	NA
+TFB1M	Replication & Transcription	NA	rRNA (adenine) methyltransferase activity; rRNA (adenine-N6; N6-)-dimethyltransferase activity; transcription cofactor activity	NA
+TFB2M	Replication & Transcription	NA	rRNA (adenine-N6; N6-)-dimethyltransferase activity; transcription cofactor activity	NA
+TK2	Replication & Transcription	NA	ATP binding; deoxynucleoside kinase activity; kinase activity; phosphotransferase activity; alcohol group as acceptor; thymidine kinase activity	NA
+TOP1MT	Replication & Transcription	NA	DNA binding; DNA topoisomerase activity; DNA topoisomerase type I activity; DNA topoisomerase type II (ATP-hydrolyzing) activity; protein kinase activity	NA
+TOP3A	Replication & Transcription	NA	DNA binding; DNA topoisomerase activity; DNA topoisomerase type I activity; zinc ion binding	NA
+APEX2	Replication & Transcription	X	APEX2: Involved in the mitochondrial DNA base excision repair	ENSG00000169188
+TRMT2B	Replication & Transcription	X	TRMT2B: Shows posttranscriptional modifications activity in the human mitochondrial tRNAs	ENSG00000188917
+GCLM	ROS Defense	1	GCLM: Catalyzes the first step reaction which combines cystein and glutamate to form glutamylcysteine	ENSG00000023909
+GLRX2	ROS Defense	1	GLRX2: Involved in the control of mitochndrial protein gluthathionylation	ENSG00000023572
+GCLC	ROS Defense	6	GCLC: Catalyzes the first step reaction which combines cystein and glutamate to form glutamylcysteine	ENSG00000001084
+GSTA1	ROS Defense	6	GSTA1: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or proxide reduction detoxify harmful byproducts	ENSG00000243955
+GSTA2	ROS Defense	6	GSTA2: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or proxide reduction detoxify harmful byproducts	ENSG00000244067
+GSTA4	ROS Defense	6	GSTA4: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or proxide reduction detoxify harmful byproducts	ENSG00000170899
+GSTP1	ROS Defense	11	GSTP1: Mitochondrial gluthathione-S-transferases through gluthothione conjugation or proxide reduction detoxify harmful byproducts	ENSG00000084207
+MPV17L	ROS Defense	16	MPV17L: May have a role in the metabolism of reactive oxygen species	ENSG00000156968
+SCLC25A11	ROS Defense	17	SLC25A11: May be involved in the transport of gluthathione into the mitochondria	ENSG00000108528
+SCLC25A10	ROS Defense	17	SLC25A10: May be involved in the transport of gluthathione into the mitochondria	ENSG00000183048
+GSS	ROS Defense	20	GSS: Catalyzes the formation of gluthathione from glutamylcysteine by combining it with the glycine	ENSG00000100983
+SOD1	ROS Defense	21	SOD1: May be involved in the removal of superoxides in the inter membrane space of mitochondria	ENSG00000142168
+CAT	ROS Defense	NA	catalase activity; heme binding	NA
+GLRX5	ROS Defense	NA	electron carrier activity; protein disulfide oxidoreductase activity	NA
+GPX1	ROS Defense	NA	glutathione peroxidase activity	NA
+GPX4	ROS Defense	NA	glutathione peroxidase activity; peroxidase activity; cis-stilbene-oxide hydrolase activity; epoxide hydrolase activity; juvenile hormone epoxide hydrolase activity	NA
+GSR	ROS Defense	NA	antioxidant activity; flavin adenine dinucleotide binding; glutathione-disulfide reductase activity; NADP binding; protein homodimerization activity; thioredoxin-disulfide reductase activity	NA
+MGST1	ROS Defense	NA	glutathione transferase activity	NA
+MPV17	ROS Defense	NA		NA
+MSRA	ROS Defense	NA	peptide-methionine (S)-S-oxide reductase activity	NA
+MSRB3	ROS Defense	NA	peptide-methionine (R)-S-oxide reductase activity; zinc ion binding	NA
+NUDT2	ROS Defense	NA	bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity	NA
+OGG1	ROS Defense	NA	damaged DNA binding; DNA-(apurinic or apyrimidinic site) lyase activity; oxidized purine nucleobase lesion DNA N-glycosylase activity	NA
+OXR1	ROS Defense	NA		NA
+PARK7	ROS Defense	NA	glyoxalase III activity| protein deglycase activity; transcription coactivator activity	NA
+PRDX1	ROS Defense	NA	antioxidant activity; glutathione peroxidase activity; peroxidase activity; thioredoxin peroxidase activity	NA
+PRDX2	ROS Defense	NA	antioxidant activity; glutathione peroxidase activity; peroxidase activity; thioredoxin peroxidase activity	NA
+PRDX3	ROS Defense	NA	antioxidant activity; glutathione peroxidase activity; peroxidase activity; thioredoxin peroxidase activity	NA
+PRDX4	ROS Defense	NA	antioxidant activity; glutathione peroxidase activity; peroxidase activity; thioredoxin peroxidase activity	NA
+PRDX5	ROS Defense	NA	antioxidant activity; oxidoreductase activity	NA
+ROMO1	ROS Defense	NA		NA
+SOD2	ROS Defense	NA	antioxidant activity; metal ion binding; superoxide dismutase activity	NA
+TXN	ROS Defense	NA	disulfide oxidoreductase activity; protein disulfide oxidoreductase activity	NA
+TXN2	ROS Defense	NA	disulfide oxidoreductase activity; protein disulfide oxidoreductase activity	NA
+TXNRD1	ROS Defense	NA	antioxidant activity; flavin adenine dinucleotide binding; glutathione-disulfide reductase activity; NADP binding; protein homodimerization activity; thioredoxin-disulfide reductase activity	NA
+TXNRD2	ROS Defense	NA	antioxidant activity; flavin adenine dinucleotide binding; glutathione-disulfide reductase activity; NADP binding; protein homodimerization activity; thioredoxin-disulfide reductase activity	NA
+RNASEL	Translation	1	RNASEL: Modulate the stability of mitochondrial mRNAsby interacting with MTIF2	ENSG00000135828
+YARS	Translation	1	YARS: Aminoacyl-tRNA synthetases that catalyze the aminoacylation of tRNA by their cognate amino acid	ENSG00000134684
+EIF2AK3	Translation	2	EIF2AK3: Metabolic-stress sensing protein kinase that phosphorylates and inactivates the alpha subunit of eukaryotic translation initiation factor 2	ENSG00000172071
+DHX30	Translation	3	DHX30: May be involved in the biogenesis of mitochondrial ribosomes	ENSG00000132153
+MRPS36	Translation	5	MRPS36: Mitoribosome which forms a part of mitochondrial translation machinary	ENSG00000134056
+EIF2AK1	Translation	7	EIF2AK1: Inhibits protein synthesis at the translation initiation level, in response to various stress conditions	ENSG00000086232
+SBDS	Translation	7	SBDS: Required for the assembly of mature ribosomes and ribosome biogenesis	ENSG00000126524
+C12orf65	Translation	12	C12orf65: Codon-independent translation release factor that appears to contribute to peptide chain termination in the mitochondrial translation machinery	ENSG00000130921
+MRPL57	Translation	13	MRPL57: Mitoribosome which forms a part of mitochondrial translation machinary	ENSG00000173141
+MTIF3	Translation	13	MTIF3: Translation initiation factor could assist the mRNA to bind to rRNAs	ENSG00000122033
+AARS	Translation	16	AARS: Alanyl-tRNA synthetase that catalyzes the attachment of alanine to tRNA(Ala)	ENSG00000090861
+RPS19	Translation	19	RPS19: Ribosomal protein required for pre-rRNA processing and maturation of 40S ribosomal subunits	ENSG00000105372
+AARS2	Translation	NA	alanine-tRNA ligase activity; ATP binding; nucleic acid binding	NA
+BPHL	Translation	NA	serine hydrolase activity	NA
+CARS2	Translation	NA	ATP binding; cysteine-tRNA ligase activity	NA
+CCDC58	Translation	NA		NA
+CHCHD1	Translation	NA		NA
+CTU1	Translation	NA	ATP binding; tRNA binding	NA
+DAP3	Translation	NA	structural constituent of ribosome	NA
+DARS2	Translation	NA	aspartate-tRNA ligase activity; ATP binding; nucleic acid binding	NA
+DDX28	Translation	NA	ATP binding; ATP-dependent RNA helicase activity; helicase activity; nucleic acid binding	NA
+DHX29	Translation	NA	ATP binding; ATP-dependent helicase activity; helicase activity; metal ion binding; nucleic acid binding	NA
+EARS2	Translation	NA	ATP binding; glutamate-tRNA ligase activity; tRNA binding	NA
+EEFSEC	Translation	NA	GTP binding; GTPase activity; translation elongation factor activity	NA
+ELAC2	Translation	NA	endoribonuclease activity; producing 5'-phosphomonoesters	NA
+ERAL1	Translation	NA	GTP binding	NA
+FARS2	Translation	NA	ATP binding; magnesium ion binding; phenylalanine-tRNA ligase activity; tRNA binding	NA
+FASTKD5	Translation	NA		NA
+FTSJ2	Translation	NA	rRNA (uridine-2'-O-)-methyltransferase activity	NA
+GADD45GIP1	Translation	NA		NA
+GARS	Translation	NA	ATP binding; glycine-tRNA ligase activity	NA
+GATC	Translation	NA	ATP binding; glutamyl-tRNA synthase (glutamine-hydrolyzing) activity	NA
+GFM1	Translation	NA	GTP binding; GTPase activity; translation elongation factor activity	NA
+GFM2	Translation	NA	GTP binding; GTPase activity; translation elongation factor activity	NA
+GLYAT;	Translation	NA	N-acetyltransferase activity	NA
+GLYATL2	Translation	NA	N-acetyltransferase activity	NA
+GLYATL3	Translation	NA	N-acetyltransferase activity	NA
+GTPBP10	Translation	NA	GTP binding; GTPase activity; magnesium ion binding	NA
+GTPBP3	Translation	NA	GTP binding; GTPase activity	NA
+GTPBP5	Translation	NA	GTP binding; GTPase activity; magnesium ion binding	NA
+GUF1	Translation	NA	GTP binding; GTPase activity; translation elongation factor activity	NA
+HARS2	Translation	NA	ATP binding; histidine-tRNA ligase activity	NA
+HEMK1	Translation	NA	nucleic acid binding; oxygen-dependent protoporphyrinogen oxidase activity; protein methyltransferase activity	NA
+HRSP12	Translation	NA	deaminase activity	NA
+HSD17B10	Translation	NA	3-hydroxyacyl-CoA dehydrogenase activity; 7-beta-hydroxysteroid dehydrogenase (NADP+) activity; acetoacetyl-CoA reductase activity; estradiol 17-beta-dehydrogenase activity; steroid dehydrogenase activity; testosterone dehydrogenase (NAD+) activity	NA
+IARS2	Translation	NA	aminoacyl-tRNA editing activity; ATP binding; isoleucine-tRNA ligase activity	NA
+ICT1	Translation	NA	translation release factor activity	NA
+KARS	Translation	NA	ATP binding; lysine-tRNA ligase activity; nucleic acid binding	NA
+KIAA0391	Translation	NA		NA
+LACTB2	Translation	NA	hydrolase activity	NA
+LARS2	Translation	NA	aminoacyl-tRNA editing activity; ATP binding; leucine-tRNA ligase activity	NA
+LRPPRC	Translation	NA	mRNA 3'-UTR binding	NA
+MALSU1	Translation	NA		NA
+MARS2	Translation	NA	ATP binding; methionine-tRNA ligase activity	NA
+METTL17	Translation	NA	copper ion binding; methyltransferase activity	NA
+MPV17L2	Translation	NA	mitochondrial ribosome assembly	NA
+MRP63	Translation	NA		NA
+MRPL1	Translation	NA	RNA binding; structural constituent of ribosome	NA
+MRPL10	Translation	NA	structural constituent of ribosome	NA
+MRPL11	Translation	NA	structural constituent of ribosome	NA
+MRPL12	Translation	NA	chromatin binding; structural constituent of ribosome	NA
+MRPL13	Translation	NA	structural constituent of ribosome	NA
+MRPL14	Translation	NA	structural constituent of ribosome	NA
+MRPL15	Translation	NA	structural constituent of ribosome	NA
+MRPL16	Translation	NA	rRNA binding; structural constituent of ribosome	NA
+MRPL17	Translation	NA	structural constituent of ribosome	NA
+MRPL18	Translation	NA	structural constituent of ribosome	NA
+MRPL19	Translation	NA	structural constituent of ribosome	NA
+MRPL2	Translation	NA	structural constituent of ribosome	NA
+MRPL20	Translation	NA	rRNA binding; structural constituent of ribosome	NA
+MRPL21	Translation	NA	RNA binding; structural constituent of ribosome	NA
+MRPL22	Translation	NA	structural constituent of ribosome	NA
+MRPL23	Translation	NA	nucleotide binding; structural constituent of ribosome	NA
+MRPL24	Translation	NA	structural constituent of ribosome	NA
+MRPL27	Translation	NA	structural constituent of ribosome	NA
+MRPL28	Translation	NA	structural constituent of ribosome	NA
+MRPL3	Translation	NA	structural constituent of ribosome	NA
+MRPL30	Translation	NA	structural constituent of ribosome	NA
+MRPL32	Translation	NA	structural constituent of ribosome	NA
+MRPL33	Translation	NA	structural constituent of ribosome	NA
+MRPL34	Translation	NA	structural constituent of ribosome	NA
+MRPL35	Translation	NA	structural constituent of ribosome	NA
+MRPL36	Translation	NA	structural constituent of ribosome	NA
+MRPL37	Translation	NA	structural constituent of ribosome	NA
+MRPL38	Translation	NA	phosphatidylethanolamine binding; structural constituent of ribosome	NA
+MRPL39	Translation	NA	nucleotide binding; structural constituent of ribosome; threonine-tRNA ligase activity	NA
+MRPL4	Translation	NA	structural constituent of ribosome	NA
+MRPL40	Translation	NA	structural constituent of ribosome	NA
+MRPL41	Translation	NA	structural constituent of ribosome	NA
+MRPL42	Translation	NA	structural constituent of ribosome	NA
+MRPL43	Translation	NA	structural constituent of ribosome	NA
+MRPL44	Translation	NA	ribonuclease III activity; RNA binding; structural constituent of ribosome	NA
+MRPL45	Translation	NA	structural constituent of ribosome	NA
+MRPL46	Translation	NA	hydrolase activity; structural constituent of ribosome	NA
+MRPL47	Translation	NA	structural constituent of ribosome	NA
+MRPL48	Translation	NA	structural constituent of ribosome	NA
+MRPL49	Translation	NA	structural constituent of ribosome; translation initiation factor activity	NA
+MRPL50	Translation	NA	structural constituent of ribosome	NA
+MRPL51	Translation	NA	structural constituent of ribosome	NA
+MRPL52	Translation	NA	structural constituent of ribosome	NA
+MRPL53	Translation	NA	structural constituent of ribosome	NA
+MRPL54	Translation	NA	structural constituent of ribosome	NA
+MRPL55	Translation	NA	mRNA binding; sequence-specific DNA binding transcription factor activity; structural constituent of ribosome	NA
+MRPL9	Translation	NA	structural constituent of ribosome	NA
+MRPS10	Translation	NA	structural constituent of ribosome	NA
+MRPS11	Translation	NA	structural constituent of ribosome	NA
+MRPS12	Translation	NA	structural constituent of ribosome	NA
+MRPS14	Translation	NA	structural constituent of ribosome	NA
+MRPS15	Translation	NA	structural constituent of ribosome	NA
+MRPS16	Translation	NA	structural constituent of ribosome	NA
+MRPS17	Translation	NA	structural constituent of ribosome	NA
+MRPS18A	Translation	NA	structural constituent of ribosome	NA
+MRPS18B	Translation	NA	structural constituent of ribosome	NA
+MRPS18C	Translation	NA	structural constituent of ribosome	NA
+MRPS2	Translation	NA	structural constituent of ribosome	NA
+MRPS21	Translation	NA	structural constituent of ribosome	NA
+MRPS22	Translation	NA	structural constituent of ribosome	NA
+MRPS23	Translation	NA	structural constituent of ribosome	NA
+MRPS24	Translation	NA	structural constituent of ribosome	NA
+MRPS25	Translation	NA	structural constituent of ribosome	NA
+MRPS26	Translation	NA	structural constituent of ribosome	NA
+MRPS27	Translation	NA	sequence-specific DNA binding transcription factor activity	NA
+MRPS28	Translation	NA	structural constituent of ribosome	NA
+MRPS30	Translation	NA	structural constituent of ribosome	NA
+MRPS31	Translation	NA	structural constituent of ribosome	NA
+MRPS33	Translation	NA	structural constituent of ribosome	NA
+MRPS34	Translation	NA	structural constituent of ribosome	NA
+MRPS35	Translation	NA	structural constituent of ribosome	NA
+MRPS5	Translation	NA	RNA binding; structural constituent of ribosome	NA
+MRPS6	Translation	NA	rRNA binding; structural constituent of ribosome	NA
+MRPS7	Translation	NA	RNA binding; structural constituent of ribosome	NA
+MRPS9	Translation	NA	structural constituent of ribosome	NA
+MRRF	Translation	NA	ribosomal large subunit binding	NA
+mTErf3	Translation	NA	double-stranded DNA binding; single -stranded RNA binding; small ribosomal subunit rRNA binding	NA
+mTerf4	Translation	NA	double-stranded DNA binding; rRNA binding; single-stranded RNA binding	NA
+MTERFD1	Translation	NA	double-stranded DNA binding; single -stranded RNA binding; small ribosomal subunit rRNA binding	NA
+MTERFD2	Translation	NA	double-stranded DNA binding; rRNA binding; single-stranded RNA binding	NA
+MTFMT	Translation	NA	methionyl-tRNA formyltransferase activity	NA
+MTG1	Translation	NA	GTP binding; GTPase activity	NA
+MTIF2	Translation	NA	GTP binding; GTPase activity; translation initiation factor activity	NA
+MTO1	Translation	NA	flavin adenine dinucleotide binding	NA
+MTPAP	Translation	NA		NA
+MTRF1	Translation	NA	translation release factor activity; codon specific	NA
+MTRF1L	Translation	NA	translation release factor activity; codon specific	NA
+NARS	Translation	NA	aspartate-tRNA ligase activity; asparagine-tRNA ligase activity; ATP binding; nucleic acid binding	NA
+NARS2	Translation	NA	aspartate-tRNA ligase activity; asparagine-tRNA ligase activity; ATP binding; nucleic acid binding	NA
+NOA1	Translation	NA	GTP binding; GTPase activity	NA
+NSUN3	Translation	NA	methyltransferase activity	NA
+NSUN4	Translation	NA	methyltransferase activity	NA
+OSGEPL1	Translation	NA		NA
+PARS2	Translation	NA	ATP binding; glycine-tRNA ligase activity; proline-tRNA ligase activity	NA
+PDE12	Translation	NA		NA
+PET112	Translation	NA	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity	NA
+PIN4	Translation	NA	peptidyl-prolyl cis-trans isomerase activity	NA
+PNKD	Translation	NA		NA
+PNPT1	Translation	NA	3'-5'-exoribonuclease activity; polyribonucleotide nucleotidyltransferase activity; RNA binding	NA
+PPA2	Translation	NA	inorganic diphosphatase activity; magnesium ion binding	NA
+PSTK	Translation	NA		NA
+PTCD1	Translation	NA	poly(A) RNA binding	NA
+PTCD3	Translation	NA		NA
+PTRH2	Translation	NA	aminoacyl-tRNA hydrolase activity	NA
+PUS1	Translation	NA	pseudouridine synthase activity; pseudouridylate synthase activity; RNA binding	NA
+PUSL1	Translation	NA	pseudouridine synthase activity; RNA binding	NA
+QARS	Translation	NA	ATP binding; glutamine-tRNA ligase activity	NA
+QRSL1	Translation	NA	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity	NA
+QTRT1	Translation	NA	queuine tRNA-ribosyltransferase activity	NA
+RARS	Translation	NA	arginine-tRNA ligase activity; ATP binding	NA
+RARS2	Translation	NA	arginine-tRNA ligase activity; ATP binding	NA
+RBFA	Translation	NA		NA
+REXO2	Translation	NA	3'-5'-exoribonuclease activity; exonuclease activity; nucleic acid binding; oligonucleotidase activity	NA
+RMND1	Translation	NA		NA
+RNMTL1	Translation	NA	RNA binding; RNA methyltransferase activity	NA
+RPUSD4	Translation	NA	diaminohydroxyphosphoribosylaminopyrimidine deaminase activity; pseudouridine synthase activity; RNA binding	NA
+SARS	Translation	NA	ATP binding; serine-tRNA ligase activity	NA
+SARS2	Translation	NA	ATP binding; serine-tRNA ligase activity; tRNA binding	NA
+SLIRP	Translation	NA	mRNA binding; nucleic acid binding; nucleotide binding	NA
+TACO1	Translation	NA	protein phosphatase 1 binding	NA
+TARS2	Translation	NA	ATP binding; threonine-tRNA ligase activity	NA
+THG1L	Translation	NA	magnesium ion binding; tRNA guanylyltransferase activity	NA
+TRIT1	Translation	NA	ATP binding; metal ion binding	NA
+TRMT10C	Translation	NA	methyltransferase activity	NA
+TRMT5	Translation	NA	tRNA (guanine-N1-)-methyltransferase activity; tRNA methyltransferase activity	NA
+TRMU	Translation	NA	sulfurtransferase activity; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase activity	NA
+TRNT1	Translation	NA	polynucleotide adenylyltransferase activity; RNA binding; tRNA nucleotidyltransferase activity	NA
+TSFM	Translation	NA	translation elongation factor activity	NA
+TUFM	Translation	NA	GTP binding; GTPase activity; translation elongation factor activity	NA
+VARS	Translation	NA	aminoacyl-tRNA editing activity; ATP binding; valine-tRNA ligase activity	NA
+VARS2	Translation	NA	aminoacyl-tRNA editing activity; ATP binding; valine-tRNA ligase activity	NA
+WARS2	Translation	NA	ATP binding; tryptophan-tRNA ligase activity	NA
+YARS2	Translation	NA	ATP binding; RNA binding; tyrosine-tRNA ligase activity	NA
+DKC1	Translation	X	DKC1: Has an active role in telomerase stabilization and maintenance	ENSG00000130826
+MT-RNR1	Translation (MT)	MT	MT-RNR1: mitochondrially encoded 12S RNA	ENSG00000211459
+MT-RNR2	Translation (MT)	MT	MT-RNR2: mitochondrially encoded 16S RNA	ENSG00000210082
+MT-TA	Translation (MT)	MT	MT-TA: mitochondrially encoded tRNA alanine	ENSG00000210127
+MT-TC	Translation (MT)	MT	MT-TC: mitochondrially encoded tRNA cysteine	ENSG00000210140
+MT-TD	Translation (MT)	MT	MT-TD: mitochondrially encoded tRNA aspartic acid	ENSG00000210154
+MT-TE	Translation (MT)	MT	MT-TE: mitochondrially encoded tRNA glutamic acid	ENSG00000210194
+MT-TF	Translation (MT)	MT	MT-TF: mitochondrially encoded tRNA phenylalanine	ENSG00000210049
+MT-TG	Translation (MT)	MT	MT-TG: mitochondrially encoded tRNA glycine	ENSG00000210164
+MT-TH	Translation (MT)	MT	MT-TH: mitochondrially encoded tRNA histidine	ENSG00000210176
+MT-TI	Translation (MT)	MT	MT-TI: mitochondrially encoded tRNA isoleucine	ENSG00000210100
+MT-TK	Translation (MT)	MT	MT-TK: mitochondrially encoded tRNA lysine	ENSG00000210156
+MT-TL1	Translation (MT)	MT	MT-TL1: mitochondrially encoded tRNA leucine 1 (UUA/G)	ENSG00000209082
+MT-TL2	Translation (MT)	MT	MT-TL2: mitochondrially encoded tRNA leucine 2 (CUN)	ENSG00000210191
+MT-TM	Translation (MT)	MT	MT-TM: mitochondrially encoded tRNA methionine	ENSG00000210112
+MT-TN	Translation (MT)	MT	MT-TN: mitochondrially encoded tRNA asparagine	ENSG00000210135
+MT-TP	Translation (MT)	MT	MT-TP: mitochondrially encoded tRNA proline	ENSG00000210196
+MT-TQ	Translation (MT)	MT	MT-TQ: mitochondrially encoded tRNA glutamine	ENSG00000210107
+MT-TR	Translation (MT)	MT	MT-TR: mitochondrially encoded tRNA arginine	ENSG00000210174
+MT-TS1	Translation (MT)	MT	MT-TS1: mitochondrially encoded tRNA serine 1 (UCN)	ENSG00000210151
+MT-TS2	Translation (MT)	MT	MT-TS2: mitochondrially encoded tRNA serine 2 (AGU/C)	ENSG00000210184
+MT-TT	Translation (MT)	MT	MT-TT: mitochondrially encoded tRNA threonine	ENSG00000210195
+MT-TV	Translation (MT)	MT	MT-TV: mitochondrially encoded tRNA valine	ENSG00000210077
+MT-TW	Translation (MT)	MT	MT-TW: mitochondrially encoded tRNA tryptophan	ENSG00000210117
+MT-TY	Translation (MT)	MT	MT-TY: mitochondrially encoded tRNA tyrosine	ENSG00000210144
+ABCA12	Transmembrane Transport	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; transporter activity	NA
+ABCA9	Transmembrane Transport	NA	ATP binding; ATPase activity; coupled to transmembrane movement of substances; transporter activity	NA
+ABCE1	Transmembrane Transport	NA	ATP binding; ATPase activity; iron-sulfur cluster binding; ribonuclease inhibitor activity; ribosomal small subunit binding	NA
+ACO2	Tricarboxylic Acid Cycle	NA	4 iron 4 sulfur cluster binding; aconitate hydratase activity	NA
+CS	Tricarboxylic Acid Cycle	NA	citrate (Si)-synthase activity	NA
+DLD	Tricarboxylic Acid Cycle	NA	dihydrolipoyl dehydrogenase activity; flavin adenine dinucleotide binding	NA
+DLST	Tricarboxylic Acid Cycle	NA	dihydrolipoyllysine-residue succinyltransferase activity	NA
+FH	Tricarboxylic Acid Cycle	NA	fumarate hydratase activity	NA
+IDH1	Tricarboxylic Acid Cycle	NA	isocitrate dehydrogenase (NADP+) activity; magnesium ion binding; NAD binding	NA
+IDH2	Tricarboxylic Acid Cycle	NA	isocitrate dehydrogenase (NADP+) activity; magnesium ion binding; NAD binding	NA
+IDH3A	Tricarboxylic Acid Cycle	NA	isocitrate dehydrogenase (NAD+) activity; magnesium ion binding; NAD binding	NA
+IDH3B	Tricarboxylic Acid Cycle	NA	isocitrate dehydrogenase (NAD+) activity; magnesium ion binding; NAD binding	NA
+IDH3G	Tricarboxylic Acid Cycle	NA	isocitrate dehydrogenase (NAD+) activity; magnesium ion binding; NAD binding	NA
+MDH1	Tricarboxylic Acid Cycle	NA	L-malate dehydrogenase activity	NA
+MDH2	Tricarboxylic Acid Cycle	NA	L-malate dehydrogenase activity; malate dehydrogenase activity	NA
+OGDH	Tricarboxylic Acid Cycle	NA	oxoglutarate dehydrogenase (succinyl-transferring) activity; thiamine pyrophosphate binding	NA
+OGDHL	Tricarboxylic Acid Cycle	NA	oxoglutarate dehydrogenase (succinyl-transferring) activity; thiamine pyrophosphate binding	NA
+PPTC7	Tricarboxylic Acid Cycle	NA	catalytic activity	NA
+SUCLA2	Tricarboxylic Acid Cycle	NA	ATP binding; metal ion binding; succinate-CoA ligase (ADP-forming) activity	NA
+SUCLG1	Tricarboxylic Acid Cycle	NA	ATP citrate synthase activity; cofactor binding; succinate-CoA ligase (ADP-forming) activity; succinate-CoA ligase (GDP-forming) activity	NA
+SUCLG2	Tricarboxylic Acid Cycle	NA	ATP binding; metal ion binding; succinate-CoA ligase (ADP-forming) activity	NA
+BRP44	Tricarboxylic Acid Cycle	1	BRP44: Mitochondrial pyruvate carrier 2	ENSG00000143158
+BRP44L	Tricarboxylic Acid Cycle	6	BRP44L: Mitochondrial pyruvate carrier 1	ENSG00000060762
+PDHX	Tricarboxylic Acid Cycle	11	PDHX: Catalyzes the conversion of pyruvate to acetyl coenzyme A	ENSG00000110435
+COQ2	Ubiquinone Biosynthesis	NA	4-hydroxybenzoate octaprenyltransferase activity	NA
+COQ3	Ubiquinone Biosynthesis	NA	2-polyprenyl-6-methoxy-1; 4-benzoquinone methyltransferase activity; hexaprenyldihydroxybenzoate methyltransferase activity	NA
+COQ4	Ubiquinone Biosynthesis	NA		NA
+COQ5	Ubiquinone Biosynthesis	NA	2-polyprenyl-6-methoxy-1; 4-benzoquinone methyltransferase activity	NA
+COQ6	Ubiquinone Biosynthesis	NA	flavin adenine dinucleotide binding; oxidoreductase activity; acting on paired donors; with incorporation or reduction of molecular oxygen; NAD(P)H as one donor; and incorporation of one atom of oxygen	NA
+COQ7	Ubiquinone Biosynthesis	NA	metal ion binding; oxidoreductase acitivity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, incorporation of one atom of oxygen	NA
+COQ9	Ubiquinone Biosynthesis	NA	lipid binding	NA
+PDSS1	Ubiquinone Biosynthesis	NA	trans-hexaprenyltranstransferase activity	NA
+PDSS2	Ubiquinone Biosynthesis	NA	trans-hexaprenyltranstransferase activity	NA
+ARG1	Urea Cycle	6	ARG1: Arginase catalyzes the step where Arginine is hydrolyzed to form urea and ornithine	ENSG00000118520
+ASL	Urea Cycle	7	ASL: Argininosuccinate lyase catalyzes the reaction where Argininosuccinate is cleaved of its nitrogen and carbon skeleton forming arginine and fumarate respectively	ENSG00000126522
+OTC	Urea Cycle	X	OTC: Ornithine transcarbamoylase catalyzes the step in which carbamoyl phosphate combines with ornithine to form citruline	ENSG00000036473

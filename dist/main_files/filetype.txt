@@ -1,0 +1,8 @@
+file	filetype
+../main_files/human/aneuploidy-data.txt	Aneuploidy
+../main_files/human/tcga-data.txt	TCGA
+../main_files/fly/DEGENES-data.txt	adrien
+../main_files/fly/FALLEN-data.txt	FALLEN
+../main_files/fly/DGRP-data.txt	DGRP
+../main_files/fly/HEART-data.txt	HEART
+../main_files/fly/DEGENES-data.txt	DEGENES

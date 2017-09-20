@@ -1,0 +1,7 @@
+sampleID	type
+30hFalvs30hWT	Flight Muscle Development
+48hFalvs30hFal	Flight Muscle Development
+48hFalvs30hWT	Flight Muscle Development
+48hFalvs48hWT	Flight Muscle Development
+48hWTvs30hFal	Flight Muscle Development
+48hWTvs30hWT	Flight Muscle Development
