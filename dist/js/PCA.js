@@ -31,7 +31,7 @@ PCA.init = function(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError
     
 };
 
-function drawPCA(data,init){
+function drawPCA(data,init,onError){
     
     filetype = data[0].filetype;
     d3.json("main_files/color.json", function(error,pccolor) {
@@ -179,7 +179,7 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
                 });
                 
                 //call the function to drawPCA
-                drawPCA(result,init);
+                drawPCA(result,init,onError);
             },
             error: function(e){
                 onError(e);
@@ -193,7 +193,7 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
             url: process,  // or just tcga.py
             dataType: "json",    
             success: function (result) {
-                drawPCA(result,init);
+                drawPCA(result,init,onError);
             },
             error: function(e){
                 console.log(e);
@@ -336,8 +336,8 @@ function gridInit(gridDepth,gridWidth,gridHeight){
 
     var labelXZ = createText2D("PC1");
     grid.add(labelXZ);
-       labelXZ.position.x = gridWidth*1.1;
-       labelXZ.position.y = -gridHeight;
+       labelXZ.position.y = -gridHeight*1.1;
+       labelXZ.position.z = gridDepth;
 
     var labelXY = createText2D("PC2");
     grid.add(labelXY);
@@ -346,8 +346,8 @@ function gridInit(gridDepth,gridWidth,gridHeight){
 
     var labelYZ = createText2D("PC3");
     grid.add(labelYZ);
-       labelYZ.position.x = -gridWidth*1.1;
-       labelYZ.position.z = gridDepth;
+       labelYZ.position.x = gridWidth*1.1;
+       labelYZ.position.y = -gridHeight;
 
     pcObj.add(grid);
 }
@@ -372,9 +372,9 @@ function dotsInit(data,attr){
         var geometry = new THREE.SphereBufferGeometry( 3, 32, 32 );
         var material = new THREE.MeshLambertMaterial( { color: new THREE.Color().setRGB( hexToRgb(realcolor).r / 255, hexToRgb(realcolor).g / 255, hexToRgb(realcolor).b / 255 ) } );
         var particle = new THREE.Mesh( geometry, material );
-        particle.position.x = data[i].PC1;
-        particle.position.z = data[i].PC2;
-        particle.position.y = data[i].PC3;
+        particle.position.x = data[i].PC1_scaled;
+        particle.position.z = data[i].PC2_scaled;
+        particle.position.y = data[i].PC3_scaled;
         particle.sampleID = data[i].sampleID;
         particle.url = data[i].url;
         particle.PC1 = format(data[i].PC1);
@@ -789,9 +789,9 @@ PCdata.init = function (indata,attr,pccolor,cat) {
     var prdata = indata;
     
     prdata.forEach(function (d) {
-            d.PC1 = xScale(d.PC1);
-            d.PC2 = zScale(d.PC2);
-            d.PC3 = yScale(d.PC3);
+            d.PC1_scaled = xScale(d.PC1);
+            d.PC2_scaled = zScale(d.PC2);
+            d.PC3_scaled = yScale(d.PC3);
         });
     
     var sorting = function(a,b) {return d3.ascending(a[attr[i]], b[attr[i]]);};

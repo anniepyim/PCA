@@ -122,8 +122,8 @@ function gridInit(gridDepth,gridWidth,gridHeight){
 
     var labelXZ = createText2D("PC1");
     grid.add(labelXZ);
-       labelXZ.position.x = gridWidth*1.1;
-       labelXZ.position.y = -gridHeight;
+       labelXZ.position.y = -gridHeight*1.1;
+       labelXZ.position.z = gridDepth;
 
     var labelXY = createText2D("PC2");
     grid.add(labelXY);
@@ -132,8 +132,8 @@ function gridInit(gridDepth,gridWidth,gridHeight){
 
     var labelYZ = createText2D("PC3");
     grid.add(labelYZ);
-       labelYZ.position.x = -gridWidth*1.1;
-       labelYZ.position.z = gridDepth;
+       labelYZ.position.x = gridWidth*1.1;
+       labelYZ.position.y = -gridHeight;
 
     pcObj.add(grid);
 }
@@ -158,9 +158,9 @@ function dotsInit(data,attr){
         var geometry = new THREE.SphereBufferGeometry( 3, 32, 32 );
         var material = new THREE.MeshLambertMaterial( { color: new THREE.Color().setRGB( hexToRgb(realcolor).r / 255, hexToRgb(realcolor).g / 255, hexToRgb(realcolor).b / 255 ) } );
         var particle = new THREE.Mesh( geometry, material );
-        particle.position.x = data[i].PC1;
-        particle.position.z = data[i].PC2;
-        particle.position.y = data[i].PC3;
+        particle.position.x = data[i].PC1_scaled;
+        particle.position.z = data[i].PC2_scaled;
+        particle.position.y = data[i].PC3_scaled;
         particle.sampleID = data[i].sampleID;
         particle.url = data[i].url;
         particle.PC1 = format(data[i].PC1);

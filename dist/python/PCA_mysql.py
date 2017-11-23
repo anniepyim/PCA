@@ -91,6 +91,9 @@ X = pca.transform(X)
 pcadf = pd.DataFrame(X,columns=['PC1','PC2','PC3'],index=y).reset_index()
 pcadf.rename(columns={'index': "sampleID"}, inplace=True)
 
+if set(['Description','Reference']).issubset(info.columns):
+    info.drop(['Description','Reference'], axis=1,inplace=True)
+
 if info.empty == False:
     pcadf = pd.merge(pcadf,info,on='sampleID',how='inner')
 else:
@@ -128,7 +131,7 @@ for proc in mitoproc:
 
         pcadf2 = pd.DataFrame(X,columns=['PC1','PC2','PC3'],index=y).reset_index()
         pcadf2.rename(columns={'index': "sampleID"}, inplace=True)
-
+        
         if info.empty == False:
             pcadf2 = pd.merge(pcadf2,info,on='sampleID',how='inner')
         else:

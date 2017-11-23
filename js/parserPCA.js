@@ -58,7 +58,7 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
                 });
                 
                 //call the function to drawPCA
-                drawPCA(result,init);
+                drawPCA(result,init,onError);
             },
             error: function(e){
                 onError(e);
@@ -72,7 +72,7 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
             url: process,  // or just tcga.py
             dataType: "json",    
             success: function (result) {
-                drawPCA(result,init);
+                drawPCA(result,init,onError);
             },
             error: function(e){
                 console.log(e);

@@ -36,9 +36,9 @@ PCdata.init = function (indata,attr,pccolor,cat) {
     var prdata = indata;
     
     prdata.forEach(function (d) {
-            d.PC1 = xScale(d.PC1);
-            d.PC2 = zScale(d.PC2);
-            d.PC3 = yScale(d.PC3);
+            d.PC1_scaled = xScale(d.PC1);
+            d.PC2_scaled = zScale(d.PC2);
+            d.PC3_scaled = yScale(d.PC3);
         });
     
     var sorting = function(a,b) {return d3.ascending(a[attr[i]], b[attr[i]]);};

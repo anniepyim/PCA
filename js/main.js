@@ -15,7 +15,7 @@ PCA.init = function(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError
     
 };
 
-function drawPCA(data,init){
+function drawPCA(data,init,onError){
     
     filetype = data[0].filetype;
     d3.json("main_files/color.json", function(error,pccolor) {
