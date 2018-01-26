@@ -18,6 +18,7 @@ var gridDepth = 100,
 var rotate = true, mouseflag = 0;
 var container,
     pcacanvas;
+var sidebarWidth = document.getElementById("sidebar").offsetWidth;
 
 var pcPlot = function (obj) {
 if (obj instanceof pcPlot) return obj;
@@ -35,6 +36,9 @@ function sceneInit(){
     container = document.getElementById( 'pca' );
     pcacanvas = document.getElementById( 'pcacanvas' );
     
+    canvasdl = document.getElementById('canvasDownload');
+    ctx = canvasdl.getContext("2d");
+
     scene = new THREE.Scene();
 
     var light = new THREE.DirectionalLight( 0xffffff, 0.5 );
@@ -307,6 +311,8 @@ function render() {
       }
       INTERSECTED = null;
     }
+
+    ctx.drawImage(renderer.domElement, sidebarWidth, 0);
 
 }
 

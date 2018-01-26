@@ -18,7 +18,7 @@
         <!-- Page Content -->     
         <div class="container main">
             <div id="#wrapUp" class="row">
-                <div class = "col-md-2">
+                <div class = "col-md-2" id="sidebar">
                     <!-- the group div --> 
                     <div class="col-md-12 group-div" style="margin-top:10px;display:">
                         <select class="selectpicker" id="groups" data-style="btn-default" title="Create Groups" data-width="150px">
@@ -34,7 +34,10 @@
                     
                     <div class="col-md-12" id="warning" style="margin-top:10px">
                         </div>
-                    <div class="row tip" style="margin-top:0px;"></div>   
+                    <div class="row tip" style="margin-top:0px;"></div>
+                    <div class="col-md-12" style="margin-top:10px;text-align: center">
+                        <button id = "downloadsvg" class="btn btn-success">Download</button>
+                    </div>   
                 </div>
                 <div class="col-md-10">
                     <div id = "svgs-all" class="col-md-12">
@@ -43,7 +46,7 @@
             </div>
         </div>
     </div>   
-        
+    <canvas width=1000 height = 700 id="canvasDownload" style="display:none"></canvas>
     <script src="./js/PCA.js" ></script>
     <script>
         var json = ["HCT116-21-3-c1","HCT116-21-3-c3","HCT116-5-4","HCT116-8-3-c3","HCT116-8-3-c4","RPE-21-3-c1"],
@@ -78,6 +81,56 @@
         }
 
         PCA.init(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError);
-    </script> 
+    </script>
+    <script src = "./js/html2canvas.js"></script>
+        <script>
+            var c = document.getElementById("canvasDownload");
+
+            function downloadImage(){
+                var a = document.createElement('a');
+                // toDataURL defaults to png, so we need to request a jpeg, then convert for file download.
+                a.href = c.toDataURL("image/png");
+                a.download = 'somefilename.png';
+                a.click();
+            }
+
+            $("#downloadsvg").click(function(){
+
+                sidebarWidth = document.getElementById("sidebar").offsetWidth
+                sidebarHeight = document.getElementById("sidebar").offsetHeight
+
+                pcbarchartWidth = document.getElementById("pcbarchart").offsetWidth
+                pcbarchartHeight = document.getElementById("pcbarchart").offsetHeight
+
+                pcacanvas = document.getElementById("pcacanvas")
+                pcacanvasWidth = pcacanvas.width
+                pcacanvasHeight = pcacanvas.height
+
+                //check the width and height of the canvas element
+
+                canvasWidth = sidebarWidth + pcacanvasWidth + pcbarchartWidth
+                canvasHeight = sidebarHeight > pcbarchartHeight ? (sidebarHeight > pcacanvasHeight ? sidebarHeight : pcacanvasHeight) : (pcbarchartHeight > pcacanvasHeight ? pcbarchartHeight : pcacanvasHeight)
+
+                //set the width and height accordingly
+                c.width = canvasWidth
+                c.height = canvasHeight
+
+                var ctx = c.getContext("2d");
+                ctx.fillStyle = "white";
+                ctx.fillRect(0, 0, c.width, c.height);
+
+                html2canvas(document.querySelector("#sidebar"),{scale:1}).then(sidebarImage => {
+                    //draw sidebar
+                    ctx.drawImage(sidebarImage,0,0);
+                });
+
+                html2canvas(document.querySelector("#pcbarchart"),{scale:1}).then(pcbarchart => {
+                    //draw sidebar
+                    ctx.drawImage(pcbarchart,sidebarWidth+pcacanvasWidth,0);
+                    downloadImage();
+                });
+            })
+
+        </script> 
     </body>
 </html>

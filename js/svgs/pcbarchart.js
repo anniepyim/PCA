@@ -97,6 +97,7 @@ PCBC.draw = function (indata,pccolor,cat,svgname,panelname) {
           .attr("y", barH / 2)
           .attr("dy", ".35em")
           .text(function(d) { return d.key+" ("+d.count+")"; })
+          .style("font-size","20px")
           .on("click", function(d){
                 var currentOpacity = d3.select(this.parentNode).select('line').style('opacity');
                 currentOpacity = (currentOpacity == 0) ? 1 : 0;

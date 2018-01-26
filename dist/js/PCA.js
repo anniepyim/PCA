@@ -232,6 +232,7 @@ var gridDepth = 100,
 var rotate = true, mouseflag = 0;
 var container,
     pcacanvas;
+var sidebarWidth = document.getElementById("sidebar").offsetWidth;
 
 var pcPlot = function (obj) {
 if (obj instanceof pcPlot) return obj;
@@ -249,6 +250,9 @@ function sceneInit(){
     container = document.getElementById( 'pca' );
     pcacanvas = document.getElementById( 'pcacanvas' );
     
+    canvasdl = document.getElementById('canvasDownload');
+    ctx = canvasdl.getContext("2d");
+
     scene = new THREE.Scene();
 
     var light = new THREE.DirectionalLight( 0xffffff, 0.5 );
@@ -522,6 +526,8 @@ function render() {
       INTERSECTED = null;
     }
 
+    ctx.drawImage(renderer.domElement, sidebarWidth, 0);
+
 }
 
 pcPlot.init = function(){
@@ -652,6 +658,7 @@ PCBC.draw = function (indata,pccolor,cat,svgname,panelname) {
           .attr("y", barH / 2)
           .attr("dy", ".35em")
           .text(function(d) { return d.key+" ("+d.count+")"; })
+          .style("font-size","20px")
           .on("click", function(d){
                 var currentOpacity = d3.select(this.parentNode).select('line').style('opacity');
                 currentOpacity = (currentOpacity == 0) ? 1 : 0;
