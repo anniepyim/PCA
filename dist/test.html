@@ -1,0 +1,83 @@
+<html>
+<head>
+        <link href="./css/style.css" rel="stylesheet" >
+        
+        <script src="./js/jquery-1.12.4.min.js"></script>
+        <script src="./js/bootstrap.min.js"></script>
+        <script src="./js/bootstrap-select.js"></script>
+
+</head>
+<body>
+<div class="col-md-12">
+                    <div id="svgs-all" class="col-md-12"><div id="pca" class="col-md-9"><canvas id="pcacanvas" width="669" height="669" style="width: 669px; height: 669px;"></canvas></div>
+<div id="pcbarchart" class="col-md-3">
+    <div class="col-md-12 midtitle" style="margin-top:20px;">
+        Show PCA by Processes
+    </div>
+    <div class="col-md-12" style="margin-top:10px;">
+        <select class="selectpicker bs-select-hidden" id="pcafolders" data-style="btn-default" title="Pick process" data-width="175px"><option class="bs-title-option" value="">Pick process</option><option value="./data/user_uploads/test/PCA/All Processes-pca.json">All Processes</option><option value="./data/user_uploads/test/PCA/Amino Acid Metabolism-pca.json">Amino Acid Metabolism</option><option value="./data/user_uploads/test/PCA/Apoptosis-pca.json">Apoptosis</option><option value="./data/user_uploads/test/PCA/Bile Acid Synthesis-pca.json">Bile Acid Synthesis</option><option value="./data/user_uploads/test/PCA/Calcium Signaling and Transport-pca.json">Calcium Signaling and Transport</option><option value="./data/user_uploads/test/PCA/Cardiolipin Biosynthesis-pca.json">Cardiolipin Biosynthesis</option><option value="./data/user_uploads/test/PCA/Electron Transport Chain (MT)-pca.json">Electron Transport Chain (MT)</option><option value="./data/user_uploads/test/PCA/Electron Transport Chain-pca.json">Electron Transport Chain</option><option value="./data/user_uploads/test/PCA/Fatty Acid Biosynthesis and Elongation-pca.json">Fatty Acid Biosynthesis and Elongation</option><option value="./data/user_uploads/test/PCA/Fatty Acid Degradation and Beta-oxidation-pca.json">Fatty Acid Degradation and Beta-oxidation</option><option value="./data/user_uploads/test/PCA/Fatty Acid Metabolism-pca.json">Fatty Acid Metabolism</option><option value="./data/user_uploads/test/PCA/Fe-S cluster biosynthesis-pca.json">Fe-S cluster biosynthesis</option><option value="./data/user_uploads/test/PCA/Folate and Pterine Metabolism-pca.json">Folate and Pterine Metabolism</option><option value="./data/user_uploads/test/PCA/Glycolysis-pca.json">Glycolysis</option><option value="./data/user_uploads/test/PCA/Heme Biosynthesis-pca.json">Heme Biosynthesis</option><option value="./data/user_uploads/test/PCA/Import and Sorting-pca.json">Import and Sorting</option><option value="./data/user_uploads/test/PCA/Metabolism of Lipids and Lipoproteins-pca.json">Metabolism of Lipids and Lipoproteins</option><option value="./data/user_uploads/test/PCA/Metabolism of Vitamins and Co-Factors-pca.json">Metabolism of Vitamins and Co-Factors</option><option value="./data/user_uploads/test/PCA/Mitochondrial Carrier-pca.json">Mitochondrial Carrier</option><option value="./data/user_uploads/test/PCA/Mitochondrial Dynamics-pca.json">Mitochondrial Dynamics</option><option value="./data/user_uploads/test/PCA/Mitochondrial Signaling-pca.json">Mitochondrial Signaling</option><option value="./data/user_uploads/test/PCA/Nucleotide Metabolism-pca.json">Nucleotide Metabolism</option><option value="./data/user_uploads/test/PCA/Protein Stability and Degradation-pca.json">Protein Stability and Degradation</option><option value="./data/user_uploads/test/PCA/Pyruvate Metabolism-pca.json">Pyruvate Metabolism</option><option value="./data/user_uploads/test/PCA/Replication and Transcription-pca.json">Replication and Transcription</option><option value="./data/user_uploads/test/PCA/ROS Defense-pca.json">ROS Defense</option><option value="./data/user_uploads/test/PCA/Translation (MT)-pca.json">Translation (MT)</option><option value="./data/user_uploads/test/PCA/Translation-pca.json">Translation</option><option value="./data/user_uploads/test/PCA/Tricarboxylic Acid Cycle-pca.json">Tricarboxylic Acid Cycle</option><option value="./data/user_uploads/test/PCA/Ubiquinone Biosynthesis-pca.json">Ubiquinone Biosynthesis</option></select><div class="btn-group bootstrap-select" style="width: 175px;"><button type="button" class="btn dropdown-toggle btn-default" data-toggle="dropdown" data-id="pcafolders" title="All Processes"><span class="filter-option pull-left">All Processes</span>&nbsp;<span class="caret"></span></button><div class="dropdown-menu open"><ul class="dropdown-menu inner" role="menu"><li data-original-index="1" class="selected"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">All Processes</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="2"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Amino Acid Metabolism</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="3"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Apoptosis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="4"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Bile Acid Synthesis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="5"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Calcium Signaling and Transport</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="6"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Cardiolipin Biosynthesis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="7"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Electron Transport Chain (MT)</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="8"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Electron Transport Chain</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="9"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Fatty Acid Biosynthesis and Elongation</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="10"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Fatty Acid Degradation and Beta-oxidation</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="11"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Fatty Acid Metabolism</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="12"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Fe-S cluster biosynthesis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="13"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Folate and Pterine Metabolism</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="14"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Glycolysis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="15"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Heme Biosynthesis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="16"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Import and Sorting</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="17"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Metabolism of Lipids and Lipoproteins</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="18"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Metabolism of Vitamins and Co-Factors</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="19"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mitochondrial Carrier</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="20"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mitochondrial Dynamics</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="21"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Mitochondrial Signaling</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="22"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Nucleotide Metabolism</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="23"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Protein Stability and Degradation</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="24"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Pyruvate Metabolism</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="25"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Replication and Transcription</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="26"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">ROS Defense</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="27"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Translation (MT)</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="28"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Translation</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="29"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Tricarboxylic Acid Cycle</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li><li data-original-index="30"><a tabindex="0" class="" style="" data-tokens="null"><span class="text">Ubiquinone Biosynthesis</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li></ul></div></div>
+    </div>
+    <div class="col-md-12"><hr></div>
+    <div class="col-md-12 midtitle" style="margin-top:0px;margin-bottom:10px;">
+        Color samples by
+    </div>
+    <div class="col-md-12">
+            <div id="pcbcsvg" class="panel-group">
+        <div class="panel panel-default pcbc" id="celllinepanel" style="background: rgb(179, 204, 255) none repeat scroll 0% 0%;">
+    <div class="minititle" style="padding: 10px 10px;">
+        <a data-toggle="collapse" href="#colcelllinepanel">cellline</a>
+    </div>
+    <div id="colcelllinepanel" class="panel-collapse collapse-in">
+        <div class="panel-body svg-container" id="celllinebarchart" style="padding :0px 0px; font-size:20px"><svg class="canvas svg-content-responsive pcbcchild" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 110"><g transform="translate(10,15)"><g transform="translate(0,0)"><rect width="270" height="39" style="fill: rgb(255, 0, 116);"></rect><text x="7" y="20" dy=".35em" style="font-size: 20px; font-family: Montserrat,Arial;">HCT116 (5)</text><line x1="0" y1="0" x2="0" y2="39" stroke-width="5" stroke="#595959" opacity="0"></line></g><g transform="translate(0,40)"><rect width="54" height="39" style="fill: rgb(82, 164, 255);"></rect><text x="7" y="20" dy=".35em" style="font-size: 20px; font-family: Montserrat,Arial;">RPE (1)</text><line x1="0" y1="0" x2="0" y2="39" stroke-width="5" stroke="#595959" opacity="0"></line></g></g></svg></div>
+    </div>
+</div>
+
+ <div class="panel panel-default pcbc" id="typepanel" style="background: white none repeat scroll 0% 0%;">
+    <div class="minititle" style="padding: 10px 10px;">
+        <a data-toggle="collapse" href="#coltypepanel">type</a>
+    </div>
+    <div id="coltypepanel" class="panel-collapse collapse-in">
+        <div class="panel-body svg-container" id="typebarchart" style="padding :0px 0px; font-size:20px"><svg class="canvas svg-content-responsive pcbcchild" preserveAspectRatio="xMinYMin meet" viewBox="0 0 300 150"><g transform="translate(10,15)"><g transform="translate(0,0)"><rect width="270" height="39" style="fill: rgb(164, 255, 82);"></rect><text x="7" y="20" dy=".35em" style="font-size: 20px; font-family: Montserrat,Arial;">21.3 (3)</text><line x1="0" y1="0" x2="0" y2="39" stroke-width="5" stroke="#595959" opacity="0"></line></g><g transform="translate(0,40)"><rect width="90" height="39" style="fill: rgb(255, 255, 102);"></rect><text x="7" y="20" dy=".35em" style="font-size: 20px; font-family: Montserrat,Arial;">5.4 (1)</text><line x1="0" y1="0" x2="0" y2="39" stroke-width="5" stroke="#595959" opacity="0"></line></g><g transform="translate(0,80)"><rect width="180" height="39" style="fill: rgb(255, 117, 26);"></rect><text x="7" y="20" dy=".35em" style="font-size: 20px; font-family: Montserrat,Arial;">8.3 (2)</text><line x1="0" y1="0" x2="0" y2="39" stroke-width="5" stroke="#595959" opacity="0"></line></g></g></svg></div>
+    </div>
+</div>
+
+ </div>
+    </div>
+    <div class="col-md-12" id="criteriabutton"></div>
+    <div class="col-md-12" id="pcbctext" style="display:none">
+    <input id="celllinecriteria" type="text"><input id="typecriteria" type="text"></div>
+</div></div>   
+                </div>
+</div>
+
+<br>
+    <input id="btn-Preview-Image" type="button" value="Preview" />
+    <a id="btn-Convert-Html2Image" href="#">Download</a>
+    <br>
+    <h3>Preview :</h3>
+    <div id="previewImage">
+    </div>
+</body>
+<script src="./js/html2canvas.js"></script>
+<script src="./js/jquery-1.12.4.min.js"></script>
+<script>
+	
+var element = $("#pcbarchart"); // global variable
+var getCanvas; // global variable
+
+    $("#btn-Preview-Image").on('click', function () {
+         html2canvas(element[0]).then(function (canvas) {
+                $("#previewImage").append(canvas);
+                getCanvas = canvas;
+             
+         });
+    });
+    $("#btn-Convert-Html2Image").on('click', function () {
+    var imgageData = getCanvas.toDataURL("image/png");
+    // Now browser starts downloading it instead of just showing it
+    var newData = imgageData.replace(/^data:image\/png/, "data:application/octet-stream");
+    $("#btn-Convert-Html2Image").attr("download", "your_pic_name.png").attr("href", newData);
+});
+
+</script>
+</html>

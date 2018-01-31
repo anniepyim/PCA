@@ -47,7 +47,9 @@
         </div>
     </div>   
     <canvas width=1000 height = 700 id="canvasDownload" style="display:none"></canvas>
-    <script src="./js/PCA.js" ></script>
+    <canvas width=1000 height=700 id="test2" style="display:none"></canvas>
+    <div id="test"></div>
+    <script src="./js/PCA.js"></script>
     <script>
         var json = ["HCT116-21-3-c1","HCT116-21-3-c3","HCT116-5-4","HCT116-8-3-c3","HCT116-8-3-c4","RPE-21-3-c1"],
             sessionid = "test",
@@ -83,6 +85,7 @@
         PCA.init(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError);
     </script>
     <script src = "./js/html2canvas.js"></script>
+    <script src = "./js/saveSvgAsPng.js"></script>
         <script>
             var c = document.getElementById("canvasDownload");
 
@@ -91,7 +94,14 @@
                 // toDataURL defaults to png, so we need to request a jpeg, then convert for file download.
                 a.href = c.toDataURL("image/png");
                 a.download = 'somefilename.png';
-                a.click();
+                //a.click();
+
+                // create a mouse event
+                var event = new MouseEvent('click');
+
+                // dispatching it will open a save as dialog in FF
+                a.dispatchEvent(event);
+
             }
 
             $("#downloadsvg").click(function(){
@@ -100,7 +110,7 @@
                 sidebarHeight = document.getElementById("sidebar").offsetHeight
 
                 pcbarchartWidth = document.getElementById("pcbarchart").offsetWidth
-                pcbarchartHeight = document.getElementById("pcbarchart").offsetHeight
+                pcbarchartHeight = document.getElementById("pcbarchart").offsetHeight+document.getElementById("pcbcsvg").offsetWidth
 
                 pcacanvas = document.getElementById("pcacanvas")
                 pcacanvasWidth = pcacanvas.width
@@ -119,16 +129,22 @@
                 ctx.fillStyle = "white";
                 ctx.fillRect(0, 0, c.width, c.height);
 
-                html2canvas(document.querySelector("#sidebar"),{scale:1}).then(sidebarImage => {
+                html2canvas(document.querySelector("#sidebar")).then(sidebarImage => {
                     //draw sidebar
                     ctx.drawImage(sidebarImage,0,0);
                 });
 
-                html2canvas(document.querySelector("#pcbarchart"),{scale:1}).then(pcbarchart => {
-                    //draw sidebar
-                    ctx.drawImage(pcbarchart,sidebarWidth+pcacanvasWidth,0);
-                    downloadImage();
+                html2canvas(document.querySelector("#pcbarchart")).then(pcbctop => {
+                    ctx.drawImage(pcbctop,sidebarWidth + pcacanvasWidth,0);
+                     
                 });
+
+                html2canvas(document.querySelector("#test2")).then(pcbc => {
+                    ctx.drawImage(pcbc,sidebarWidth + pcacanvasWidth+20,document.getElementById("pcbarchart").offsetHeight);
+                    downloadImage()
+                     
+                });
+
             })
 
         </script> 
