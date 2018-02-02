@@ -132,6 +132,7 @@ function drawCanvas(dataContainer,startHeight) {
 }
 function drawPCA(data,init,onError){
     
+    console.log(data)
     filetype = data[0].filetype;
     d3.json("main_files/color.json", function(error,pccolor) {
         var attr = [],
@@ -173,12 +174,24 @@ function drawPCA(data,init,onError){
         pcPlot.deletedots();
         pcPlot.adddots(prdata,attr);
         
+        $("#pca").click(function(event){
+            if (event.target.getAttribute('id') != "pcacanvas"){
+                
+                $('#rowtip2').empty();
+                INTERSECTED = null;
+                $('#rowtip2').css('display', 'none');
+                $('#rowtip1').css('display', '');
+            }    
+        });  
+
         //Draw canvas for screen capture
         canvasbc = document.getElementById("test2");
         context = canvasbc.getContext("2d");
         startHeight = 0;
         startWidth = 0;
         canvasbc.width = 150;
+
+        context.clearRect(0, 0, canvasbc.width, canvasbc.height);
 
         //IV. DRAW BARCHART with processed data if its a new analysis
         if (init == "all"){

@@ -36,7 +36,7 @@ function sceneInit(){
     container = document.getElementById( 'pca' );
     pcacanvas = document.getElementById( 'pcacanvas' );
     
-    canvasdl = document.getElementById('canvasDownload');
+    canvasdl = document.getElementById('canvasDownloadPCA');
     ctx = canvasdl.getContext("2d");
 
     scene = new THREE.Scene();
@@ -251,7 +251,29 @@ function onDocumentMouseClick( event ) {
 
     raycaster.setFromCamera( mouse, camera );
 
-    var intersects = raycaster.intersectObjects( dots.children ); 
+    var intersects = raycaster.intersectObjects( dots.children );
+
+    if ( intersects.length > 0 ) {
+        $('#rowtip2').css('display', '');
+        $('#rowtip1').css('display', 'none');
+        if ( INTERSECTED ) INTERSECTED.material.emissive.setHex( INTERSECTED.currentHex );
+        INTERSECTED = intersects[ 0 ].object;
+        INTERSECTED.currentHex = INTERSECTED.material.emissive.getHex();
+        INTERSECTED.material.emissive.setHex( 0xff0000 );
+        if (pageEvent.x !== 0 && pageEvent.y !== 0){
+            $('#rowtip2').empty();
+            $('#rowtip2').append(tipTemplate(INTERSECTED));
+        }
+           
+    } else {
+        //INTERSECTED.material.emissive.setHex( INTERSECTED.currentHex );
+        $('#rowtip2').empty();
+        INTERSECTED = null;
+        $('#rowtip2').css('display', 'none');
+        $('#rowtip1').css('display', '');
+
+    }
+
     INTERSECTED = intersects[ 0 ].object;
     
     var dotvalue = INTERSECTED.sampleID;
@@ -263,10 +285,6 @@ function onDocumentMouseClick( event ) {
         var select = document.getElementById(selected);
         select.appendChild(option);
     }
-
-    
-      
-
   }
 
 function onWindowResize(){
@@ -300,19 +318,19 @@ function render() {
             INTERSECTED.currentHex = INTERSECTED.material.emissive.getHex();
             INTERSECTED.material.emissive.setHex( 0xff0000 );
             if (pageEvent.x !== 0 && pageEvent.y !== 0){
-                $('.tip').empty();
-                $('.tip').append(tipTemplate(INTERSECTED));
+                $('#rowtip1').empty();
+                $('#rowtip1').append(tipTemplate(INTERSECTED));
             }
         }   
     } else {
       if ( INTERSECTED ) {
           INTERSECTED.material.emissive.setHex( INTERSECTED.currentHex );
-          $('.tip').empty();
+          $('#rowtip1').empty();
       }
       INTERSECTED = null;
     }
 
-    ctx.drawImage(renderer.domElement, sidebarWidth, 0);
+    ctx.drawImage(renderer.domElement, 0, 0);
 
 }
 

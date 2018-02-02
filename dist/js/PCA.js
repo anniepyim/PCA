@@ -148,6 +148,7 @@ function drawCanvas(dataContainer,startHeight) {
 }
 function drawPCA(data,init,onError){
     
+    console.log(data)
     filetype = data[0].filetype;
     d3.json("main_files/color.json", function(error,pccolor) {
         var attr = [],
@@ -189,12 +190,24 @@ function drawPCA(data,init,onError){
         pcPlot.deletedots();
         pcPlot.adddots(prdata,attr);
         
+        $("#pca").click(function(event){
+            if (event.target.getAttribute('id') != "pcacanvas"){
+                
+                $('#rowtip2').empty();
+                INTERSECTED = null;
+                $('#rowtip2').css('display', 'none');
+                $('#rowtip1').css('display', '');
+            }    
+        });  
+
         //Draw canvas for screen capture
         canvasbc = document.getElementById("test2");
         context = canvasbc.getContext("2d");
         startHeight = 0;
         startWidth = 0;
         canvasbc.width = 150;
+
+        context.clearRect(0, 0, canvasbc.width, canvasbc.height);
 
         //IV. DRAW BARCHART with processed data if its a new analysis
         if (init == "all"){
@@ -375,7 +388,7 @@ function sceneInit(){
     container = document.getElementById( 'pca' );
     pcacanvas = document.getElementById( 'pcacanvas' );
     
-    canvasdl = document.getElementById('canvasDownload');
+    canvasdl = document.getElementById('canvasDownloadPCA');
     ctx = canvasdl.getContext("2d");
 
     scene = new THREE.Scene();
@@ -590,7 +603,29 @@ function onDocumentMouseClick( event ) {
 
     raycaster.setFromCamera( mouse, camera );
 
-    var intersects = raycaster.intersectObjects( dots.children ); 
+    var intersects = raycaster.intersectObjects( dots.children );
+
+    if ( intersects.length > 0 ) {
+        $('#rowtip2').css('display', '');
+        $('#rowtip1').css('display', 'none');
+        if ( INTERSECTED ) INTERSECTED.material.emissive.setHex( INTERSECTED.currentHex );
+        INTERSECTED = intersects[ 0 ].object;
+        INTERSECTED.currentHex = INTERSECTED.material.emissive.getHex();
+        INTERSECTED.material.emissive.setHex( 0xff0000 );
+        if (pageEvent.x !== 0 && pageEvent.y !== 0){
+            $('#rowtip2').empty();
+            $('#rowtip2').append(tipTemplate(INTERSECTED));
+        }
+           
+    } else {
+        //INTERSECTED.material.emissive.setHex( INTERSECTED.currentHex );
+        $('#rowtip2').empty();
+        INTERSECTED = null;
+        $('#rowtip2').css('display', 'none');
+        $('#rowtip1').css('display', '');
+
+    }
+
     INTERSECTED = intersects[ 0 ].object;
     
     var dotvalue = INTERSECTED.sampleID;
@@ -602,10 +637,6 @@ function onDocumentMouseClick( event ) {
         var select = document.getElementById(selected);
         select.appendChild(option);
     }
-
-    
-      
-
   }
 
 function onWindowResize(){
@@ -639,19 +670,19 @@ function render() {
             INTERSECTED.currentHex = INTERSECTED.material.emissive.getHex();
             INTERSECTED.material.emissive.setHex( 0xff0000 );
             if (pageEvent.x !== 0 && pageEvent.y !== 0){
-                $('.tip').empty();
-                $('.tip').append(tipTemplate(INTERSECTED));
+                $('#rowtip1').empty();
+                $('#rowtip1').append(tipTemplate(INTERSECTED));
             }
         }   
     } else {
       if ( INTERSECTED ) {
           INTERSECTED.material.emissive.setHex( INTERSECTED.currentHex );
-          $('.tip').empty();
+          $('#rowtip1').empty();
       }
       INTERSECTED = null;
     }
 
-    ctx.drawImage(renderer.domElement, sidebarWidth, 0);
+    ctx.drawImage(renderer.domElement, 0, 0);
 
 }
 
@@ -1105,7 +1136,7 @@ this["Templates"]["PCA_tooltip"] = Handlebars.template({"1":function(container,d
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div class=\"col-md-12 title\">"
+  return "<div id=\"wrapUp\">\n<div class=\"col-md-12 title\">"
     + alias4(((helper = (helper = helpers.sampleID || (depth0 != null ? depth0.sampleID : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"sampleID","hash":{},"data":data}) : helper)))
     + "</div>\n\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.attrexist : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
@@ -1115,7 +1146,7 @@ this["Templates"]["PCA_tooltip"] = Handlebars.template({"1":function(container,d
     + alias4(((helper = (helper = helpers.PC2 || (depth0 != null ? depth0.PC2 : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"PC2","hash":{},"data":data}) : helper)))
     + "<br>\n    PC3: "
     + alias4(((helper = (helper = helpers.PC3 || (depth0 != null ? depth0.PC3 : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"PC3","hash":{},"data":data}) : helper)))
-    + "\n</div>\n    \n";
+    + "\n</div>\n</div>\n";
 },"useData":true});
 
 if (typeof exports === 'object' && exports) {module.exports = this["Templates"];}

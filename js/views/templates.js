@@ -42,7 +42,7 @@ this["Templates"]["PCA_tooltip"] = Handlebars.template({"1":function(container,d
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
 
-  return "<div class=\"col-md-12 title\">"
+  return "<div id=\"wrapUp\">\n<div class=\"col-md-12 title\">"
     + alias4(((helper = (helper = helpers.sampleID || (depth0 != null ? depth0.sampleID : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"sampleID","hash":{},"data":data}) : helper)))
     + "</div>\n\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.attrexist : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
@@ -52,7 +52,7 @@ this["Templates"]["PCA_tooltip"] = Handlebars.template({"1":function(container,d
     + alias4(((helper = (helper = helpers.PC2 || (depth0 != null ? depth0.PC2 : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"PC2","hash":{},"data":data}) : helper)))
     + "<br>\n    PC3: "
     + alias4(((helper = (helper = helpers.PC3 || (depth0 != null ? depth0.PC3 : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"PC3","hash":{},"data":data}) : helper)))
-    + "\n</div>\n    \n";
+    + "\n</div>\n</div>\n";
 },"useData":true});
 
 if (typeof exports === 'object' && exports) {module.exports = this["Templates"];}

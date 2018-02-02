@@ -13,11 +13,9 @@
     </head>
     
     <body>
-    <!-- Page Content -->
-    <div class = "container" id="content">
+
         <!-- Page Content -->     
-        <div class="container main">
-            <div id="#wrapUp" class="row">
+        <div class="container-fluid main">
                 <div class = "col-md-2" id="sidebar">
                     <!-- the group div --> 
                     <div class="col-md-12 group-div" style="margin-top:10px;display:">
@@ -34,7 +32,8 @@
                     
                     <div class="col-md-12" id="warning" style="margin-top:10px">
                         </div>
-                    <div class="row tip" style="margin-top:0px;"></div>
+                    <div id = "rowtip1" class="row tip" style="margin-top:0px;"></div>
+                    <div id = "rowtip2" class="row tip" style="margin-top:0px"></div>
                     <div class="col-md-12" style="margin-top:10px;text-align: center">
                         <button id = "downloadsvg" class="btn btn-success">Download</button>
                     </div>   
@@ -43,10 +42,10 @@
                     <div id = "svgs-all" class="col-md-12">
                     </div>   
                 </div>
-            </div>
         </div>
-    </div>   
+ 
     <canvas width=1000 height = 700 id="canvasDownload" style="display:none"></canvas>
+    <canvas width=1600 height = 1600 id="canvasDownloadPCA" style="display:none"></canvas>
     <canvas width=1000 height=700 id="test2" style="display:none"></canvas>
     <div id="test"></div>
     <script src="./js/PCA.js"></script>
@@ -129,6 +128,13 @@
                 ctx.fillStyle = "white";
                 ctx.fillRect(0, 0, c.width, c.height);
 
+               $("#canvasDownloadPCA").css("display","block")
+                html2canvas(document.querySelector("#canvasDownloadPCA")).then(pca => {
+                    ctx.drawImage(pca,sidebarWidth,0);
+                    $("#canvasDownloadPCA").css("display","none")
+                     
+                });
+
                 html2canvas(document.querySelector("#sidebar")).then(sidebarImage => {
                     //draw sidebar
                     ctx.drawImage(sidebarImage,0,0);
@@ -139,8 +145,10 @@
                      
                 });
 
+                $("#test2").css("display","block")
                 html2canvas(document.querySelector("#test2")).then(pcbc => {
                     ctx.drawImage(pcbc,sidebarWidth + pcacanvasWidth+20,document.getElementById("pcbarchart").offsetHeight);
+                    $("#test2").css("display","none")
                     downloadImage()
                      
                 });
