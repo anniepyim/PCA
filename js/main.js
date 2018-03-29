@@ -132,7 +132,6 @@ function drawCanvas(dataContainer,startHeight) {
 }
 function drawPCA(data,init,onError){
     
-    console.log(data)
     filetype = data[0].filetype;
     d3.json("main_files/color.json", function(error,pccolor) {
         var attr = [],

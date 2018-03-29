@@ -23,14 +23,14 @@ user = form.getvalue('user')
 passwd = form.getvalue('passwd')
 unix_socket = form.getvalue('unix_socket')
 
-#sampleID = {'group1':['HCT116-21-3-c1', 'HCT116-21-3-c3', 'HCT116-5-4', 'HCT116-5-4-p'],'group2':['HCT116-8-3-c3', 'HCT116-8-3-c4', 'RPE-21-3-c1', 'RPE-21-3-c1-p','RPE-21-3-c2', 'RPE-5-3-12-3-p']}
-#organism = 'Human'
-#sessionid = 'test'
-#host = "localhost"
-#port = 3306
-#user = "root"
-#passwd = ""
-#unix_socket = "/tmp/mysql.sock"
+# sampleID = {'group1':['HCT116-21-3-c1', 'HCT116-21-3-c3', 'HCT116-5-4', 'HCT116-5-4-p'],'group2':['HCT116-8-3-c3', 'HCT116-8-3-c4', 'RPE-21-3-c1', 'RPE-21-3-c1-p','RPE-21-3-c2', 'RPE-5-3-12-3-p']}
+# organism = 'Human'
+# sessionid = 'test'
+# host = "localhost"
+# port = 3306
+# user = "root"
+# passwd = ""
+# unix_socket = "/tmp/mysql.sock"
 
 grouping = pd.DataFrame()
 isGroup = isinstance(sampleID, dict)
@@ -106,10 +106,18 @@ pcadf['filetype'] = filetype
 pcadict = pcadf.to_dict(orient='records')
 pcadf = pcadf.to_json(orient='records')
 
-cmd = "rm -R ../data/user_uploads/" + ''.join(sessionid) + "/PCA/*"
+exist = True
+
+# Generating new directory for storing the results
+while exist == True:
+    newint = np.random.randint(low=10000, high=99999)
+    targeturl = './data/user_uploads/'+sessionid+'/PCA/'+str(newint)+'/'
+    exist = os.path.isdir('.'+targeturl)
+
+cmd = "mkdir ." + targeturl
 os.system(cmd)
 
-with open('../data/user_uploads/'+''.join(sessionid)+'/PCA/All Processes-pca.json', 'w') as fp:
+with open('.'+targeturl+'All Processes-pca.json', 'w') as fp:
     json.dump(pcadict,fp)
 
 #Perform PCA for each process
@@ -142,9 +150,9 @@ for proc in mitoproc:
         pcadf2['filetype'] = filetype
         
         pcadict2 = pcadf2.to_dict(orient='records')
-        with open('../data/user_uploads/'+''.join(sessionid)+'/PCA/'+''.join(proc)+'-pca.json', 'w') as fp:
+        with open('.'+targeturl+proc+'-pca.json', 'w') as fp:
             json.dump(pcadict2,fp)
 
 
-print 'Content-Type: application/json\n\n'
-print (pcadf)
+print 'Content-Type: text/plain\n'
+print (targeturl)

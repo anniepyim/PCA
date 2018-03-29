@@ -148,7 +148,6 @@ function drawCanvas(dataContainer,startHeight) {
 }
 function drawPCA(data,init,onError){
     
-    console.log(data)
     filetype = data[0].filetype;
     d3.json("main_files/color.json", function(error,pccolor) {
         var attr = [],
@@ -271,17 +270,19 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
             url: pyScript, 
             data: parameter,
             type: "POST",
-            dataType: "json",    
+            dataType: "text",    
             success: function (result) {
                 
+                // Somehow python returns the targeturl with newline at the end, so I have to trim it
+                var targeturl = result.trim();
+
                 var el = document.getElementById( svg );
                 while (el.hasChildNodes()) {el.removeChild(el.firstChild);}
                 mainframe.setElement('#'+svg).renderPCA();
                 
 
-                //Retrieve files result from the python+R script runs and 
-                var targeturl = './data/user_uploads/'+sessionid+'/PCA/';
-                var folderurl = '.'+targeturl;
+//Retrieve files result from the python+R script runs and 
+                var folderurl = '.'+targeturl; //tell the next ajax script what is the target url
                 var htmltext = "",
                 value = "",
                 text = "";
@@ -303,7 +304,7 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
 
                     $("#pcafolders").html(htmltext);
                     $('#pcafolders').selectpicker('refresh');
-                    $('#pcafolders').find('[value="./data/user_uploads/'+sessionid+'/PCA/All Processes-pca.json"]').prop('selected',true);
+                    $('#pcafolders').find('[value="'+targeturl+'All Processes-pca.json"]').prop('selected',true);
                     $('#pcafolders').selectpicker('refresh');
                   },
                     error: function(e){
@@ -317,7 +318,19 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
                 });
                 
                 //call the function to drawPCA
-                drawPCA(result,init,onError);
+                var process = targeturl+"All Processes-pca.json";
+
+                jQuery.ajax({
+                    url: process,  // or just tcga.py
+                    dataType: "json",    
+                    success: function (result) {
+                        drawPCA(result,init,onError);
+                    },
+                    error: function(e){
+                        console.log(e);
+                    }
+                });
+
             },
             error: function(e){
                 onError(e);
