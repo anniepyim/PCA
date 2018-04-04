@@ -1,0 +1,7 @@
+dist/python/virenv
+
+#datafiles
+node_modules
+dist/data/user_uploads/*
+dist/data/user_uploads/*/
+dist/data/user_uploads/*/*/

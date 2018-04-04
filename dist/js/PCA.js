@@ -306,6 +306,8 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
                     $('#pcafolders').selectpicker('refresh');
                     $('#pcafolders').find('[value="'+targeturl+'All Processes-pca.json"]').prop('selected',true);
                     $('#pcafolders').selectpicker('refresh');
+
+                    
                   },
                     error: function(e){
                         console.log(e);

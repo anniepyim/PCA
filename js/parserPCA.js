@@ -48,15 +48,16 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
                     $('#pcafolders').selectpicker('refresh');
                     $('#pcafolders').find('[value="'+targeturl+'All Processes-pca.json"]').prop('selected',true);
                     $('#pcafolders').selectpicker('refresh');
+
+                    //Update the PCA plot by calling the functions upon changing folders
+                    $('#pcafolders').on('change',function(){
+                        parse(drawPCA,onError,"folder");
+                    });
+
                   },
                     error: function(e){
                         console.log(e);
                     }
-                });
-
-                //Update the PCA plot by calling the functions upon changing folders
-                $('#pcafolders').on('change',function(){
-                    parse(drawPCA,onError,"folder");
                 });
                 
                 //call the function to drawPCA
