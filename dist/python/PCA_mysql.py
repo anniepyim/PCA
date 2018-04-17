@@ -49,11 +49,11 @@ if (isGroup):
     
 #connecting to mysql database
 conn = pymysql.connect(host=host, port=port, user=user, passwd=passwd, db=organism, unix_socket=unix_socket)
-query = 'SELECT sampleID, gene, log2 FROM target_exp WHERE sampleID in ('+','.join(map("'{0}'".format, sampleID))+') AND userID in ("mitox","'+sessionid+'")'
+query = 'SELECT sampleID, geneID, log2 FROM target_exp WHERE sampleID in ('+','.join(map("'{0}'".format, sampleID))+') AND userID in ("mitox","'+sessionid+'")'
 main = pd.read_sql(query, con=conn)
 query = 'SELECT sampleID, folder FROM file_directory WHERE sampleID in ('+','.join(map("'{0}'".format, sampleID))+') AND userID in ("mitox","'+sessionid+'")'
 file_directory = pd.read_sql(query, con=conn)
-query = 'SELECT gene, process from target'
+query = 'SELECT geneID, process from target'
 genefunc = pd.read_sql(query, con=conn)
 conn.close()
 
@@ -73,9 +73,9 @@ try:
 except:
     info = pd.DataFrame()
 
-main = main.pivot(index='gene',columns='sampleID',values='log2')
+main = main.pivot(index='geneID',columns='sampleID',values='log2')
 main.reset_index(inplace=True)
-main = pd.merge(genefunc,main,on="gene",how='inner')
+main = pd.merge(genefunc,main,on="geneID",how='inner')
 main.dropna(inplace=True,thresh=(len(main.columns)-2)*0.7,axis=0)
 main.fillna(0,inplace=True)
 
@@ -114,7 +114,7 @@ while exist == True:
     targeturl = './data/user_uploads/'+sessionid+'/PCA/'+str(newint)+'/'
     exist = os.path.isdir('.'+targeturl)
 
-cmd = "mkdir ." + targeturl
+cmd = "mkdir -p ." + targeturl
 os.system(cmd)
 
 with open('.'+targeturl+'All Processes-pca.json', 'w') as fp:
