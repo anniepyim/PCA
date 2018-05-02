@@ -193,7 +193,8 @@ function drawPCA(data,init,onError){
         context.clearRect(0, 0, canvasbc.width, canvasbc.height);
 
         //IV. DRAW BARCHART with processed data if its a new analysis
-        if (init == "all"){
+        pcbcsvg = document.getElementById("pcbcsvg");
+        if (!pcbcsvg.hasChildNodes() && attr.length > 0){
 
             var clicking = function(){parserPCA.parse(drawPCA,onError,"update");};
 

@@ -111,17 +111,19 @@ exist = True
 # Generating new directory for storing the results
 while exist == True:
     newint = np.random.randint(low=10000, high=99999)
-    targeturl = './data/user_uploads/'+sessionid+'/PCA/'+str(newint)+'/'
-    exist = os.path.isdir('.'+targeturl)
+    targeturl = './data/user_uploads/'+sessionid+'/PCA/'+str(newint)+'_'
+    exist = os.path.isdir('.'+targeturl+'All Processes-pca.json')
 
-cmd = "mkdir -p ." + targeturl
-os.system(cmd)
+# cmd = "mkdir -p ." + targeturl
+# os.system(cmd)
 
-with open('.'+targeturl+'All Processes-pca.json', 'w') as fp:
+with open('.'+targeturl+'All Processes.json', 'w') as fp:
     json.dump(pcadict,fp)
 
 #Perform PCA for each process
-mitoproc = main['process'].unique()
+mitoproc = sorted(main['process'].unique())
+
+pro_list = [targeturl+'All Processes.json']
 
 for proc in mitoproc:
     subset = main[main['process']==proc]
@@ -150,9 +152,11 @@ for proc in mitoproc:
         pcadf2['filetype'] = filetype
         
         pcadict2 = pcadf2.to_dict(orient='records')
-        with open('.'+targeturl+proc+'-pca.json', 'w') as fp:
+        with open('.'+targeturl+proc+'.json', 'w') as fp:
+            pro_list.append(targeturl+proc+'.json')
             json.dump(pcadict2,fp)
 
+pro_list = json.dumps(pro_list)
 
-print 'Content-Type: text/plain\n'
-print (targeturl)
+print 'Content-Type: application/json\n\n'
+print (pro_list)

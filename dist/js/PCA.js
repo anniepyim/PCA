@@ -209,7 +209,8 @@ function drawPCA(data,init,onError){
         context.clearRect(0, 0, canvasbc.width, canvasbc.height);
 
         //IV. DRAW BARCHART with processed data if its a new analysis
-        if (init == "all"){
+        pcbcsvg = document.getElementById("pcbcsvg");
+        if (!pcbcsvg.hasChildNodes() && attr.length > 0){
 
             var clicking = function(){parserPCA.parse(drawPCA,onError,"update");};
 
@@ -269,69 +270,33 @@ function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
         jQuery.ajax({
             url: pyScript, 
             data: parameter,
-            type: "POST",
-            dataType: "text",    
-            success: function (result) {
+            type: "POST",   
+            success: function (data) {
                 
-                // Somehow python returns the targeturl with newline at the end, so I have to trim it
-                var targeturl = result.trim();
-
                 var el = document.getElementById( svg );
                 while (el.hasChildNodes()) {el.removeChild(el.firstChild);}
                 mainframe.setElement('#'+svg).renderPCA();
                 
-
-//Retrieve files result from the python+R script runs and 
-                var folderurl = '.'+targeturl; //tell the next ajax script what is the target url
-                var htmltext = "",
-                value = "",
-                text = "";
-
-                jQuery.ajax({
-                    type: "POST",
-                    url: "./php/getdirectory.php",
-                    dataType: "json",
-                    data: { folderurl : folderurl },
-                  success: function(data){
-                      
-                      $('#pcafolders').empty();
-                      $.each(data, function(i,filename) {
-                        value = targeturl+filename;
-                        text = filename.split("-pca")[0];
-                        htmltext = htmltext+'<option value=\"'+value+'\">'+text+'</option>';
-
-                    });
-
-                    $("#pcafolders").html(htmltext);
-                    $('#pcafolders').selectpicker('refresh');
-                    $('#pcafolders').find('[value="'+targeturl+'All Processes-pca.json"]').prop('selected',true);
-                    $('#pcafolders').selectpicker('refresh');
-
-                    
-                  },
-                    error: function(e){
-                        console.log(e);
-                    }
+                //Improvement: python data in dictionary with Process name and file name (in processeID instead of name), no need to do the spliting this way
+                var htmltext = "";
+                $('#pcafolders').empty();
+                $.each(data, function(i,url) {
+                    urlbd = url.split("/");
+                    mitoprocess = urlbd[urlbd.length-1].split(".json")[0].split("_")[1];
+                    htmltext = htmltext+'<option value=\"'+url+'\">'+mitoprocess+'</option>';
                 });
+
+                $("#pcafolders").html(htmltext);
+                $('#pcafolders').selectpicker('refresh');
+                $('#pcafolders').find('[value="'+data[0]+'"]').prop('selected',true);
+                $('#pcafolders').selectpicker('refresh');
 
                 //Update the PCA plot by calling the functions upon changing folders
                 $('#pcafolders').on('change',function(){
                     parse(drawPCA,onError,"folder");
                 });
-                
-                //call the function to drawPCA
-                var process = targeturl+"All Processes-pca.json";
 
-                jQuery.ajax({
-                    url: process,  // or just tcga.py
-                    dataType: "json",    
-                    success: function (result) {
-                        drawPCA(result,init,onError);
-                    },
-                    error: function(e){
-                        console.log(e);
-                    }
-                });
+                parse(drawPCA,onError,"folder",parameter,sessionid,svg,pyScript);
 
             },
             error: function(e){
@@ -1114,7 +1079,7 @@ Handlebars = glob.Handlebars || require('handlebars');
 this["Templates"] = this["Templates"] || {};
 
 this["Templates"]["PCA"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    return "<div id=\"pca\" class=\"col-md-9\"></div>\n<div id=\"pcbarchart\" class=\"col-md-3\">\n        <div class=\"col-md-12 midtitle\" style=\"margin-top:20px;\">\n            Show PCA by Processes\n        </div>\n        <div class=\"col-md-12\" style=\"margin-top:10px;\">\n            <select class=\"selectpicker\" id=\"pcafolders\" data-style=\"btn-default\" title=\"Pick process\" data-width=\"175px\">\n            </select>\n        </div>\n        <div class=\"col-md-12\"><hr></div>\n        <div class=\"col-md-12 midtitle\" style=\"margin-top:0px;margin-bottom:10px;\">\n            Color samples by\n        </div>\n</div>\n<div class=\"col-md-3\">\n    <div class=\"col-md-12\">\n            <div id=\"pcbcsvg\" class=\"panel-group\">\n        </div>\n    </div>\n    <div class = \"col-md-12\" id=\"criteriabutton\"></div>\n    <div class = \"col-md-12\" id=\"pcbctext\" style=\"display:none\">\n    </div>\n</div>";
+    return "<div id=\"pca\" class=\"col-md-9\"></div>\n<div id=\"pcbarchart\" class=\"col-md-3\">\n        <div class=\"col-md-12 midtitle\" style=\"margin-top:20px;\">\n            Show PCA by Processes\n        </div>\n        <div class=\"col-md-12\" style=\"margin-top:10px;\">\n            <select class=\"selectpicker\" id=\"pcafolders\" data-style=\"btn-default\" title=\"Pick process\" data-width=\"175px\">\n            </select>\n        </div>\n        <div class=\"col-md-12\"><hr></div>\n        <div class=\"col-md-12 midtitle\" style=\"margin-top:0px;margin-bottom:10px;\">\n            Color samples by\n        </div>\n</div>\n<div class=\"col-md-3\">\n    <div class=\"col-md-12\">\n            <div id=\"pcbcsvg\" class=\"panel-group\"></div>\n    </div>\n    <div class = \"col-md-12\" id=\"criteriabutton\"></div>\n    <div class = \"col-md-12\" id=\"pcbctext\" style=\"display:none\">\n    </div>\n</div>";
 },"useData":true});
 
 this["Templates"]["PCA_barchart"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
