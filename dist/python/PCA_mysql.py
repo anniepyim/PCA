@@ -112,7 +112,7 @@ exist = True
 while exist == True:
     newint = np.random.randint(low=10000, high=99999)
     targeturl = './data/user_uploads/'+sessionid+'/PCA/'+str(newint)+'_'
-    exist = os.path.isdir('.'+targeturl+'All Processes-pca.json')
+    exist = os.path.isdir('.'+targeturl+'All Processes.json')
 
 # cmd = "mkdir -p ." + targeturl
 # os.system(cmd)
