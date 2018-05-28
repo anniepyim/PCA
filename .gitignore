@@ -1,5 +1,6 @@
 #datafiles
 node_modules
+node_modules/*
 data/user_uploads/*
 data/user_uploads/*/
 !data/user_uploads/.gitignore
