@@ -3,8 +3,8 @@ node_modules
 data/user_uploads/*
 data/user_uploads/*/
 !data/user_uploads/.gitignore
-data/user_uploads/test
-data/user_uploads/test/*/
+!data/user_uploads/test
+!data/user_uploads/test/*/
 
 # Compiled source #
 ###################

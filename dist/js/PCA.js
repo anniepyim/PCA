@@ -22,14 +22,14 @@ var PCBC = require('./svgs/pcbarchart.js');
 
 var canvasbc,context,startWidth, startHeight;
 
-PCA.init = function(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError){ 
+PCA.init = function(svg,data_urls,onError){ 
     
-    if (jQuery.isEmptyObject(json)) onError(new Error('Please add samples!'));
-    if ((jsonGroupCount >= 1 && jsonGroupCount < 4) || (json.length >= 1 && json.length < 4)) onError(new Error('Please add at least 4 samples!')); 
+    //if (jQuery.isEmptyObject(json)) onError(new Error('Please add samples!'));
+    //if ((jsonGroupCount >= 1 && jsonGroupCount < 4) || (json.length >= 1 && json.length < 4)) onError(new Error('Please add at least 4 samples!')); 
     
     var init = "all";
 
-    parserPCA.parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript);
+    parserPCA.parse(drawPCA,onError,init,svg,data_urls);
     
 };
 
@@ -101,7 +101,7 @@ function drawCustom(cat,pccolor,indata,startHeight,startWidth) {
     .attr("y", function(d,i){return i*barH + 5+ barH/2 + startHeight+BARmargin.top;})
     .text(function(d) { return d.key+" ("+d.count+")"; });
 
-  drawCanvas(dataContainer,startHeight);
+  //drawCanvas(dataContainer,startHeight);
 
   return svgHeight + startHeight;
 }
@@ -200,13 +200,13 @@ function drawPCA(data,init,onError){
         });  
 
         //Draw canvas for screen capture
-        canvasbc = document.getElementById("test2");
-        context = canvasbc.getContext("2d");
-        startHeight = 0;
-        startWidth = 0;
-        canvasbc.width = 150;
+        // canvasbc = document.getElementById("test2");
+        // context = canvasbc.getContext("2d");
+        // startHeight = 0;
+        // startWidth = 0;
+        // canvasbc.width = 150;
 
-        context.clearRect(0, 0, canvasbc.width, canvasbc.height);
+        // context.clearRect(0, 0, canvasbc.width, canvasbc.height);
 
         //IV. DRAW BARCHART with processed data if its a new analysis
         pcbcsvg = document.getElementById("pcbcsvg");
@@ -262,64 +262,45 @@ mainframe = new mainframe();
 
 function parserPCA(){}
 
-function parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript){
+function parse(drawPCA,onError,init,svg,data_urls){
     
     if(init == "all"){
         
-        //RUN python script that calls R script to do PCA analysis
-        jQuery.ajax({
-            url: pyScript, 
-            data: parameter,
-            type: "POST",   
-            success: function (data) {
-                
-                var el = document.getElementById( svg );
-                while (el.hasChildNodes()) {el.removeChild(el.firstChild);}
-                mainframe.setElement('#'+svg).renderPCA();
-                
-                //Improvement: python data in dictionary with Process name and file name (in processeID instead of name), no need to do the spliting this way
-                var htmltext = "";
-                $('#pcafolders').empty();
-                $.each(data, function(i,url) {
-                    urlbd = url.split("/");
-                    mitoprocess = urlbd[urlbd.length-1].split(".json")[0].split("_")[1];
-                    htmltext = htmltext+'<option value=\"'+url+'\">'+mitoprocess+'</option>';
-                });
-
-                $("#pcafolders").html(htmltext);
-                $('#pcafolders').selectpicker('refresh');
-                $('#pcafolders').find('[value="'+data[0]+'"]').prop('selected',true);
-                $('#pcafolders').selectpicker('refresh');
-
-                //Update the PCA plot by calling the functions upon changing folders
-                $('#pcafolders').on('change',function(){
-                    parse(drawPCA,onError,"folder");
-                });
-
-                parse(drawPCA,onError,"folder",parameter,sessionid,svg,pyScript);
-
-            },
-            error: function(e){
-                onError(e);
-            }
+        var el = document.getElementById( svg );
+        while (el.hasChildNodes()) {el.removeChild(el.firstChild);}
+        mainframe.setElement('#'+svg).renderPCA();
+        
+        //Improvement: python data in dictionary with Process name and file name (in processeID instead of name), no need to do the spliting this way
+        var htmltext = "";
+        $('#pcafolders').empty();
+        $.each(data_urls, function(i,url) {
+            urlbd = url.split("/");
+            mitoprocess = urlbd[urlbd.length-1].split(".json")[0];
+            htmltext = htmltext+'<option value=\"'+url+'\">'+mitoprocess+'</option>';
         });
+
+        $("#pcafolders").html(htmltext);
+        $('#pcafolders').selectpicker('refresh');
+        $('#pcafolders').find('[value="'+data_urls[0]+'"]').prop('selected',true);
+        $('#pcafolders').selectpicker('refresh');
+
+        //Update the PCA plot by calling the functions upon changing folders
+        $('#pcafolders').on('change',function(){
+            parse(drawPCA,onError,"folder");
+        });
+
+        parse(drawPCA,onError,"folder");
         
     }else{
-        var process = $("#pcafolders option:selected").val();
+        var target_url = $("#pcafolders option:selected").val();
 
-        jQuery.ajax({
-            url: process,  // or just tcga.py
-            dataType: "json",    
-            success: function (result) {
-                drawPCA(result,init,onError);
-            },
-            error: function(e){
-                console.log(e);
-            }
+        d3.json(target_url, function(error, data){
+
+            if (error) onError(new Error(error));
+
+            drawPCA(data,init,onError);
         });
     }
-    
-
     
 }
 
@@ -368,8 +349,8 @@ function sceneInit(){
     container = document.getElementById( 'pca' );
     pcacanvas = document.getElementById( 'pcacanvas' );
     
-    canvasdl = document.getElementById('canvasDownloadPCA');
-    ctx = canvasdl.getContext("2d");
+    // canvasdl = document.getElementById('canvasDownloadPCA');
+    // ctx = canvasdl.getContext("2d");
 
     scene = new THREE.Scene();
 
@@ -610,13 +591,13 @@ function onDocumentMouseClick( event ) {
     
     var dotvalue = INTERSECTED.sampleID;
     
-    if ($("#"+selected+" option[value='"+dotvalue+"']").length === 0){    
-        var option = document.createElement("option");
-        option.text = INTERSECTED.sampleID;
-        option.value = INTERSECTED.sampleID;
-        var select = document.getElementById(selected);
-        select.appendChild(option);
-    }
+    // if ($("#"+selected+" option[value='"+dotvalue+"']").length === 0){    
+    //     var option = document.createElement("option");
+    //     option.text = INTERSECTED.sampleID;
+    //     option.value = INTERSECTED.sampleID;
+    //     var select = document.getElementById(selected);
+    //     select.appendChild(option);
+    // }
   }
 
 function onWindowResize(){
@@ -662,7 +643,7 @@ function render() {
       INTERSECTED = null;
     }
 
-    ctx.drawImage(renderer.domElement, 0, 0);
+    //ctx.drawImage(renderer.domElement, 0, 0);
 
 }
 

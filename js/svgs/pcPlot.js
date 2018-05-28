@@ -36,8 +36,8 @@ function sceneInit(){
     container = document.getElementById( 'pca' );
     pcacanvas = document.getElementById( 'pcacanvas' );
     
-    canvasdl = document.getElementById('canvasDownloadPCA');
-    ctx = canvasdl.getContext("2d");
+    // canvasdl = document.getElementById('canvasDownloadPCA');
+    // ctx = canvasdl.getContext("2d");
 
     scene = new THREE.Scene();
 
@@ -278,13 +278,13 @@ function onDocumentMouseClick( event ) {
     
     var dotvalue = INTERSECTED.sampleID;
     
-    if ($("#"+selected+" option[value='"+dotvalue+"']").length === 0){    
-        var option = document.createElement("option");
-        option.text = INTERSECTED.sampleID;
-        option.value = INTERSECTED.sampleID;
-        var select = document.getElementById(selected);
-        select.appendChild(option);
-    }
+    // if ($("#"+selected+" option[value='"+dotvalue+"']").length === 0){    
+    //     var option = document.createElement("option");
+    //     option.text = INTERSECTED.sampleID;
+    //     option.value = INTERSECTED.sampleID;
+    //     var select = document.getElementById(selected);
+    //     select.appendChild(option);
+    // }
   }
 
 function onWindowResize(){
@@ -330,7 +330,7 @@ function render() {
       INTERSECTED = null;
     }
 
-    ctx.drawImage(renderer.domElement, 0, 0);
+    //ctx.drawImage(renderer.domElement, 0, 0);
 
 }
 

@@ -8,7 +8,7 @@
         
         <script src="./js/jquery-1.12.4.min.js"></script>
         <script src="./js/bootstrap.min.js"></script>
-        <script src="./js/bootstrap-select.js"></script>
+        <script src="./js/bootstrap-select.min.js"></script>
         <link rel="icon" type="image/png" href="img/logos/favicon.png">
     </head>
     
@@ -17,63 +17,42 @@
         <!-- Page Content -->     
         <div class="container-fluid main">
                 <div class = "col-md-2" id="sidebar">
-                    <!-- the group div --> 
-                    <div class="col-md-12 group-div" style="margin-top:10px;display:">
-                        <select class="selectpicker" id="groups" data-style="btn-default" title="Create Groups" data-width="150px">
-                        </select>
-                    </div>
-                    <!--box to store selected data --> 
-                    <div class="col-md-12 selectionbox" style="margin-top:10px" id="selected-sample_div">
-                        <form id="form1">
-                            <select name="file_list" SIZE="4" class="selectionlist" MULTIPLE id="selected-sample" style="width: 150px;font-size: 14px">
-                            </select>
-                        </form>
-                        </div>
-                    
-                    <div class="col-md-12" id="warning" style="margin-top:10px">
-                        </div>
                     <div id = "rowtip1" class="row tip" style="margin-top:0px;"></div>
-                    <div id = "rowtip2" class="row tip" style="margin-top:0px"></div>
-                    <div class="col-md-12" style="margin-top:10px;text-align: center">
-                        <button id = "downloadsvg" class="btn btn-success">Download</button>
-                    </div>   
+                    <div id = "rowtip2" class="row tip" style="margin-top:0px"></div> 
                 </div>
                 <div class="col-md-10">
                     <div id = "svgs-all" class="col-md-12">
                     </div>   
                 </div>
         </div>
- 
-    <canvas width=1000 height = 700 id="canvasDownload" style="display:none"></canvas>
-    <canvas width=1600 height = 1600 id="canvasDownloadPCA" style="display:none"></canvas>
-    <canvas width=1000 height=700 id="test2" style="display:none"></canvas>
-    <div id="test"></div>
     <script src="./js/PCA.js"></script>
     <script>
-        var json = ["HCT116-21-3-c1","HCT116-21-3-c3","HCT116-5-4","HCT116-8-3-c3","HCT116-8-3-c4","RPE-21-3-c1"],
-            sessionid = "test",
-            organism = "Human",
-            host = "localhost",
-            port = "3306",
-            user = "root",
-            passwd = "",
-            unix_socket = "/tmp/mysql.sock";
+        // var json = ["HCT116-21-3-c1","HCT116-21-3-c3","HCT116-5-4","HCT116-8-3-c3","HCT116-8-3-c4","RPE-21-3-c1"],
+        //     sessionid = "test",
+        //     organism = "Human",
+        //     host = "localhost",
+        //     port = "3306",
+        //     user = "root",
+        //     passwd = "",
+        //     unix_socket = "/tmp/mysql.sock";
 
-        var parameter = 'jsons=' + JSON.stringify(json) + '&organism='+ organism +'&sessionid='+ sessionid + '&host='+host + '&port='+port + '&user='+user + '&passwd='+passwd + '&unix_socket='+unix_socket;
+        // var parameter = 'jsons=' + JSON.stringify(json) + '&organism='+ organism +'&sessionid='+ sessionid + '&host='+host + '&port='+port + '&user='+user + '&passwd='+passwd + '&unix_socket='+unix_socket;
+
+        // var pyScript = "./python/PCA_mysql.py";
+        
+        // var jsonGroupCount = 0;
 
         var svg = "svgs-all";
 
-        var pyScript = "./python/PCA_mysql.py";
-        
-        var jsonGroupCount = 0;
+        var data_urls = ['./data/All Processes.json','./data/Amino Acid Metabolism.json','./data/Apoptosis.json','./data/Bile Acid Synthesis.json','./data/Calcium Signaling and Transport.json','./data/Electron Transport Chain.json','./data/Fatty Acid Biosynthesis and Elongation.json','./data/Fatty Acid Degradation and Beta-oxidation.json','./data/./data/Fatty Acid Metabolism.json','./data/Fe-S cluster biosynthesis.json','./data/Folate and Pterine Metabolism.json','./data/Glycolysis.json','./data/Heme Biosynthesis.json','./data/Import and Sorting.json','./data/Metabolism of Lipids and Lipoproteins.json','./data/Metabolism of Vitamins and Co-Factors.json','./data/Mitochondrial Carrier.json','./data/Mitochondrial Dynamics.json','./data/Mitochondrial Signaling.json','./data/Nucleotide Metabolism.json','./data/Protein Stability and Degradation.json','./data/Pyruvate Metabolism.json','./data/ROS Defense.json','./data/Replication and Transcription.json','./data/Translation.json','./data/Tricarboxylic Acid Cycle.json','./data/Ubiquinone Biosynthesis.json']
         
         //Add loading gif here
-        var el = document.getElementById( svg );
-        while (el.hasChildNodes()) {el.removeChild(el.firstChild);}
-        var div = document.createElement('div');
-        div.setAttribute("align", "center");
-        div.innerHTML ='<img id="loading" src="./img/loading.gif">';
-        el.appendChild(div);
+        // var el = document.getElementById( svg );
+        // while (el.hasChildNodes()) {el.removeChild(el.firstChild);}
+        // var div = document.createElement('div');
+        // div.setAttribute("align", "center");
+        // div.innerHTML ='<img id="loading" src="./img/loading.gif">';
+        // el.appendChild(div);
         
         function onError(res) {
             d3.select('#loading').remove();
@@ -81,11 +60,9 @@
             throw new Error("Something went badly wrong!");
         }
 
-        PCA.init(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError);
+        PCA.init(svg,data_urls,onError);
     </script>
-    <script src = "./js/html2canvas.js"></script>
-    <script src = "./js/saveSvgAsPng.js"></script>
-        <script>
+        <!--<script>
             var c = document.getElementById("canvasDownload");
 
             function downloadImage(){
@@ -155,6 +132,6 @@
 
             })
 
-        </script> 
+        </script>-->
     </body>
 </html>

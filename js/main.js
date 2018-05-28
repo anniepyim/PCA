@@ -6,14 +6,14 @@ var PCBC = require('./svgs/pcbarchart.js');
 
 var canvasbc,context,startWidth, startHeight;
 
-PCA.init = function(json,jsonGroupCount,sessionid,parameter,svg,pyScript,onError){ 
+PCA.init = function(svg,data_urls,onError){ 
     
-    if (jQuery.isEmptyObject(json)) onError(new Error('Please add samples!'));
-    if ((jsonGroupCount >= 1 && jsonGroupCount < 4) || (json.length >= 1 && json.length < 4)) onError(new Error('Please add at least 4 samples!')); 
+    //if (jQuery.isEmptyObject(json)) onError(new Error('Please add samples!'));
+    //if ((jsonGroupCount >= 1 && jsonGroupCount < 4) || (json.length >= 1 && json.length < 4)) onError(new Error('Please add at least 4 samples!')); 
     
     var init = "all";
 
-    parserPCA.parse(drawPCA,onError,init,parameter,sessionid,svg,pyScript);
+    parserPCA.parse(drawPCA,onError,init,svg,data_urls);
     
 };
 
@@ -85,7 +85,7 @@ function drawCustom(cat,pccolor,indata,startHeight,startWidth) {
     .attr("y", function(d,i){return i*barH + 5+ barH/2 + startHeight+BARmargin.top;})
     .text(function(d) { return d.key+" ("+d.count+")"; });
 
-  drawCanvas(dataContainer,startHeight);
+  //drawCanvas(dataContainer,startHeight);
 
   return svgHeight + startHeight;
 }
@@ -184,13 +184,13 @@ function drawPCA(data,init,onError){
         });  
 
         //Draw canvas for screen capture
-        canvasbc = document.getElementById("test2");
-        context = canvasbc.getContext("2d");
-        startHeight = 0;
-        startWidth = 0;
-        canvasbc.width = 150;
+        // canvasbc = document.getElementById("test2");
+        // context = canvasbc.getContext("2d");
+        // startHeight = 0;
+        // startWidth = 0;
+        // canvasbc.width = 150;
 
-        context.clearRect(0, 0, canvasbc.width, canvasbc.height);
+        // context.clearRect(0, 0, canvasbc.width, canvasbc.height);
 
         //IV. DRAW BARCHART with processed data if its a new analysis
         pcbcsvg = document.getElementById("pcbcsvg");
